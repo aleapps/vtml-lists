@@ -81,8 +81,8 @@
 		<vtml-itemcategory>Locales</vtml-itemcategory>
 	</vtml-mediaitem>
 	<vtml-mediaitem>
-		<vtml-itemid>Canal 4 Posadas (Stream 1)</vtml-itemid>
-		<vtml-itemname>[MEDIANAME]</vtml-itemname>    
+		<vtml-itemid>11</vtml-itemid>
+		<vtml-itemname>Canal 4 Posadas (Stream 1)</vtml-itemname>    
 		<vtml-itemcover>https://aleapps.github.io/vtml-lists/vtml-logos/4Pos.png</vtml-itemcover>
 		<vtml-itemurl>http://184.154.28.210:1935/canal4/canal4/playlist.m3u8</vtml-itemurl>
 		<vtml-itemdescription>Canal de TV de Argentina</vtml-itemdescription>
