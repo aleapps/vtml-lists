@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<vtml-list>
+	<vtml-mediaitem>
+		<vtml-itemid>1</vtml-itemid>
+		<vtml-itemname>TV Argentina</vtml-itemname>    
+		<vtml-itemcover>https://aleapps.github.io/vtml-lists/vtml-listcovers/tvargentina.png</vtml-itemcover>
+		<vtml-itemurl>https://aleapps.github.io/vtml-lists/tvargentina.vml1</vtml-itemurl>
+		<vtml-itemdescription>Canales de TV de Argentina en vivo</vtml-itemdescription>
+		<vtml-itemcategory>TV en vivo</vtml-itemcategory>
+	</vtml-mediaitem>
+	<vtml-mediaitem>
+		<vtml-itemid>2</vtml-itemid>
+		<vtml-itemname>Capitulos de Bob Patiño</vtml-itemname>    
+		<vtml-itemcover>https://raw.githubusercontent.com/listas-videotime/lista-simpson/main/Robert_Terwilliger.png</vtml-itemcover>
+		<vtml-itemurl>https://listas-videotime.github.io/lista-simpson/Simpson_BobPatino.vml1</vtml-itemurl>
+		<vtml-itemdescription>Todos los capítulos de Los Simpson de Bob Patiño</vtml-itemdescription>
+		<vtml-itemcategory>Dibujos animados</vtml-itemcategory>
+	</vtml-mediaitem>
+</vtml-lists>
