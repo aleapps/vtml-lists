@@ -685,7 +685,7 @@
 		<vtml-itemname>France 24 en Español</vtml-itemname>    
 		<vtml-itemcover>https://aleapps.github.io/vtml-lists/vtml-logos/France24ES.png</vtml-itemcover>
 		<vtml-itemurl>http://f24hls-i.akamaihd.net/hls/live/520845/F24_ES_HI_HLS/master.m3u8</vtml-itemurl>
-		<vtml-itemdescription>Canal de TV de Argentina</vtml-itemdescription>
+		<vtml-itemdescription>Canal de TV de Francia</vtml-itemdescription>
 		<vtml-itemcategory>Internacionales</vtml-itemcategory>
 	</vtml-mediaitem>
 	<vtml-mediaitem>
@@ -693,7 +693,7 @@
 		<vtml-itemname>RT en Español</vtml-itemname>    
 		<vtml-itemcover>https://aleapps.github.io/vtml-lists/vtml-logos/RT.png</vtml-itemcover>
 		<vtml-itemurl>https://rt-esp-gd.secure2.footprint.net/1102.m3u8</vtml-itemurl>
-		<vtml-itemdescription>Canal de TV de Argentina</vtml-itemdescription>
+		<vtml-itemdescription>Canal de TV de Rusia</vtml-itemdescription>
 		<vtml-itemcategory>Internacionales</vtml-itemcategory>
 	</vtml-mediaitem>
 	<vtml-mediaitem>
@@ -701,7 +701,7 @@
 		<vtml-itemname>Telesur (Stream 1 SD)</vtml-itemname>    
 		<vtml-itemcover>https://aleapps.github.io/vtml-lists/vtml-logos/Telesur.png</vtml-itemcover>
 		<vtml-itemurl>https://cdnesmain.telesur.ultrabase.net/mbliveMain/480p/playlist.m3u8</vtml-itemurl>
-		<vtml-itemdescription>Canal de TV de Argentina</vtml-itemdescription>
+		<vtml-itemdescription>Canal de TV de Venezuela</vtml-itemdescription>
 		<vtml-itemcategory>Internacionales</vtml-itemcategory>
 	</vtml-mediaitem>
 	<vtml-mediaitem>
@@ -709,7 +709,7 @@
 		<vtml-itemname>Telesur (Stream 2 SD)</vtml-itemname>    
 		<vtml-itemcover>https://aleapps.github.io/vtml-lists/vtml-logos/Telesur.png</vtml-itemcover>
 		<vtml-itemurl>https://cdnesmain.telesur.ultrabase.net/mbliveMain/480p/chunklist.m3u8</vtml-itemurl>
-		<vtml-itemdescription>Canal de TV de Argentina</vtml-itemdescription>
+		<vtml-itemdescription>Canal de TV de Venezuela</vtml-itemdescription>
 		<vtml-itemcategory>Internacionales</vtml-itemcategory>
 	</vtml-mediaitem>
 	<vtml-mediaitem>
@@ -717,7 +717,7 @@
 		<vtml-itemname>Telesur (Stream 1 HD)</vtml-itemname>    
 		<vtml-itemcover>https://aleapps.github.io/vtml-lists/vtml-logos/Telesur.png</vtml-itemcover>
 		<vtml-itemurl>https://cdnesmain.telesur.ultrabase.net/mbliveMain/hd/playlist.m3u8</vtml-itemurl>
-		<vtml-itemdescription>Canal de TV de Argentina</vtml-itemdescription>
+		<vtml-itemdescription>Canal de TV de Venezuela</vtml-itemdescription>
 		<vtml-itemcategory>Internacionales</vtml-itemcategory>
 	</vtml-mediaitem>
 	<vtml-mediaitem>
@@ -725,7 +725,7 @@
 		<vtml-itemname>Telesur (Stream 2 HD)</vtml-itemname>    
 		<vtml-itemcover>https://aleapps.github.io/vtml-lists/vtml-logos/Telesur.png</vtml-itemcover>
 		<vtml-itemurl>https://cdnesmain.telesur.ultrabase.net/mbliveMain/hd/chunklist.m3u8</vtml-itemurl>
-		<vtml-itemdescription>Canal de TV de Argentina</vtml-itemdescription>
+		<vtml-itemdescription>Canal de TV de Venezuela</vtml-itemdescription>
 		<vtml-itemcategory>Internacionales</vtml-itemcategory>
 	</vtml-mediaitem>
 </vtml-list>
