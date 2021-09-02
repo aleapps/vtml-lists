@@ -314,17 +314,17 @@
 	</vtml-mediaitem>
 	<vtml-mediaitem>
 		<vtml-itemid>40</vtml-itemid>
-		<vtml-itemname>CN3 Pinamar</vtml-itemname>    
+		<vtml-itemname>CN3 Pinamar (Stream 1)</vtml-itemname>    
 		<vtml-itemcover>https://aleapps.github.io/vtml-lists/vtml-logos/CN3.png</vtml-itemcover>
-		<vtml-itemurl>https://wowza.telpin.com.ar:1935/canal3/canal3.stream/playlist.m3u8</vtml-itemurl>
+		<vtml-itemurl>http://www.intelintec.com.ar:9090/hls/canal3pinamar.m3u8</vtml-itemurl>
 		<vtml-itemdescription>Canal de TV de Argentina</vtml-itemdescription>
 		<vtml-itemcategory>Locales</vtml-itemcategory>
 	</vtml-mediaitem>
 	<vtml-mediaitem>
 		<vtml-itemid>41</vtml-itemid>
-		<vtml-itemname>CPE TV</vtml-itemname>    
-		<vtml-itemcover>https://aleapps.github.io/vtml-lists/vtml-logos/CPETV.png</vtml-itemcover>
-		<vtml-itemurl>https://dcunilive28-lh.akamaihd.net/i/dclive_1@533583/master.m3u8</vtml-itemurl>
+		<vtml-itemname>CN3 Pinamar (Stream 2)</vtml-itemname>    
+		<vtml-itemcover>https://aleapps.github.io/vtml-lists/vtml-logos/CN3.png</vtml-itemcover>
+		<vtml-itemurl>https://wowza.telpin.com.ar:1935/canal3/canal3.stream/playlist.m3u8</vtml-itemurl>
 		<vtml-itemdescription>Canal de TV de Argentina</vtml-itemdescription>
 		<vtml-itemcategory>Locales</vtml-itemcategory>
 	</vtml-mediaitem>
