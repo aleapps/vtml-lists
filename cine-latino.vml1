@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <vtml-list>
 	<vtml-mediaitem>
-		<vtml-itemid>1</vtml-itemid>
 		<vtml-itemname>Luca</vtml-itemname>    
 		<vtml-itemcover>https://aleapps.github.io/vtml-lists/covers/LucaDisneyPlus.jpg</vtml-itemcover>
 		<vtml-itemurl>https://archive.org/download/videotime-cine-latino/Luca.mp4</vtml-itemurl>
@@ -9,7 +8,6 @@
 		<vtml-itemcategory>Peliculas animadas</vtml-itemcategory>
 	</vtml-mediaitem>
 	<vtml-mediaitem>
-		<vtml-itemid>2</vtml-itemid>
 		<vtml-itemname>Soul</vtml-itemname>    
 		<vtml-itemcover>https://aleapps.github.io/vtml-lists/covers/Soul_Poster.jpg</vtml-itemcover>
 		<vtml-itemurl>https://archive.org/download/videotime-cine-latino/Soul.mp4</vtml-itemurl>
@@ -17,7 +15,6 @@
 		<vtml-itemcategory>Peliculas animadas</vtml-itemcategory>
 	</vtml-mediaitem>
 	<vtml-mediaitem>
-		<vtml-itemid>3</vtml-itemid>
 		<vtml-itemname>Spider-Man: Un nuevo universo</vtml-itemname>    
 		<vtml-itemcover>https://aleapps.github.io/vtml-lists/covers/SV_Poster.jpg</vtml-itemcover>
 		<vtml-itemurl>https://archive.org/download/videotime-cine-latino/Spider-Man%20-%20Un%20nuevo%20universo.mp4</vtml-itemurl>
@@ -25,7 +22,6 @@
 		<vtml-itemcategory>Peliculas animadas</vtml-itemcategory>
 	</vtml-mediaitem>
 	<vtml-mediaitem>
-		<vtml-itemid>4</vtml-itemid>
 		<vtml-itemname>Los Simpson: La pelicula</vtml-itemname>    
 		<vtml-itemcover>https://aleapps.github.io/vtml-lists/covers/Simpsonsmovie.jpg</vtml-itemcover>
 		<vtml-itemurl>https://archive.org/download/videotime-cine-latino/Los%20Simpson%20-%20La%20pelicula.mp4</vtml-itemurl>
@@ -33,7 +29,6 @@
 		<vtml-itemcategory>Peliculas animadas</vtml-itemcategory>
 	</vtml-mediaitem>
 	<vtml-mediaitem>
-		<vtml-itemid>5</vtml-itemid>
 		<vtml-itemname>La pelicula de Tigger</vtml-itemname>    
 		<vtml-itemcover>https://aleapps.github.io/vtml-lists/covers/20027019.jpg</vtml-itemcover>
 		<vtml-itemurl>https://archive.org/download/videotime-cine-latino/La%20pelicula%20de%20Tigger.mp4</vtml-itemurl>
@@ -41,7 +36,6 @@
 		<vtml-itemcategory>Peliculas animadas</vtml-itemcategory>
 	</vtml-mediaitem>
 	<vtml-mediaitem>
-		<vtml-itemid>6</vtml-itemid>
 		<vtml-itemname>Christopher Robin: un reencuentro inolvidable</vtml-itemname>    
 		<vtml-itemcover>https://aleapps.github.io/vtml-lists/covers/Christopher_robin_poster_oficial.jpg</vtml-itemcover>
 		<vtml-itemurl>https://archive.org/download/videotime-cine-latino/Christopher%20Robin%20-%20Un%20reencuentro%20inolvidable.mp4</vtml-itemurl>
@@ -49,7 +43,6 @@
 		<vtml-itemcategory>Peliculas live-action</vtml-itemcategory>
 	</vtml-mediaitem>
 	<vtml-mediaitem>
-		<vtml-itemid>7</vtml-itemid>
 		<vtml-itemname>La gran pelicula de Piglet</vtml-itemname>    
 		<vtml-itemcover>https://aleapps.github.io/vtml-lists/covers/Gran-pelicula-piglet-poster.jpg</vtml-itemcover>
 		<vtml-itemurl>https://archive.org/download/videotime-cine-latino/La%20gran%20pelicula%20de%20Piglet.mp4</vtml-itemurl>
@@ -57,7 +50,6 @@
 		<vtml-itemcategory>Peliculas animadas</vtml-itemcategory>
 	</vtml-mediaitem>
 	<vtml-mediaitem>
-		<vtml-itemid>8</vtml-itemid>
 		<vtml-itemname>Las grandes aventuras de Winnie Pooh</vtml-itemname>    
 		<vtml-itemcover>https://aleapps.github.io/vtml-lists/covers/The_Many_Adventures_of_Winnie_the_Pooh_(1977).jpg</vtml-itemcover>
 		<vtml-itemurl>https://archive.org/download/videotime-cine-latino/Las%20grandes%20aventuras%20de%20Winnie%20Pooh.mp4</vtml-itemurl>
@@ -65,7 +57,6 @@
 		<vtml-itemcategory>Peliculas animadas</vtml-itemcategory>
 	</vtml-mediaitem>
 	<vtml-mediaitem>
-		<vtml-itemid>9</vtml-itemid>
 		<vtml-itemname>Winnie Pooh: Una primavera con Rito</vtml-itemname>    
 		<vtml-itemcover>https://aleapps.github.io/vtml-lists/covers/11184springtimewithroo.jpg</vtml-itemcover>
 		<vtml-itemurl>https://archive.org/download/videotime-cine-latino/Winnie%20Pooh%20-%20Una%20primavera%20con%20Rito.mp4</vtml-itemurl>
@@ -73,7 +64,6 @@
 		<vtml-itemcategory>Peliculas animadas</vtml-itemcategory>
 	</vtml-mediaitem>
 	<vtml-mediaitem>
-		<vtml-itemid>10</vtml-itemid>
 		<vtml-itemname>Megamente</vtml-itemname>    
 		<vtml-itemcover>https://aleapps.github.io/vtml-lists/covers/Megamente.jpg</vtml-itemcover>
 		<vtml-itemurl>https://archive.org/download/videotime-cine-latino/Megamente.mp4</vtml-itemurl>
@@ -81,7 +71,6 @@
 		<vtml-itemcategory>Peliculas animadas</vtml-itemcategory>
 	</vtml-mediaitem>
 	<vtml-mediaitem>
-		<vtml-itemid>11</vtml-itemid>
 		<vtml-itemname>Ralph el demoledor 2</vtml-itemname>    
 		<vtml-itemcover>https://aleapps.github.io/vtml-lists/covers/Wifi_Ralph_Poster_2_Latino.jpg</vtml-itemcover>
 		<vtml-itemurl>https://archive.org/download/videotime-cine-latino/Ralph%20el%20demoledor%202.mp4</vtml-itemurl>
@@ -89,7 +78,6 @@
 		<vtml-itemcategory>Peliculas animadas</vtml-itemcategory>
 	</vtml-mediaitem>
 	<vtml-mediaitem>
-		<vtml-itemid>12</vtml-itemid>
 		<vtml-itemname>Intensa Mente</vtml-itemname>    
 		<vtml-itemcover>https://aleapps.github.io/vtml-lists/covers/Intensa_Mente.jpg</vtml-itemcover>
 		<vtml-itemurl>https://archive.org/download/videotime-cine-latino/Intensa%20Mente.mp4</vtml-itemurl>
@@ -97,7 +85,6 @@
 		<vtml-itemcategory>Peliculas animadas</vtml-itemcategory>
 	</vtml-mediaitem>
 	<vtml-mediaitem>
-		<vtml-itemid>13</vtml-itemid>
 		<vtml-itemname>Los Increibles 1</vtml-itemname>    
 		<vtml-itemcover>https://aleapps.github.io/vtml-lists/covers/LosIncreibles.jpg</vtml-itemcover>
 		<vtml-itemurl>https://archive.org/download/videotime-cine-latino/Los%20Increibles%201.mp4</vtml-itemurl>
@@ -105,12 +92,10 @@
 		<vtml-itemcategory>Peliculas animadas</vtml-itemcategory>
 	</vtml-mediaitem>
 	<vtml-mediaitem>
-		<vtml-itemid>14</vtml-itemid>
 		<vtml-itemname>Winnie Pooh (2011)</vtml-itemname>    
 		<vtml-itemcover>https://aleapps.github.io/vtml-lists/covers/Winnie_the_Pooh_Poster.jpg</vtml-itemcover>
 		<vtml-itemurl>https://archive.org/download/videotime-cine-latino/Winnie%20Pooh%20%282011%29.mp4</vtml-itemurl>
 		<vtml-itemdescription>Después de descubrir que Igor ha perdido su cola, los residentes del bosque empiezan a competir para ver quién puede encontrarle una nueva al burro melancólico -- y hay un tarro de miel para el ganador. Owl por error informa que Christopher Robin ha sido secuestrado. Sin embargo, todo termina bien cuando Pooh descubre una tierra de dulces delicias.</vtml-itemdescription>
 		<vtml-itemcategory>Peliculas animadas</vtml-itemcategory>
 	</vtml-mediaitem>
-
 </vtml-list>
