@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <vtml-list>
 	<vtml-mediaitem>
-		<vtml-itemid>1</vtml-itemid>
 		<vtml-itemname>5RTv</vtml-itemname>    
 		<vtml-itemcover>https://aleapps.github.io/vtml-lists/vtml-logos/5RTv.png</vtml-itemcover>
 		<vtml-itemurl>https://api.new.livestream.com/accounts/22636012/events/8242619/live.m3u8</vtml-itemurl>
@@ -9,7 +8,6 @@
 		<vtml-itemcategory>Locales</vtml-itemcategory>
 	</vtml-mediaitem>
 	<vtml-mediaitem>
-		<vtml-itemid>2</vtml-itemid>
 		<vtml-itemname>5TV</vtml-itemname>    
 		<vtml-itemcover>https://aleapps.github.io/vtml-lists/vtml-logos/5TV.png</vtml-itemcover>
 		<vtml-itemurl>http://www.coninfo.net:1935/tvcinco/live1/playlist.m3u8</vtml-itemurl>
@@ -17,7 +15,6 @@
 		<vtml-itemcategory>Locales</vtml-itemcategory>
 	</vtml-mediaitem>
 	<vtml-mediaitem>
-		<vtml-itemid>3</vtml-itemid>
 		<vtml-itemname>9Link Chaco</vtml-itemname>    
 		<vtml-itemcover>https://aleapps.github.io/vtml-lists/vtml-logos/9Link.jpg</vtml-itemcover>
 		<vtml-itemurl>http://www.coninfo.net:1935/9linklive/live/playlist.m3u8</vtml-itemurl>
@@ -25,7 +22,6 @@
 		<vtml-itemcategory>Locales</vtml-itemcategory>
 	</vtml-mediaitem>
 	<vtml-mediaitem>
-		<vtml-itemid>4</vtml-itemid>
 		<vtml-itemname>Airevision Punta Alta</vtml-itemname>    
 		<vtml-itemcover>https://aleapps.github.io/vtml-lists/vtml-logos/Airevision.jpg</vtml-itemcover>
 		<vtml-itemurl>http://airevision.ddns.net:1935/live/myStream/playlist.m3u8</vtml-itemurl>
@@ -33,7 +29,6 @@
 		<vtml-itemcategory>Locales</vtml-itemcategory>
 	</vtml-mediaitem>
 	<vtml-mediaitem>
-		<vtml-itemid>5</vtml-itemid>
 		<vtml-itemname>Camaras de Villa Gesell (Av. 3 y 104)</vtml-itemname>    
 		<vtml-itemcover>https://aleapps.github.io/vtml-lists/vtml-logos/VillaGesell.jpg</vtml-itemcover>
 		<vtml-itemurl>http://cam104y3.gesell.com.ar/playlist.m3u8</vtml-itemurl>
@@ -41,7 +36,6 @@
 		<vtml-itemcategory>Locales</vtml-itemcategory>
 	</vtml-mediaitem>
 	<vtml-mediaitem>
-		<vtml-itemid>6</vtml-itemid>
 		<vtml-itemname>Camaras de Villa Gesell (Buenos Aires y Playa)</vtml-itemname>    
 		<vtml-itemcover>https://aleapps.github.io/vtml-lists/vtml-logos/VillaGesell.jpg</vtml-itemcover>
 		<vtml-itemurl>http://cambsasyplaya.gesell.com.ar/playlist.m3u8</vtml-itemurl>
@@ -49,7 +43,6 @@
 		<vtml-itemcategory>Locales</vtml-itemcategory>
 	</vtml-mediaitem>
 	<vtml-mediaitem>
-		<vtml-itemid>7</vtml-itemid>
 		<vtml-itemname>Camaras de Villa Gesell (La Pinocha)</vtml-itemname>    
 		<vtml-itemcover>https://aleapps.github.io/vtml-lists/vtml-logos/VillaGesell.jpg</vtml-itemcover>
 		<vtml-itemurl>http://camlapinocha.gesell.com.ar/playlist.m3u8</vtml-itemurl>
@@ -57,7 +50,6 @@
 		<vtml-itemcategory>Locales</vtml-itemcategory>
 	</vtml-mediaitem>
 	<vtml-mediaitem>
-		<vtml-itemid>8</vtml-itemid>
 		<vtml-itemname>Canal 2 Jujuy</vtml-itemname>    
 		<vtml-itemcover>https://aleapps.github.io/vtml-lists/vtml-logos/2Jujuy.png</vtml-itemcover>
 		<vtml-itemurl>http://api.new.livestream.com/accounts/679322/events/3782013/live.m3u8</vtml-itemurl>
@@ -65,7 +57,6 @@
 		<vtml-itemcategory>Locales</vtml-itemcategory>
 	</vtml-mediaitem>
 	<vtml-mediaitem>
-		<vtml-itemid>9</vtml-itemid>
 		<vtml-itemname>Canal 3 Rosario</vtml-itemname>    
 		<vtml-itemcover>https://aleapps.github.io/vtml-lists/vtml-logos/3Ros.png</vtml-itemcover>
 		<vtml-itemurl>https://59d52c5a5ce5e.streamlock.net:4443/canal3rosario/ngrp:canal3rosario_all/playlist.m3u8</vtml-itemurl>
@@ -73,7 +64,6 @@
 		<vtml-itemcategory>Locales</vtml-itemcategory>
 	</vtml-mediaitem>
 	<vtml-mediaitem>
-		<vtml-itemid>10</vtml-itemid>
 		<vtml-itemname>Canal 4 Balcarce</vtml-itemname>    
 		<vtml-itemcover>https://aleapps.github.io/vtml-lists/vtml-logos/4Bal.jpg</vtml-itemcover>
 		<vtml-itemurl>http://inliveserver.com:1935/8550/8550/playlist.m3u8</vtml-itemurl>
@@ -81,7 +71,6 @@
 		<vtml-itemcategory>Locales</vtml-itemcategory>
 	</vtml-mediaitem>
 	<vtml-mediaitem>
-		<vtml-itemid>11</vtml-itemid>
 		<vtml-itemname>Canal 4 Posadas (Stream 1)</vtml-itemname>    
 		<vtml-itemcover>https://aleapps.github.io/vtml-lists/vtml-logos/4Pos.png</vtml-itemcover>
 		<vtml-itemurl>http://184.154.28.210:1935/canal4/canal4/playlist.m3u8</vtml-itemurl>
@@ -89,7 +78,6 @@
 		<vtml-itemcategory>Locales</vtml-itemcategory>
 	</vtml-mediaitem>
 	<vtml-mediaitem>
-		<vtml-itemid>12</vtml-itemid>
 		<vtml-itemname>Canal 4 Posadas (Stream 2)</vtml-itemname>    
 		<vtml-itemcover>https://aleapps.github.io/vtml-lists/vtml-logos/4Pos.png</vtml-itemcover>
 		<vtml-itemurl>http://184.154.28.210:1935/canal4/canal4/live.m3u8</vtml-itemurl>
@@ -97,7 +85,6 @@
 		<vtml-itemcategory>Locales</vtml-itemcategory>
 	</vtml-mediaitem>
 	<vtml-mediaitem>
-		<vtml-itemid>13</vtml-itemid>
 		<vtml-itemname>Canal 4 Jujuy (Stream 1)</vtml-itemname>    
 		<vtml-itemcover>https://aleapps.github.io/vtml-lists/vtml-logos/4Jujuy.png</vtml-itemcover>
 		<vtml-itemurl>http://190.52.32.13:1935/canal4/smil:manifest.smil/playlist.m3u8</vtml-itemurl>
@@ -105,7 +92,6 @@
 		<vtml-itemcategory>Locales</vtml-itemcategory>
 	</vtml-mediaitem>
 	<vtml-mediaitem>
-		<vtml-itemid>14</vtml-itemid>
 		<vtml-itemname>Canal 4 Jujuy (Stream 2)</vtml-itemname>    
 		<vtml-itemcover>https://aleapps.github.io/vtml-lists/vtml-logos/4Jujuy.png</vtml-itemcover>
 		<vtml-itemurl>https://5cd577a3dd8ec.streamlock.net/canal4/smil:manifest.smil/playlist.m3u8</vtml-itemurl>
@@ -113,7 +99,6 @@
 		<vtml-itemcategory>Locales</vtml-itemcategory>
 	</vtml-mediaitem>
 	<vtml-mediaitem>
-		<vtml-itemid>15</vtml-itemid>
 		<vtml-itemname>Canal 4 Teleaire San Martin</vtml-itemname>    
 		<vtml-itemcover>https://aleapps.github.io/vtml-lists/vtml-logos/4Teleaire.jpg</vtml-itemcover>
 		<vtml-itemurl>https://stmvideo2.livecastv.com/canal4/canal4/playlist.m3u8</vtml-itemurl>
@@ -121,7 +106,6 @@
 		<vtml-itemcategory>Locales</vtml-itemcategory>
 	</vtml-mediaitem>
 	<vtml-mediaitem>
-		<vtml-itemid>16</vtml-itemid>
 		<vtml-itemname>Canal 6 Moreno</vtml-itemname>    
 		<vtml-itemcover>https://aleapps.github.io/vtml-lists/vtml-logos/6Moreno.png</vtml-itemcover>
 		<vtml-itemurl>https://5975e06a1f292.streamlock.net:4443/canal6moreno/canal6moreno/playlist.m3u8</vtml-itemurl>
@@ -129,7 +113,6 @@
 		<vtml-itemcategory>Locales</vtml-itemcategory>
 	</vtml-mediaitem>
 	<vtml-mediaitem>
-		<vtml-itemid>17</vtml-itemid>
 		<vtml-itemname>Canal 9 Comodoro Rivadavia</vtml-itemname>    
 		<vtml-itemcover>https://aleapps.github.io/vtml-lists/vtml-logos/9ComR.png</vtml-itemcover>
 		<vtml-itemurl>https://live.canalnueve.tv/canal.m3u8</vtml-itemurl>
@@ -137,7 +120,6 @@
 		<vtml-itemcategory>Locales</vtml-itemcategory>
 	</vtml-mediaitem>
 	<vtml-mediaitem>
-		<vtml-itemid>18</vtml-itemid>
 		<vtml-itemname>Canal 9 Multivision</vtml-itemname>    
 		<vtml-itemcover>https://aleapps.github.io/vtml-lists/vtml-logos/9MV.png</vtml-itemcover>
 		<vtml-itemurl>http://panel.dattalive.com:1935/8250/8250/playlist.m3u8</vtml-itemurl>
@@ -145,7 +127,6 @@
 		<vtml-itemcategory>Locales</vtml-itemcategory>
 	</vtml-mediaitem>
 	<vtml-mediaitem>
-		<vtml-itemid>19</vtml-itemid>
 		<vtml-itemname>Canal 9 Rio Cuarto</vtml-itemname>    
 		<vtml-itemcover>https://aleapps.github.io/vtml-lists/vtml-logos/9RioCuarto.jpg</vtml-itemcover>
 		<vtml-itemurl>http://streamcasthd.com:1935/canal9riocuartotv/canal9riocuartotv/playlist.m3u8</vtml-itemurl>
@@ -153,7 +134,6 @@
 		<vtml-itemcategory>Locales</vtml-itemcategory>
 	</vtml-mediaitem>
 	<vtml-mediaitem>
-		<vtml-itemid>20</vtml-itemid>
 		<vtml-itemname>Canal 9 Televida</vtml-itemname>    
 		<vtml-itemcover>https://aleapps.github.io/vtml-lists/vtml-logos/9Televida.png</vtml-itemcover>
 		<vtml-itemurl>https://5b3050bb1b2d8.streamlock.net/viviloendirecto2/canal9/playlist.m3u8</vtml-itemurl>
@@ -161,7 +141,6 @@
 		<vtml-itemcategory>Locales</vtml-itemcategory>
 	</vtml-mediaitem>
 	<vtml-mediaitem>
-		<vtml-itemid>21</vtml-itemid>
 		<vtml-itemname>Canal 10 Cordoba</vtml-itemname>    
 		<vtml-itemcover>https://aleapps.github.io/vtml-lists/vtml-logos/10CBA.png</vtml-itemcover>
 		<vtml-itemurl>https://vcp.myplaytv.com:443/canal10cba/smil:canal10cba.smil/playlist.m3u8?PlaylistM3UCL</vtml-itemurl>
@@ -169,7 +148,6 @@
 		<vtml-itemcategory>Locales</vtml-itemcategory>
 	</vtml-mediaitem>
 	<vtml-mediaitem>
-		<vtml-itemid>22</vtml-itemid>
 		<vtml-itemname>Canal 10 Mar del Plata</vtml-itemname>    
 		<vtml-itemcover>https://aleapps.github.io/vtml-lists/vtml-logos/10MDP.png</vtml-itemcover>
 		<vtml-itemurl>https://cdn2.zencast.tv:30443/live/canal10smil/playlist.m3u8</vtml-itemurl>
@@ -177,7 +155,6 @@
 		<vtml-itemcategory>Locales</vtml-itemcategory>
 	</vtml-mediaitem>
 	<vtml-mediaitem>
-		<vtml-itemid>23</vtml-itemid>
 		<vtml-itemname>Canal 10 Rio Negro</vtml-itemname>    
 		<vtml-itemcover>https://aleapps.github.io/vtml-lists/vtml-logos/10RN.png</vtml-itemcover>
 		<vtml-itemurl>http://panel.dattalive.com:1935/8204/8204/playlist.m3u8</vtml-itemurl>
@@ -185,7 +162,6 @@
 		<vtml-itemcategory>Locales</vtml-itemcategory>
 	</vtml-mediaitem>
 	<vtml-mediaitem>
-		<vtml-itemid>24</vtml-itemid>
 		<vtml-itemname>Canal 11 La Rioja</vtml-itemname>    
 		<vtml-itemcover>https://aleapps.github.io/vtml-lists/vtml-logos/11LR.png</vtml-itemcover>
 		<vtml-itemurl>http://stmv4.questreaming.com/fenixlarioja/fenixlarioja/playlist.m3u8</vtml-itemurl>
@@ -193,7 +169,6 @@
 		<vtml-itemcategory>Locales</vtml-itemcategory>
 	</vtml-mediaitem>
 	<vtml-mediaitem>
-		<vtml-itemid>25</vtml-itemid>
 		<vtml-itemname>Canal 12 Puerto Madryn</vtml-itemname>    
 		<vtml-itemcover>https://aleapps.github.io/vtml-lists/vtml-logos/12PM.png</vtml-itemcover>
 		<vtml-itemurl>https://5f700d5b2c46f.streamlock.net/madryntv/madryntv/playlist.m3u8</vtml-itemurl>
@@ -201,7 +176,6 @@
 		<vtml-itemcategory>Locales</vtml-itemcategory>
 	</vtml-mediaitem>
 	<vtml-mediaitem>
-		<vtml-itemid>26</vtml-itemid>
 		<vtml-itemname>Canal 13 La Rioja</vtml-itemname>    
 		<vtml-itemcover>https://aleapps.github.io/vtml-lists/vtml-logos/13LR.png</vtml-itemcover>
 		<vtml-itemurl>http://arcast.net:1935/mp/mp/playlist.m3u8</vtml-itemurl>
@@ -209,7 +183,6 @@
 		<vtml-itemcategory>Locales</vtml-itemcategory>
 	</vtml-mediaitem>
 	<vtml-mediaitem>
-		<vtml-itemid>27</vtml-itemid>
 		<vtml-itemname>Canal 29 Quilmes</vtml-itemname>    
 		<vtml-itemcover>https://aleapps.github.io/vtml-lists/vtml-logos/29Quilmes.jpg</vtml-itemcover>
 		<vtml-itemurl>http://inliveserver.com:1935/8386/8386/playlist.m3u8</vtml-itemurl>
@@ -217,7 +190,6 @@
 		<vtml-itemcategory>Locales</vtml-itemcategory>
 	</vtml-mediaitem>
 	<vtml-mediaitem>
-		<vtml-itemid>28</vtml-itemid>
 		<vtml-itemname>Canal 79 La Costa</vtml-itemname>    
 		<vtml-itemcover>https://aleapps.github.io/vtml-lists/vtml-logos/Canal79.png</vtml-itemcover>
 		<vtml-itemurl>https://5f6e1fe8f2d2e.streamlock.net/lacosta/lacosta/playlist.m3u8</vtml-itemurl>
@@ -225,7 +197,6 @@
 		<vtml-itemcategory>Locales</vtml-itemcategory>
 	</vtml-mediaitem>
 	<vtml-mediaitem>
-		<vtml-itemid>29</vtml-itemid>
 		<vtml-itemname>Canal 79 Mar del Plata</vtml-itemname>    
 		<vtml-itemcover>https://aleapps.github.io/vtml-lists/vtml-logos/Canal79.png</vtml-itemcover>
 		<vtml-itemurl>https://5f6e1fe8f2d2e.streamlock.net/mardelplata/mardelplata/playlist.m3u8</vtml-itemurl>
@@ -233,7 +204,6 @@
 		<vtml-itemcategory>Locales</vtml-itemcategory>
 	</vtml-mediaitem>
 	<vtml-mediaitem>
-		<vtml-itemid>30</vtml-itemid>
 		<vtml-itemname>Canal 79 Puan</vtml-itemname>    
 		<vtml-itemcover>https://aleapps.github.io/vtml-lists/vtml-logos/Canal79.png</vtml-itemcover>
 		<vtml-itemurl>https://5f6e1fe8f2d2e.streamlock.net/puan/puan/playlist.m3u8</vtml-itemurl>
@@ -241,7 +211,6 @@
 		<vtml-itemcategory>Locales</vtml-itemcategory>
 	</vtml-mediaitem>
 	<vtml-mediaitem>
-		<vtml-itemid>31</vtml-itemid>
 		<vtml-itemname>Canal 79 San Juan</vtml-itemname>    
 		<vtml-itemcover>https://aleapps.github.io/vtml-lists/vtml-logos/Canal79.png</vtml-itemcover>
 		<vtml-itemurl>https://5f6e1fe8f2d2e.streamlock.net/sanjuan/sanjuan/playlist.m3u8</vtml-itemurl>
@@ -249,7 +218,6 @@
 		<vtml-itemcategory>Locales</vtml-itemcategory>
 	</vtml-mediaitem>
 	<vtml-mediaitem>
-		<vtml-itemid>32</vtml-itemid>
 		<vtml-itemname>Canal 79 Santa Clara del Mar</vtml-itemname>    
 		<vtml-itemcover>https://aleapps.github.io/vtml-lists/vtml-logos/Canal79.png</vtml-itemcover>
 		<vtml-itemurl>https://5f6e1fe8f2d2e.streamlock.net/santaclara/santaclara/playlist.m3u8</vtml-itemurl>
@@ -257,7 +225,6 @@
 		<vtml-itemcategory>Locales</vtml-itemcategory>
 	</vtml-mediaitem>
 	<vtml-mediaitem>
-		<vtml-itemid>33</vtml-itemid>
 		<vtml-itemname>Canal Provincial (Stream 1)</vtml-itemname>    
 		<vtml-itemcover>https://aleapps.github.io/vtml-lists/vtml-logos/Provincial.png</vtml-itemcover>
 		<vtml-itemurl>https://streaming.telered.com.ar/provincial/streaming/mystream.m3u8</vtml-itemurl>
@@ -265,7 +232,6 @@
 		<vtml-itemcategory>Locales</vtml-itemcategory>
 	</vtml-mediaitem>
 	<vtml-mediaitem>
-		<vtml-itemid>34</vtml-itemid>
 		<vtml-itemname>Canal Provincial (Stream 2)</vtml-itemname>    
 		<vtml-itemcover>https://aleapps.github.io/vtml-lists/vtml-logos/Provincial.png</vtml-itemcover>
 		<vtml-itemurl>http://www.trimi.com.ar/provincial/streaming/mystream.m3u8</vtml-itemurl>
@@ -273,7 +239,6 @@
 		<vtml-itemcategory>Locales</vtml-itemcategory>
 	</vtml-mediaitem>
 	<vtml-mediaitem>
-		<vtml-itemid>35</vtml-itemid>
 		<vtml-itemname>Canal TDC</vtml-itemname>    
 		<vtml-itemcover>https://aleapps.github.io/vtml-lists/vtml-logos/TDC.png</vtml-itemcover>
 		<vtml-itemurl>https://5e7cdf2370883.streamlock.net/tdconline/tdconline/playlist.m3u8</vtml-itemurl>
@@ -281,7 +246,6 @@
 		<vtml-itemcategory>Locales</vtml-itemcategory>
 	</vtml-mediaitem>
 	<vtml-mediaitem>
-		<vtml-itemid>36</vtml-itemid>
 		<vtml-itemname>Chaco TV</vtml-itemname>    
 		<vtml-itemcover>https://aleapps.github.io/vtml-lists/vtml-logos/ChacoTV.png</vtml-itemcover>
 		<vtml-itemurl>https://5b7ecefab6325.streamlock.net/Streamtv/chacotv/playlist.m3u8</vtml-itemurl>
@@ -289,7 +253,6 @@
 		<vtml-itemcategory>Locales</vtml-itemcategory>
 	</vtml-mediaitem>
 	<vtml-mediaitem>
-		<vtml-itemid>37</vtml-itemid>
 		<vtml-itemname>Chacra TV</vtml-itemname>    
 		<vtml-itemcover>https://aleapps.github.io/vtml-lists/vtml-logos/ChacraTV.png</vtml-itemcover>
 		<vtml-itemurl>https://s8.stweb.tv/chacra/live/playlist.m3u8</vtml-itemurl>
@@ -297,7 +260,6 @@
 		<vtml-itemcategory>Locales</vtml-itemcategory>
 	</vtml-mediaitem>
 	<vtml-mediaitem>
-		<vtml-itemid>38</vtml-itemid>
 		<vtml-itemname>Cinco TV</vtml-itemname>    
 		<vtml-itemcover>https://aleapps.github.io/vtml-lists/vtml-logos/CincoTV.png</vtml-itemcover>
 		<vtml-itemurl>https://59537faa0729a.streamlock.net/cincotv/cincotv/playlist.m3u8</vtml-itemurl>
@@ -305,7 +267,6 @@
 		<vtml-itemcategory>Locales</vtml-itemcategory>
 	</vtml-mediaitem>
 	<vtml-mediaitem>
-		<vtml-itemid>39</vtml-itemid>
 		<vtml-itemname>Ciudad TV Resistencia</vtml-itemname>    
 		<vtml-itemcover>https://aleapps.github.io/vtml-lists/vtml-logos/CiudadTVRes.png</vtml-itemcover>
 		<vtml-itemurl>http://coninfo.net:1935/chacodxdtv/live/playlist.m3u8</vtml-itemurl>
@@ -313,7 +274,6 @@
 		<vtml-itemcategory>Locales</vtml-itemcategory>
 	</vtml-mediaitem>
 	<vtml-mediaitem>
-		<vtml-itemid>40</vtml-itemid>
 		<vtml-itemname>CN3 Pinamar (Stream 1)</vtml-itemname>    
 		<vtml-itemcover>https://aleapps.github.io/vtml-lists/vtml-logos/CN3.png</vtml-itemcover>
 		<vtml-itemurl>http://www.intelintec.com.ar:9090/hls/canal3pinamar.m3u8</vtml-itemurl>
@@ -321,7 +281,6 @@
 		<vtml-itemcategory>Locales</vtml-itemcategory>
 	</vtml-mediaitem>
 	<vtml-mediaitem>
-		<vtml-itemid>41</vtml-itemid>
 		<vtml-itemname>CN3 Pinamar (Stream 2)</vtml-itemname>    
 		<vtml-itemcover>https://aleapps.github.io/vtml-lists/vtml-logos/CN3.png</vtml-itemcover>
 		<vtml-itemurl>https://wowza.telpin.com.ar:1935/canal3/canal3.stream/playlist.m3u8</vtml-itemurl>
@@ -329,7 +288,6 @@
 		<vtml-itemcategory>Locales</vtml-itemcategory>
 	</vtml-mediaitem>
 	<vtml-mediaitem>
-		<vtml-itemid>42</vtml-itemid>
 		<vtml-itemname>Crossing TV</vtml-itemname>    
 		<vtml-itemcover>https://aleapps.github.io/vtml-lists/vtml-logos/CrossingTV.png</vtml-itemcover>
 		<vtml-itemurl>https://vivo.solumedia.com:19360/crossing/crossing.m3u8</vtml-itemurl>
@@ -337,7 +295,6 @@
 		<vtml-itemcategory>Locales</vtml-itemcategory>
 	</vtml-mediaitem>
 	<vtml-mediaitem>
-		<vtml-itemid>43</vtml-itemid>
 		<vtml-itemname>Gen TV</vtml-itemname>    
 		<vtml-itemcover>https://aleapps.github.io/vtml-lists/vtml-logos/GenTV.png</vtml-itemcover>
 		<vtml-itemurl>https://videohd.live:19360/8010/8010.m3u8</vtml-itemurl>
@@ -345,7 +302,6 @@
 		<vtml-itemcategory>Locales</vtml-itemcategory>
 	</vtml-mediaitem>
 	<vtml-mediaitem>
-		<vtml-itemid>44</vtml-itemid>
 		<vtml-itemname>Medios Rioja</vtml-itemname>    
 		<vtml-itemcover>https://aleapps.github.io/vtml-lists/vtml-logos/MRioja.png</vtml-itemcover>
 		<vtml-itemurl>http://streamyes.alsolnet.com/mediosrioja/live/playlist.m3u8</vtml-itemurl>
@@ -353,7 +309,6 @@
 		<vtml-itemcategory>Locales</vtml-itemcategory>
 	</vtml-mediaitem>
 	<vtml-mediaitem>
-		<vtml-itemid>45</vtml-itemid>
 		<vtml-itemname>Neox TV Salta</vtml-itemname>    
 		<vtml-itemcover>https://aleapps.github.io/vtml-lists/vtml-logos/NeoxTVSalta.jpg</vtml-itemcover>
 		<vtml-itemurl>https://streamcasthd.com:19360/sonicaargentina/sonicaargentina.m3u8</vtml-itemurl>
@@ -361,7 +316,6 @@
 		<vtml-itemcategory>Locales</vtml-itemcategory>
 	</vtml-mediaitem>
 	<vtml-mediaitem>
-		<vtml-itemid>46</vtml-itemid>
 		<vtml-itemname>Power TV</vtml-itemname>    
 		<vtml-itemcover>https://aleapps.github.io/vtml-lists/vtml-logos/PowerTV.png</vtml-itemcover>
 		<vtml-itemurl>https://wowza.telpin.com.ar:1935/live-powerTV/power.stream/playlist.m3u8</vtml-itemurl>
@@ -369,7 +323,6 @@
 		<vtml-itemcategory>Locales</vtml-itemcategory>
 	</vtml-mediaitem>
 	<vtml-mediaitem>
-		<vtml-itemid>47</vtml-itemid>
 		<vtml-itemname>Quatro TV</vtml-itemname>    
 		<vtml-itemcover>https://aleapps.github.io/vtml-lists/vtml-logos/QuatroTV.png</vtml-itemcover>
 		<vtml-itemurl>https://59d52c5a5ce5e.streamlock.net:4443/quatro/quatro/playlist.m3u8</vtml-itemurl>
@@ -377,7 +330,6 @@
 		<vtml-itemcategory>Locales</vtml-itemcategory>
 	</vtml-mediaitem>
 	<vtml-mediaitem>
-		<vtml-itemid>48</vtml-itemid>
 		<vtml-itemname>RTN (Stream 1)</vtml-itemname>    
 		<vtml-itemcover>https://aleapps.github.io/vtml-lists/vtml-logos/RTN.png</vtml-itemcover>
 		<vtml-itemurl>http://media.neuquen.gov.ar/rtn/television/playlist.m3u8</vtml-itemurl>
@@ -385,7 +337,6 @@
 		<vtml-itemcategory>Locales</vtml-itemcategory>
 	</vtml-mediaitem>
 	<vtml-mediaitem>
-		<vtml-itemid>49</vtml-itemid>
 		<vtml-itemname>RTN (Stream 2)</vtml-itemname>    
 		<vtml-itemcover>https://aleapps.github.io/vtml-lists/vtml-logos/RTN.png</vtml-itemcover>
 		<vtml-itemurl>http://media.neuquen.gov.ar/rtn/television/media.m3u8</vtml-itemurl>
@@ -393,7 +344,6 @@
 		<vtml-itemcategory>Locales</vtml-itemcategory>
 	</vtml-mediaitem>
 	<vtml-mediaitem>
-		<vtml-itemid>50</vtml-itemid>
 		<vtml-itemname>Telefe Rosario</vtml-itemname>    
 		<vtml-itemcover>https://aleapps.github.io/vtml-lists/vtml-logos/TelefeRosario.png</vtml-itemcover>
 		<vtml-itemurl>http://telefewhitehls-lh.akamaihd.net/i/whitelist_hls@302302/master.m3u8</vtml-itemurl>
@@ -401,7 +351,6 @@
 		<vtml-itemcategory>Locales</vtml-itemcategory>
 	</vtml-mediaitem>
 	<vtml-mediaitem>
-		<vtml-itemid>51</vtml-itemid>
 		<vtml-itemname>Telenord Corrientes</vtml-itemname>    
 		<vtml-itemcover>https://aleapps.github.io/vtml-lists/vtml-logos/Telenord.png</vtml-itemcover>
 		<vtml-itemurl>http://www.coninfo.net:1935/previsoratv/live/playlist.m3u8</vtml-itemurl>
@@ -409,7 +358,6 @@
 		<vtml-itemcategory>Locales</vtml-itemcategory>
 	</vtml-mediaitem>
 	<vtml-mediaitem>
-		<vtml-itemid>52</vtml-itemid>
 		<vtml-itemname>Telpin TV</vtml-itemname>    
 		<vtml-itemcover>https://aleapps.github.io/vtml-lists/vtml-logos/TelpinTV.png</vtml-itemcover>
 		<vtml-itemurl>https://wowza.telpin.com.ar:1935/telpintv/smil:ttv.stream.smil/playlist.m3u8</vtml-itemurl>
@@ -417,7 +365,6 @@
 		<vtml-itemcategory>Locales</vtml-itemcategory>
 	</vtml-mediaitem>
 	<vtml-mediaitem>
-		<vtml-itemid>53</vtml-itemid>
 		<vtml-itemname>XFN Canal 41 Mar del Plata</vtml-itemname>    
 		<vtml-itemcover>https://aleapps.github.io/vtml-lists/vtml-logos/XFN.png</vtml-itemcover>
 		<vtml-itemurl>https://5f6e1fe8f2d2e.streamlock.net/canalxfn/canalxfn/playlist.m3u8</vtml-itemurl>
@@ -425,7 +372,6 @@
 		<vtml-itemcategory>Locales</vtml-itemcategory>
 	</vtml-mediaitem>
 	<vtml-mediaitem>
-		<vtml-itemid>54</vtml-itemid>
 		<vtml-itemname>America (SD)</vtml-itemname>    
 		<vtml-itemcover>https://aleapps.github.io/vtml-lists/vtml-logos/America.png</vtml-itemcover>
 		<vtml-itemurl>https://prepublish.f.qaotic.net/a07/americahls-100056/playlist_540p.m3u8</vtml-itemurl>
@@ -433,7 +379,6 @@
 		<vtml-itemcategory>Generales</vtml-itemcategory>
 	</vtml-mediaitem>
 	<vtml-mediaitem>
-		<vtml-itemid>55</vtml-itemid>
 		<vtml-itemname>America (HD)</vtml-itemname>    
 		<vtml-itemcover>https://aleapps.github.io/vtml-lists/vtml-logos/America.png</vtml-itemcover>
 		<vtml-itemurl>https://prepublish.f.qaotic.net/a07/americahls-100056/playlist_720p.m3u8</vtml-itemurl>
@@ -441,7 +386,6 @@
 		<vtml-itemcategory>Generales</vtml-itemcategory>
 	</vtml-mediaitem>
 	<vtml-mediaitem>
-		<vtml-itemid>56</vtml-itemid>
 		<vtml-itemname>Canal de la Ciudad (SD)</vtml-itemname>    
 		<vtml-itemcover>https://aleapps.github.io/vtml-lists/vtml-logos/CanalCBA.png</vtml-itemcover>
 		<vtml-itemurl>https://g2.proy-slo.transport.edge-access.net/a08/ngrp:gcba_video4-100042_all/gcba_video4-100042_540p.m3u8</vtml-itemurl>
@@ -449,7 +393,6 @@
 		<vtml-itemcategory>Generales</vtml-itemcategory>
 	</vtml-mediaitem>
 	<vtml-mediaitem>
-		<vtml-itemid>57</vtml-itemid>
 		<vtml-itemname>Canal de la Ciudad (HD)</vtml-itemname>    
 		<vtml-itemcover>https://aleapps.github.io/vtml-lists/vtml-logos/CanalCBA.png</vtml-itemcover>
 		<vtml-itemurl>https://g2.proy-slo.transport.edge-access.net/a08/ngrp:gcba_video4-100042_all/gcba_video4-100042_720p.m3u8</vtml-itemurl>
@@ -457,7 +400,6 @@
 		<vtml-itemcategory>Generales</vtml-itemcategory>
 	</vtml-mediaitem>
 	<vtml-mediaitem>
-		<vtml-itemid>58</vtml-itemid>
 		<vtml-itemname>El Trece</vtml-itemname>    
 		<vtml-itemcover>https://aleapps.github.io/vtml-lists/vtml-logos/ElTrece.png</vtml-itemcover>
 		<vtml-itemurl>https://live-01-02-eltrece.vodgc.net/eltrecetv/tracks-v4a1/mono.m3u8</vtml-itemurl>
@@ -465,7 +407,6 @@
 		<vtml-itemcategory>Generales</vtml-itemcategory>
 	</vtml-mediaitem>
 	<vtml-mediaitem>
-		<vtml-itemid>59</vtml-itemid>
 		<vtml-itemname>Telemax</vtml-itemname>    
 		<vtml-itemcover>https://aleapps.github.io/vtml-lists/vtml-logos/TLX.png</vtml-itemcover>
 		<vtml-itemurl>http://live-edge01.telecentro.net.ar/live/smil:tlx.smil/master.m3u8</vtml-itemurl>
@@ -473,7 +414,6 @@
 		<vtml-itemcategory>Generales</vtml-itemcategory>
 	</vtml-mediaitem>
 	<vtml-mediaitem>
-		<vtml-itemid>60</vtml-itemid>
 		<vtml-itemname>24/7 Canal de noticias (Stream 1)</vtml-itemname>    
 		<vtml-itemcover>https://aleapps.github.io/vtml-lists/vtml-logos/247CDN.png</vtml-itemcover>
 		<vtml-itemurl>https://panel.dattalive.com:443/6605140/smil:6605140.smil/playlist.m3u8</vtml-itemurl>
@@ -481,7 +421,6 @@
 		<vtml-itemcategory>Noticias</vtml-itemcategory>
 	</vtml-mediaitem>
 	<vtml-mediaitem>
-		<vtml-itemid>61</vtml-itemid>
 		<vtml-itemname>24/7 Canal de noticias (Stream 2)</vtml-itemname>    
 		<vtml-itemcover>https://aleapps.github.io/vtml-lists/vtml-logos/247CDN.png</vtml-itemcover>
 		<vtml-itemurl>https://panel.dattalive.com/6605140/6605140/playlist.m3u8</vtml-itemurl>
@@ -489,7 +428,6 @@
 		<vtml-itemcategory>Noticias</vtml-itemcategory>
 	</vtml-mediaitem>
 	<vtml-mediaitem>
-		<vtml-itemid>62</vtml-itemid>
 		<vtml-itemname>A24</vtml-itemname>    
 		<vtml-itemcover>https://aleapps.github.io/vtml-lists/vtml-logos/A24.png</vtml-itemcover>
 		<vtml-itemurl>https://g1.vxral-hor.transport.edge-access.net/a15/ngrp:a24-100056_all/a24-100056_720p.m3u8</vtml-itemurl>
@@ -497,7 +435,6 @@
 		<vtml-itemcategory>Noticias</vtml-itemcategory>
 	</vtml-mediaitem>
 	<vtml-mediaitem>
-		<vtml-itemid>63</vtml-itemid>
 		<vtml-itemname>Canal 26</vtml-itemname>    
 		<vtml-itemcover>https://aleapps.github.io/vtml-lists/vtml-logos/Canal26.png</vtml-itemcover>
 		<vtml-itemurl>http://live-edge01.telecentro.net.ar/live/smil:c26.smil/playlist.m3u8</vtml-itemurl>
@@ -505,7 +442,6 @@
 		<vtml-itemcategory>Noticias</vtml-itemcategory>
 	</vtml-mediaitem>
 	<vtml-mediaitem>
-		<vtml-itemid>64</vtml-itemid>
 		<vtml-itemname>Cronica HD</vtml-itemname>    
 		<vtml-itemcover>https://aleapps.github.io/vtml-lists/vtml-logos/Cronica.png</vtml-itemcover>
 		<vtml-itemurl>https://g5.vxral-slo.transport.edge-access.net/b10/ngrp:cronicatv_video1-100044_all/cronicatv_video1-100044_720p/index.m3u8</vtml-itemurl>
@@ -513,7 +449,6 @@
 		<vtml-itemcategory>Noticias</vtml-itemcategory>
 	</vtml-mediaitem>
 	<vtml-mediaitem>
-		<vtml-itemid>65</vtml-itemid>
 		<vtml-itemname>Informacion Periodistica</vtml-itemname>    
 		<vtml-itemcover>https://aleapps.github.io/vtml-lists/vtml-logos/IP.png</vtml-itemcover>
 		<vtml-itemurl>https://d1nmqgphjn0y4.cloudfront.net/live/ip/live.isml/live-audio_1=128000-video=4499968.m3u8</vtml-itemurl>
@@ -521,7 +456,6 @@
 		<vtml-itemcategory>Noticias</vtml-itemcategory>
 	</vtml-mediaitem>
 	<vtml-mediaitem>
-		<vtml-itemid>66</vtml-itemid>
 		<vtml-itemname>canalLuz</vtml-itemname>    
 		<vtml-itemcover>https://aleapps.github.io/vtml-lists/vtml-logos/CanalLuz.png</vtml-itemcover>
 		<vtml-itemurl>https://g1.mc-slo.transport.edge-access.net/a11/ngrp:canal_luz01-100009_all/Playlist.m3u8?sense=true</vtml-itemurl>
@@ -529,7 +463,6 @@
 		<vtml-itemcategory>Religion</vtml-itemcategory>
 	</vtml-mediaitem>
 	<vtml-mediaitem>
-		<vtml-itemid>67</vtml-itemid>
 		<vtml-itemname>Orbe 21</vtml-itemname>    
 		<vtml-itemcover>https://aleapps.github.io/vtml-lists/vtml-logos/Orbe21.jpg</vtml-itemcover>
 		<vtml-itemurl>https://cdn2.zencast.tv:30443/orbe/orbe21smil/playlist.m3u8</vtml-itemurl>
@@ -537,7 +470,6 @@
 		<vtml-itemcategory>Religion</vtml-itemcategory>
 	</vtml-mediaitem>
 	<vtml-mediaitem>
-		<vtml-itemid>68</vtml-itemid>
 		<vtml-itemname>Santa Maria TV</vtml-itemname>    
 		<vtml-itemcover>https://aleapps.github.io/vtml-lists/vtml-logos/SMTV.jpg</vtml-itemcover>
 		<vtml-itemurl>http://www.trimi.com.ar/santa_maria/streaming/mystreamSantaMariaHSMed.m3u8</vtml-itemurl>
@@ -545,7 +477,6 @@
 		<vtml-itemcategory>Religion</vtml-itemcategory>
 	</vtml-mediaitem>
 	<vtml-mediaitem>
-		<vtml-itemid>69</vtml-itemid>
 		<vtml-itemname>TV Mana Argentina</vtml-itemname>    
 		<vtml-itemcover>https://aleapps.github.io/vtml-lists/vtml-logos/TVManaARG.png</vtml-itemcover>
 		<vtml-itemurl>http://streamspub.manasat.com:1935/tvar/tvmanaar2/playlist.m3u8</vtml-itemurl>
@@ -553,7 +484,6 @@
 		<vtml-itemcategory>Religion</vtml-itemcategory>
 	</vtml-mediaitem>
 	<vtml-mediaitem>
-		<vtml-itemid>70</vtml-itemid>
 		<vtml-itemname>Argentinisima Satelital</vtml-itemname>    
 		<vtml-itemcover>https://aleapps.github.io/vtml-lists/vtml-logos/ArgenSat.png</vtml-itemcover>
 		<vtml-itemurl>http://186.0.233.76:1935/Argentinisima/smil:argentinisima.smil/playlist.m3u8</vtml-itemurl>
@@ -561,7 +491,6 @@
 		<vtml-itemcategory>Variedades</vtml-itemcategory>
 	</vtml-mediaitem>
 	<vtml-mediaitem>
-		<vtml-itemid>71</vtml-itemid>
 		<vtml-itemname>KZO</vtml-itemname>    
 		<vtml-itemcover>https://aleapps.github.io/vtml-lists/vtml-logos/KZO.png</vtml-itemcover>
 		<vtml-itemurl>http://g2.vxral-slo.transport.edge-access.net/nx-beta/nx.hor.livetx.01/5eaa642772b3a25e2c28699e_540p/index.m3u8</vtml-itemurl>
@@ -569,7 +498,6 @@
 		<vtml-itemcategory>Variedades</vtml-itemcategory>
 	</vtml-mediaitem>
 	<vtml-mediaitem>
-		<vtml-itemid>72</vtml-itemid>
 		<vtml-itemname>Net TV (Stream 1)</vtml-itemname>    
 		<vtml-itemcover>https://aleapps.github.io/vtml-lists/vtml-logos/NetTV.png</vtml-itemcover>
 		<vtml-itemurl>https://unlimited1-us.dps.live/nettv/nettv.smil/playlist.m3u8</vtml-itemurl>
@@ -577,7 +505,6 @@
 		<vtml-itemcategory>Variedades</vtml-itemcategory>
 	</vtml-mediaitem>
 	<vtml-mediaitem>
-		<vtml-itemid>73</vtml-itemid>
 		<vtml-itemname>Net TV (Stream 2)</vtml-itemname>    
 		<vtml-itemcover>https://aleapps.github.io/vtml-lists/vtml-logos/NetTV.png</vtml-itemcover>
 		<vtml-itemurl>https://unlimited6-cl.dps.live/nettv/nettv.smil/playlist.m3u8</vtml-itemurl>
@@ -585,7 +512,6 @@
 		<vtml-itemcategory>Variedades</vtml-itemcategory>
 	</vtml-mediaitem>
 	<vtml-mediaitem>
-		<vtml-itemid>74</vtml-itemid>
 		<vtml-itemname>El Garage TV</vtml-itemname>    
 		<vtml-itemcover>https://aleapps.github.io/vtml-lists/vtml-logos/ElGarageTV.png</vtml-itemcover>
 		<vtml-itemurl>http://186.0.233.76:1935/Garage/smil:garage.smil/master.m3u8</vtml-itemurl>
@@ -593,7 +519,6 @@
 		<vtml-itemcategory>Automovilismo</vtml-itemcategory>
 	</vtml-mediaitem>
 	<vtml-mediaitem>
-		<vtml-itemid>75</vtml-itemid>
 		<vtml-itemname>Deportv</vtml-itemname>    
 		<vtml-itemcover>https://aleapps.github.io/vtml-lists/vtml-logos/Deportv.png</vtml-itemcover>
 		<vtml-itemurl>https://5fb24b460df87.streamlock.net/live-cont.ar/deportv/playlist.m3u8</vtml-itemurl>
@@ -601,7 +526,6 @@
 		<vtml-itemcategory>Deportes</vtml-itemcategory>
 	</vtml-mediaitem>
 	<vtml-mediaitem>
-		<vtml-itemid>76</vtml-itemid>
 		<vtml-itemname>Encuentro</vtml-itemname>    
 		<vtml-itemcover>https://aleapps.github.io/vtml-lists/vtml-logos/Encuentro.png</vtml-itemcover>
 		<vtml-itemurl>https://5fb24b460df87.streamlock.net/live-cont.ar/encuentro/playlist.m3u8</vtml-itemurl>
@@ -609,7 +533,6 @@
 		<vtml-itemcategory>Cultura</vtml-itemcategory>
 	</vtml-mediaitem>
 	<vtml-mediaitem>
-		<vtml-itemid>77</vtml-itemid>
 		<vtml-itemname>Mirador</vtml-itemname>    
 		<vtml-itemcover>https://aleapps.github.io/vtml-lists/vtml-logos/Mirador.jpg</vtml-itemcover>
 		<vtml-itemurl>https://5fb24b460df87.streamlock.net/live-cont.ar/mirador/playlist.m3u8</vtml-itemurl>
@@ -617,7 +540,6 @@
 		<vtml-itemcategory>Cultura</vtml-itemcategory>
 	</vtml-mediaitem>
 	<vtml-mediaitem>
-		<vtml-itemid>78</vtml-itemid>
 		<vtml-itemname>Tec TV (SD)</vtml-itemname>    
 		<vtml-itemcover>https://aleapps.github.io/vtml-lists/vtml-logos/TecTV.png</vtml-itemcover>
 		<vtml-itemurl>https://g3.mc-hor.transport.edge-access.net/a09/ngrp:gcba_video3-100042_all/gcba_video3-100042_540p.m3u8</vtml-itemurl>
@@ -625,7 +547,6 @@
 		<vtml-itemcategory>Cultura</vtml-itemcategory>
 	</vtml-mediaitem>
 	<vtml-mediaitem>
-		<vtml-itemid>79</vtml-itemid>
 		<vtml-itemname>Tec TV (HD)</vtml-itemname>    
 		<vtml-itemcover>https://aleapps.github.io/vtml-lists/vtml-logos/TecTV.png</vtml-itemcover>
 		<vtml-itemurl>https://g3.mc-hor.transport.edge-access.net/a09/ngrp:gcba_video3-100042_all/gcba_video3-100042_720p.m3u8</vtml-itemurl>
@@ -633,7 +554,6 @@
 		<vtml-itemcategory>Cultura</vtml-itemcategory>
 	</vtml-mediaitem>
 	<vtml-mediaitem>
-		<vtml-itemid>80</vtml-itemid>
 		<vtml-itemname>Cine.ar</vtml-itemname>    
 		<vtml-itemcover>https://aleapps.github.io/vtml-lists/vtml-logos/CineAR.png</vtml-itemcover>
 		<vtml-itemurl>https://5fb24b460df87.streamlock.net/live-cont.ar/cinear/playlist.m3u8</vtml-itemurl>
@@ -641,7 +561,6 @@
 		<vtml-itemcategory>Cine</vtml-itemcategory>
 	</vtml-mediaitem>
 	<vtml-mediaitem>
-		<vtml-itemid>81</vtml-itemid>
 		<vtml-itemname>Paka Paka</vtml-itemname>    
 		<vtml-itemcover>https://aleapps.github.io/vtml-lists/vtml-logos/PakaPaka.png</vtml-itemcover>
 		<vtml-itemurl>https://5fb24b460df87.streamlock.net/live-cont.ar/pakapaka/playlist.m3u8</vtml-itemurl>
@@ -649,7 +568,6 @@
 		<vtml-itemcategory>Infantil</vtml-itemcategory>
 	</vtml-mediaitem>
 	<vtml-mediaitem>
-		<vtml-itemid>82</vtml-itemid>
 		<vtml-itemname>MusicTop</vtml-itemname>    
 		<vtml-itemcover>https://aleapps.github.io/vtml-lists/vtml-logos/MusicTop.jpg</vtml-itemcover>
 		<vtml-itemurl>http://live-edge01.telecentro.net.ar/live/smil:musictop.smil/playlist.m3u8</vtml-itemurl>
@@ -657,7 +575,6 @@
 		<vtml-itemcategory>Musica</vtml-itemcategory>
 	</vtml-mediaitem>
 	<vtml-mediaitem>
-		<vtml-itemid>83</vtml-itemid>
 		<vtml-itemname>Tierramia TV</vtml-itemname>    
 		<vtml-itemcover>https://aleapps.github.io/vtml-lists/vtml-logos/TierramiaTV.jpg</vtml-itemcover>
 		<vtml-itemurl>http://live-edge01.telecentro.net.ar/live/smil:trm.smil/playlist.m3u8</vtml-itemurl>
@@ -665,7 +582,6 @@
 		<vtml-itemcategory>Musica</vtml-itemcategory>
 	</vtml-mediaitem>
 	<vtml-mediaitem>
-		<vtml-itemid>84</vtml-itemid>
 		<vtml-itemname>Canal Rural</vtml-itemname>    
 		<vtml-itemcover>https://aleapps.github.io/vtml-lists/vtml-logos/CanalRural.png</vtml-itemcover>
 		<vtml-itemurl>https://cda2.streaming.ws/elrural/live/playlist.m3u8</vtml-itemurl>
@@ -673,7 +589,6 @@
 		<vtml-itemcategory>Agro</vtml-itemcategory>
 	</vtml-mediaitem>
 	<vtml-mediaitem>
-		<vtml-itemid>85</vtml-itemid>
 		<vtml-itemname>El Gourmet TV</vtml-itemname>    
 		<vtml-itemcover>https://aleapps.github.io/vtml-lists/vtml-logos/ElGourmetTV.png</vtml-itemcover>
 		<vtml-itemurl>https://amc-elgoourmet-1.plex.wurl.com/manifest/playlist.m3u8</vtml-itemurl>
@@ -681,7 +596,6 @@
 		<vtml-itemcategory>Cocina</vtml-itemcategory>
 	</vtml-mediaitem>
 	<vtml-mediaitem>
-		<vtml-itemid>86</vtml-itemid>
 		<vtml-itemname>France 24 en Español</vtml-itemname>    
 		<vtml-itemcover>https://aleapps.github.io/vtml-lists/vtml-logos/France24ES.png</vtml-itemcover>
 		<vtml-itemurl>http://f24hls-i.akamaihd.net/hls/live/520845/F24_ES_HI_HLS/master.m3u8</vtml-itemurl>
@@ -689,7 +603,6 @@
 		<vtml-itemcategory>Internacionales</vtml-itemcategory>
 	</vtml-mediaitem>
 	<vtml-mediaitem>
-		<vtml-itemid>87</vtml-itemid>
 		<vtml-itemname>RT en Español</vtml-itemname>    
 		<vtml-itemcover>https://aleapps.github.io/vtml-lists/vtml-logos/RT.png</vtml-itemcover>
 		<vtml-itemurl>https://rt-esp-gd.secure2.footprint.net/1102.m3u8</vtml-itemurl>
@@ -697,7 +610,6 @@
 		<vtml-itemcategory>Internacionales</vtml-itemcategory>
 	</vtml-mediaitem>
 	<vtml-mediaitem>
-		<vtml-itemid>88</vtml-itemid>
 		<vtml-itemname>Telesur (Stream 1 SD)</vtml-itemname>    
 		<vtml-itemcover>https://aleapps.github.io/vtml-lists/vtml-logos/Telesur.png</vtml-itemcover>
 		<vtml-itemurl>https://cdnesmain.telesur.ultrabase.net/mbliveMain/480p/playlist.m3u8</vtml-itemurl>
@@ -705,7 +617,6 @@
 		<vtml-itemcategory>Internacionales</vtml-itemcategory>
 	</vtml-mediaitem>
 	<vtml-mediaitem>
-		<vtml-itemid>89</vtml-itemid>
 		<vtml-itemname>Telesur (Stream 2 SD)</vtml-itemname>    
 		<vtml-itemcover>https://aleapps.github.io/vtml-lists/vtml-logos/Telesur.png</vtml-itemcover>
 		<vtml-itemurl>https://cdnesmain.telesur.ultrabase.net/mbliveMain/480p/chunklist.m3u8</vtml-itemurl>
@@ -713,7 +624,6 @@
 		<vtml-itemcategory>Internacionales</vtml-itemcategory>
 	</vtml-mediaitem>
 	<vtml-mediaitem>
-		<vtml-itemid>90</vtml-itemid>
 		<vtml-itemname>Telesur (Stream 1 HD)</vtml-itemname>    
 		<vtml-itemcover>https://aleapps.github.io/vtml-lists/vtml-logos/Telesur.png</vtml-itemcover>
 		<vtml-itemurl>https://cdnesmain.telesur.ultrabase.net/mbliveMain/hd/playlist.m3u8</vtml-itemurl>
@@ -721,7 +631,6 @@
 		<vtml-itemcategory>Internacionales</vtml-itemcategory>
 	</vtml-mediaitem>
 	<vtml-mediaitem>
-		<vtml-itemid>91</vtml-itemid>
 		<vtml-itemname>Telesur (Stream 2 HD)</vtml-itemname>    
 		<vtml-itemcover>https://aleapps.github.io/vtml-lists/vtml-logos/Telesur.png</vtml-itemcover>
 		<vtml-itemurl>https://cdnesmain.telesur.ultrabase.net/mbliveMain/hd/chunklist.m3u8</vtml-itemurl>
