@@ -71,20 +71,6 @@
 		<vtml-itemcategory>Locales</vtml-itemcategory>
 	</vtml-mediaitem>
 	<vtml-mediaitem>
-		<vtml-itemname>Canal 4 Posadas (Stream 1)</vtml-itemname>    
-		<vtml-itemcover>https://aleapps.github.io/vtml-lists/vtml-logos/4Pos.png</vtml-itemcover>
-		<vtml-itemurl>http://184.154.28.210:1935/canal4/canal4/playlist.m3u8</vtml-itemurl>
-		<vtml-itemdescription>Canal de TV de Argentina</vtml-itemdescription>
-		<vtml-itemcategory>Locales</vtml-itemcategory>
-	</vtml-mediaitem>
-	<vtml-mediaitem>
-		<vtml-itemname>Canal 4 Posadas (Stream 2)</vtml-itemname>    
-		<vtml-itemcover>https://aleapps.github.io/vtml-lists/vtml-logos/4Pos.png</vtml-itemcover>
-		<vtml-itemurl>http://184.154.28.210:1935/canal4/canal4/live.m3u8</vtml-itemurl>
-		<vtml-itemdescription>Canal de TV de Argentina</vtml-itemdescription>
-		<vtml-itemcategory>Locales</vtml-itemcategory>
-	</vtml-mediaitem>
-	<vtml-mediaitem>
 		<vtml-itemname>Canal 4 Jujuy (Stream 1)</vtml-itemname>    
 		<vtml-itemcover>https://aleapps.github.io/vtml-lists/vtml-logos/4Jujuy.png</vtml-itemcover>
 		<vtml-itemurl>http://190.52.32.13:1935/canal4/smil:manifest.smil/playlist.m3u8</vtml-itemurl>
@@ -179,13 +165,6 @@
 		<vtml-itemname>Canal 13 La Rioja</vtml-itemname>    
 		<vtml-itemcover>https://aleapps.github.io/vtml-lists/vtml-logos/13LR.png</vtml-itemcover>
 		<vtml-itemurl>http://arcast.net:1935/mp/mp/playlist.m3u8</vtml-itemurl>
-		<vtml-itemdescription>Canal de TV de Argentina</vtml-itemdescription>
-		<vtml-itemcategory>Locales</vtml-itemcategory>
-	</vtml-mediaitem>
-	<vtml-mediaitem>
-		<vtml-itemname>Canal 29 Quilmes</vtml-itemname>    
-		<vtml-itemcover>https://aleapps.github.io/vtml-lists/vtml-logos/29Quilmes.jpg</vtml-itemcover>
-		<vtml-itemurl>http://inliveserver.com:1935/8386/8386/playlist.m3u8</vtml-itemurl>
 		<vtml-itemdescription>Canal de TV de Argentina</vtml-itemdescription>
 		<vtml-itemcategory>Locales</vtml-itemcategory>
 	</vtml-mediaitem>
@@ -605,7 +584,7 @@
 	<vtml-mediaitem>
 		<vtml-itemname>RT en Español</vtml-itemname>    
 		<vtml-itemcover>https://aleapps.github.io/vtml-lists/vtml-logos/RT.png</vtml-itemcover>
-		<vtml-itemurl>https://rt-esp-gd.secure2.footprint.net/1102.m3u8</vtml-itemurl>
+		<vtml-itemurl>https://rt-esp.gcdn.co/live/rtesp/playlist.m3u8</vtml-itemurl>
 		<vtml-itemdescription>Canal de TV de Rusia</vtml-itemdescription>
 		<vtml-itemcategory>Internacionales</vtml-itemcategory>
 	</vtml-mediaitem>
