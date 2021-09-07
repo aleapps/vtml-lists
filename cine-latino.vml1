@@ -1,108 +1,353 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <vtml-list>
 	<vtml-mediaitem>
+		<vtml-itemname>Buscando a Dory</vtml-itemname>    
+		<vtml-itemcover>https://aleapps.github.io/vtml-lists/covers/12841455_1140712609283936_4849714733908815912_o.jpg</vtml-itemcover>
+		<vtml-itemurl>https://archive.org/download/videotime-cine-latino/Buscando%20a%20Dory.mp4</vtml-itemurl>
+		<vtml-itemdescription>Con la ayuda de Nemo y Marlin, Dory, quien siempre olvida todo, se embarca en la misión para reunirse con sus padres.</vtml-itemdescription>
+		<vtml-itemcategory>Animacion</vtml-itemcategory>
+	</vtml-mediaitem>
+	<vtml-mediaitem>
+		<vtml-itemname>Buscando a Nemo</vtml-itemname>    
+		<vtml-itemcover>https://aleapps.github.io/vtml-lists/covers/BuscandoaNemo-poster.jpg</vtml-itemcover>
+		<vtml-itemurl>https://archive.org/download/videotime-cine-latino/Buscando%20a%20Nemo.mp4</vtml-itemurl>
+		<vtml-itemdescription>Marlin, un pez payaso, siempre ha intentado proteger de todos los peligros a su hijo. Sin embargo, un buzo atrapa al pequeño, y ahora el padre deberá embarcarse en una increíble aventura por las aguas australianas para encontrarlo.</vtml-itemdescription>
+		<vtml-itemcategory>Animacion</vtml-itemcategory>
+	</vtml-mediaitem>
+	<vtml-mediaitem>
+		<vtml-itemname>Cars 1</vtml-itemname>    
+		<vtml-itemcover>https://aleapps.github.io/vtml-lists/covers/200px-London-Disney_Store.jpg</vtml-itemcover>
+		<vtml-itemurl>https://archive.org/download/videotime-cine-latino/Cars%201.mp4</vtml-itemurl>
+		<vtml-itemdescription>De camino al prestigiado campeonato Copa Pistón, un automóvil de carreras que sólo se preocupa por ganar aprende sobre lo que realmente es importante en la vida de varios vehículos que viven en un pueblo a lo largo de la histórica Ruta 66.</vtml-itemdescription>
+		<vtml-itemcategory>Animacion</vtml-itemcategory>
+	</vtml-mediaitem>
+	<vtml-mediaitem>
+		<vtml-itemname>Cars 2</vtml-itemname>    
+		<vtml-itemcover>https://aleapps.github.io/vtml-lists/covers/Cars-2_Latin_American_Poster.jpg</vtml-itemcover>
+		<vtml-itemurl>https://archive.org/download/videotime-cine-latino/Cars%202.mp4</vtml-itemurl>
+		<vtml-itemdescription>El Rayo McQueen y Mate viajan a Japón para participar en una carrera patrocinada por los fabricantes de un tipo de combustible ecológico. Sin embargo, unos villanos pretenden que el nuevo producto fracase.</vtml-itemdescription>
+		<vtml-itemcategory>Animacion</vtml-itemcategory>
+	</vtml-mediaitem>
+	<vtml-mediaitem>
+		<vtml-itemname>Cars 3</vtml-itemname>    
+		<vtml-itemcover>https://aleapps.github.io/vtml-lists/covers/Cars_3_poster.jpg</vtml-itemcover>
+		<vtml-itemurl>https://archive.org/download/videotime-cine-latino/Cars%203.mp4</vtml-itemurl>
+		<vtml-itemdescription>Eclipsado por los autos jóvenes, el veterano Rayo McQueen ha sido expulsado del deporte que tanto ama. Sin embargo, no se rendirá tan fácilmente, con la ayuda de sus amigos, Rayo aprende trucos nuevos para vencer al arrogante Jackson Storm, el rival que lo humilló.</vtml-itemdescription>
+		<vtml-itemcategory>Animacion</vtml-itemcategory>
+	</vtml-mediaitem>
+	<vtml-mediaitem>
 		<vtml-itemname>Christopher Robin: un reencuentro inolvidable</vtml-itemname>    
 		<vtml-itemcover>https://aleapps.github.io/vtml-lists/covers/Christopher_robin_poster_oficial.jpg</vtml-itemcover>
 		<vtml-itemurl>https://archive.org/download/videotime-cine-latino/Christopher%20Robin%20-%20Un%20reencuentro%20inolvidable.mp4</vtml-itemurl>
 		<vtml-itemdescription>Christopher Robin ha crecido y, ahora que es adulto, ha olvidado a sus amigos de la infancia y ha perdido el rumbo. Winnie the Pooh y sus compañeros viajan a Londres para salvar a Christopher y ayudarle a reencontrar la alegría.</vtml-itemdescription>
-		<vtml-itemcategory>Peliculas live-action</vtml-itemcategory>
+		<vtml-itemcategory>Live-action</vtml-itemcategory>
+	</vtml-mediaitem>
+	<vtml-mediaitem>
+		<vtml-itemname>Club de los villanos de Mickey Mouse</vtml-itemname>    
+		<vtml-itemcover>https://aleapps.github.io/vtml-lists/covers/Clubvillanos.jpg</vtml-itemcover>
+		<vtml-itemurl>https://archive.org/download/videotime-cine-latino/Club%20de%20los%20Villanos%20de%20Mickey%20Mouse.mp4</vtml-itemurl>
+		<vtml-itemdescription>Mickey's House of Villains es una película creada por The Walt Disney Company. Es un especial cinematográfico de la serie animada de televisión House of Mouse, protagonizada por Mickey Mouse, el Pato Donald, Minnie Mouse, Goofy, la Pata Daisy y los personajes y villanos de las producciones de Disney.</vtml-itemdescription>
+		<vtml-itemcategory>Animacion</vtml-itemcategory>
+	</vtml-mediaitem>
+	<vtml-mediaitem>
+		<vtml-itemname>Coco</vtml-itemname>    
+		<vtml-itemcover>https://aleapps.github.io/vtml-lists/covers/Coco_Póster.jpg</vtml-itemcover>
+		<vtml-itemurl>https://archive.org/download/videotime-cine-latino/Coco.mp4</vtml-itemurl>
+		<vtml-itemdescription>Miguel es un niño que sueña con ser músico, pero su familia se lo prohíbe porque su tatarabuelo, músico, los abandonó, y quieren obligar a Miguel a ser zapatero, como todos los miembros de la familia. Por accidente, Miguel entra en la Tierra de los Muertos, de donde sólo podrá salir si un familiar difunto le concede su bendición, pero su tatarabuela se niega a dejarlo volver con los vivos si no promete que no será músico. Debido a eso, Miguel escapa de ella y empieza a buscar a su tatarabuelo.</vtml-itemdescription>
+		<vtml-itemcategory>Animacion</vtml-itemcategory>
+	</vtml-mediaitem>
+	<vtml-mediaitem>
+		<vtml-itemname>Dumbo (1941)</vtml-itemname>    
+		<vtml-itemcover>https://aleapps.github.io/vtml-lists/covers/Dumbo1941.jpg</vtml-itemcover>
+		<vtml-itemurl>https://archive.org/download/videotime-cine-latino/Dumbo%20%281941%29.mp4</vtml-itemurl>
+		<vtml-itemdescription>El bebé elefante de un circo tiene orejas grandes, es ridiculizado y luego aprende a volar.</vtml-itemdescription>
+		<vtml-itemcategory>Animacion</vtml-itemcategory>
+	</vtml-mediaitem>
+	<vtml-mediaitem>
+		<vtml-itemname>Dumbo (2019)</vtml-itemname>    
+		<vtml-itemcover>https://aleapps.github.io/vtml-lists/covers/Dumbo_Poster_2_JPosters.jpg</vtml-itemcover>
+		<vtml-itemurl>https://archive.org/download/videotime-cine-latino/Dumbo%20%282019%29.mp4</vtml-itemurl>
+		<vtml-itemdescription>El dueño de un circo en aprietos contrata a un hombre y sus dos hijos para cuidar de un elefante recién nacido que puede volar, que pronto se convierte en la atracción principal que revitaliza al circo.</vtml-itemdescription>
+		<vtml-itemcategory>Live-action</vtml-itemcategory>
+	</vtml-mediaitem>
+	<vtml-mediaitem>
+		<vtml-itemname>Fantasia 2000</vtml-itemname>    
+		<vtml-itemcover>https://aleapps.github.io/vtml-lists/covers/Fantasia2000.jpg</vtml-itemcover>
+		<vtml-itemurl>https://archive.org/download/videotime-cine-latino/Fantasia%202000.mp4</vtml-itemurl>
+		<vtml-itemdescription>Las obras de Beethoven, Stravinsky, Saint-Saens y otros cobran vida en una combinación de efectos musicales y animación.</vtml-itemdescription>
+		<vtml-itemcategory>Animacion</vtml-itemcategory>
+	</vtml-mediaitem>
+	<vtml-mediaitem>
+		<vtml-itemname>Fantasia</vtml-itemname>    
+		<vtml-itemcover>https://aleapps.github.io/vtml-lists/covers/3a.jpg</vtml-itemcover>
+		<vtml-itemurl>https://archive.org/download/videotime-cine-latino/Fantasia.mp4</vtml-itemurl>
+		<vtml-itemdescription>Este filme estrenado en 1940, representa el experimento más audaz de Disney hasta la fecha. En el mismo se plasma la visión de Disney al mezclar la imaginación animada con la música clásica. Lo que había comenzado como un vehículo para mejorar la carrera de Mickey Mouse, se ha convertido en todo un clásico de la animación.</vtml-itemdescription>
+		<vtml-itemcategory>Animacion</vtml-itemcategory>
+	</vtml-mediaitem>
+	<vtml-mediaitem>
+		<vtml-itemname>Goofy 1</vtml-itemname>    
+		<vtml-itemcover>https://aleapps.github.io/vtml-lists/covers/GoofyLaPelicula.jpg</vtml-itemcover>
+		<vtml-itemurl>https://archive.org/download/videotime-cine-latino/Goofy%201.mp4</vtml-itemurl>
+		<vtml-itemdescription>El hijo de Goofy debe posponer su cita con una amiga ya que su padre se lo lleva de vacaciones a la fuerza.</vtml-itemdescription>
+		<vtml-itemcategory>Animacion</vtml-itemcategory>
+	</vtml-mediaitem>
+	<vtml-mediaitem>
+		<vtml-itemname>Goofy 2</vtml-itemname>    
+		<vtml-itemcover>https://aleapps.github.io/vtml-lists/covers/Extremadamente_goofy.jpg</vtml-itemcover>
+		<vtml-itemurl>https://archive.org/download/videotime-cine-latino/Goofy%202.mp4</vtml-itemurl>
+		<vtml-itemdescription>Para la preocupación de su hijo Max, Tribilín se inscribe en el mismo colegio y lleva la fiebre de la música disco al campus.</vtml-itemdescription>
+		<vtml-itemcategory>Animacion</vtml-itemcategory>
+	</vtml-mediaitem>
+	<vtml-mediaitem>
+		<vtml-itemname>Han Solo: Una historia de Star Wars</vtml-itemname>    
+		<vtml-itemcover>https://aleapps.github.io/vtml-lists/covers/Han_Solo_Poster_3_Latino_JPosters.jpg</vtml-itemcover>
+		<vtml-itemurl>https://archive.org/download/videotime-cine-latino/Han%20Solo%20-%20Una%20historia%20de%20Star%20Wars.mp4</vtml-itemurl>
+		<vtml-itemdescription>El joven Han Solo y su banda de contrabandistas pretenden robar coaxium del planeta Kessel. Dado que necesita una nave muy rápida para la misión, Solo contacta con Lando Calrissian, el propietario del Halcón Milenario.</vtml-itemdescription>
+		<vtml-itemcategory>Ciencia ficcion</vtml-itemcategory>
 	</vtml-mediaitem>
 	<vtml-mediaitem>
 		<vtml-itemname>Intensa Mente</vtml-itemname>    
 		<vtml-itemcover>https://aleapps.github.io/vtml-lists/covers/Intensa_Mente.jpg</vtml-itemcover>
 		<vtml-itemurl>https://archive.org/download/videotime-cine-latino/Intensa%20Mente.mp4</vtml-itemurl>
 		<vtml-itemdescription>Las cinco emociones que conviven en el interior de una niña llamada Riley, alegría, miedo, desagrado, ira y tristeza, compiten por tomar el control de sus acciones cuando la pequeña se traslada, junto a su familia, a vivir a San Francisco. La adaptación a una nueva ciudad, una nueva escuela y unos nuevos compañeros no será sencilla para Riley.</vtml-itemdescription>
-		<vtml-itemcategory>Peliculas animadas</vtml-itemcategory>
+		<vtml-itemcategory>Animacion</vtml-itemcategory>
+	</vtml-mediaitem>
+	<vtml-mediaitem>
+		<vtml-itemname>La Oveja Shaun: La pelicula</vtml-itemname>    
+		<vtml-itemcover>https://aleapps.github.io/vtml-lists/covers/078404.jpg</vtml-itemcover>
+		<vtml-itemurl>https://archive.org/download/videotime-cine-latino/La%20Oveja%20Shaun%20-%20La%20pelicula.mp4</vtml-itemurl>
+		<vtml-itemdescription>Shaun, una oveja lista y traviesa, vive con su rebaño bajo la supervisión del Granjero y de Bitzer, un despistado perro pastor con muy buenas intenciones. Pero la vida en la granja es muy monótona, así que Shaun idea un plan para tener un día libre.</vtml-itemdescription>
+		<vtml-itemcategory>Animacion</vtml-itemcategory>
 	</vtml-mediaitem>
 	<vtml-mediaitem>
 		<vtml-itemname>La gran pelicula de Piglet</vtml-itemname>    
 		<vtml-itemcover>https://aleapps.github.io/vtml-lists/covers/Gran-pelicula-piglet-poster.jpg</vtml-itemcover>
 		<vtml-itemurl>https://archive.org/download/videotime-cine-latino/La%20gran%20pelicula%20de%20Piglet.mp4</vtml-itemurl>
 		<vtml-itemdescription>Pooh y compañía registran el álbum de Piglet en busca de pistas, luego de que su pequeño amigo, sintiéndose poco apreciado, desaparezca.</vtml-itemdescription>
-		<vtml-itemcategory>Peliculas animadas</vtml-itemcategory>
+		<vtml-itemcategory>Animacion</vtml-itemcategory>
 	</vtml-mediaitem>
 	<vtml-mediaitem>
 		<vtml-itemname>La pelicula de Tigger</vtml-itemname>    
 		<vtml-itemcover>https://aleapps.github.io/vtml-lists/covers/20027019.jpg</vtml-itemcover>
 		<vtml-itemurl>https://archive.org/download/videotime-cine-latino/La%20pelicula%20de%20Tigger.mp4</vtml-itemurl>
 		<vtml-itemdescription>Winnie Pooh, Piglet, Conejo, Búho, Cangu y Rito están construyéndole una casa a Igor, el burro tristón. Tigger molesta e incordia el grupo y Conejo, harto, le dice que se vaya con su familia, pero Tigger responde que es el único de su especie que existe. Después, intrigado por saber si hay más Tiggers en el mundo, se adentra en el bosque de los Cien Acres.</vtml-itemdescription>
-		<vtml-itemcategory>Peliculas animadas</vtml-itemcategory>
+		<vtml-itemcategory>Animacion</vtml-itemcategory>
 	</vtml-mediaitem>
 	<vtml-mediaitem>
 		<vtml-itemname>Las grandes aventuras de Winnie Pooh</vtml-itemname>    
 		<vtml-itemcover>https://aleapps.github.io/vtml-lists/covers/The_Many_Adventures_of_Winnie_the_Pooh_(1977).jpg</vtml-itemcover>
 		<vtml-itemurl>https://archive.org/download/videotime-cine-latino/Las%20grandes%20aventuras%20de%20Winnie%20Pooh.mp4</vtml-itemurl>
 		<vtml-itemdescription>Una trilogía de cortometrajes incluyendo "Winnie the Pooh and the Blustery Day". Ganadora de un Óscar.</vtml-itemdescription>
-		<vtml-itemcategory>Peliculas animadas</vtml-itemcategory>
+		<vtml-itemcategory>Animacion</vtml-itemcategory>
 	</vtml-mediaitem>
 	<vtml-mediaitem>
 		<vtml-itemname>Los Increibles 1</vtml-itemname>    
 		<vtml-itemcover>https://aleapps.github.io/vtml-lists/covers/LosIncreibles.jpg</vtml-itemcover>
 		<vtml-itemurl>https://archive.org/download/videotime-cine-latino/Los%20Increibles%201.mp4</vtml-itemurl>
 		<vtml-itemdescription>Un superhéroe retirado lucha contra el aburrimiento y, junto a su familia, tiene la oportunidad de salvar al mundo.</vtml-itemdescription>
-		<vtml-itemcategory>Peliculas animadas</vtml-itemcategory>
+		<vtml-itemcategory>Animacion</vtml-itemcategory>
+	</vtml-mediaitem>
+	<vtml-mediaitem>
+		<vtml-itemname>Los Increibles 2</vtml-itemname>    
+		<vtml-itemcover>https://aleapps.github.io/vtml-lists/covers/Los_increibles_2_68257.jpg</vtml-itemcover>
+		<vtml-itemurl>https://archive.org/download/videotime-cine-latino/Los%20Increibles%202.mp4</vtml-itemurl>
+		<vtml-itemdescription>Helen debe luchar contra un cibercriminal que planea hipnotizar al mundo a través de las pantallas de las computadoras. Eso enfrenta a Mr. Increíble con uno de sus mayores desafíos: quedarse en casa y cuidar de tres niños traviesos.</vtml-itemdescription>
+		<vtml-itemcategory>Animacion</vtml-itemcategory>
 	</vtml-mediaitem>
 	<vtml-mediaitem>
 		<vtml-itemname>Los Simpson: La pelicula</vtml-itemname>    
 		<vtml-itemcover>https://aleapps.github.io/vtml-lists/covers/Simpsonsmovie.jpg</vtml-itemcover>
 		<vtml-itemurl>https://archive.org/download/videotime-cine-latino/Los%20Simpson%20-%20La%20pelicula.mp4</vtml-itemurl>
 		<vtml-itemdescription>La combinación de Homero, su nuevo puerco mascota, y un silo lleno de excremento podrían provocar un desastre que amenace no solo a Springfield, sino al mundo entero. Una muchedumbre enojada llega a la casa de los Simpson y divide a la familia. Con el destino de la Tierra en juego, Homero se prepara para intentar redimirse con la intención de salvar al mundo y ganarse el perdón de Marge.</vtml-itemdescription>
-		<vtml-itemcategory>Peliculas animadas</vtml-itemcategory>
+		<vtml-itemcategory>Animacion</vtml-itemcategory>
 	</vtml-mediaitem>
 	<vtml-mediaitem>
 		<vtml-itemname>Luca</vtml-itemname>    
 		<vtml-itemcover>https://aleapps.github.io/vtml-lists/covers/LucaDisneyPlus.jpg</vtml-itemcover>
 		<vtml-itemurl>https://archive.org/download/videotime-cine-latino/Luca.mp4</vtml-itemurl>
 		<vtml-itemdescription>Luca es un monstruo marino que vive debajo de un pueblo de la costa italiana. Cuando sale a la superficie, adquiere una apariencia humana, y conoce a un nuevo amigo, igual que él. Juntos emprenden una aventura entre humanos que odian a los monstruos.</vtml-itemdescription>
-		<vtml-itemcategory>Peliculas animadas</vtml-itemcategory>
+		<vtml-itemcategory>Animacion</vtml-itemcategory>
 	</vtml-mediaitem>
 	<vtml-mediaitem>
 		<vtml-itemname>Megamente</vtml-itemname>    
 		<vtml-itemcover>https://aleapps.github.io/vtml-lists/covers/Megamente.jpg</vtml-itemcover>
 		<vtml-itemurl>https://archive.org/download/videotime-cine-latino/Megamente.mp4</vtml-itemurl>
 		<vtml-itemdescription>A pesar de que él es el supervillano más brillante que ha tenido el mundo, Megamente es el menos exitoso. Frustrado una y otra vez por el heroico Metro Man, Megamente se sorprende cuando logra superar a un enemigo de tanto tiempo. pero sin Metro Man, Megamente no tiene ningún propósito en la vida, por lo que crea a un nuevo oponente, quien rápidamente decide que es más divertido ser el malo que el héroe.</vtml-itemdescription>
-		<vtml-itemcategory>Peliculas animadas</vtml-itemcategory>
+		<vtml-itemcategory>Animacion</vtml-itemcategory>
+	</vtml-mediaitem>
+	<vtml-mediaitem>
+		<vtml-itemname>Mickey y sus amigos juntos otra Navidad</vtml-itemname>    
+		<vtml-itemcover>https://aleapps.github.io/vtml-lists/covers/Mickeytwicechristmas-0921.jpg</vtml-itemcover>
+		<vtml-itemurl>https://archive.org/download/videotime-cine-latino/Mickey%20y%20Sus%20Amigos%20Juntos%20Otra%20Navidad.mp4</vtml-itemurl>
+		<vtml-itemdescription>El ratón Mickey (Wayne Allwine), el pato Donald (Tony Anselmo), Goofy (Bill Farmer) y sus amigos forman parte de varias aventuras navideñas.</vtml-itemdescription>
+		<vtml-itemcategory>Animacion</vtml-itemcategory>
+	</vtml-mediaitem>
+	<vtml-mediaitem>
+		<vtml-itemname>Mickey, Donald, Goofy: Los tres mosqueteros</vtml-itemname>    
+		<vtml-itemcover>https://aleapps.github.io/vtml-lists/covers/2945-los_tres_mosqueteros_mickey,_donald,_goofy_2004.jpg</vtml-itemcover>
+		<vtml-itemurl>https://archive.org/download/videotime-cine-latino/Mickey%2C%20Donald%20y%20Goofy%20-%20Los%20tres%20mosqueteros.mp4</vtml-itemurl>
+		<vtml-itemdescription>Mickey Mouse, Donald Duck y Goofy deben proteger a la princesa Minnie Mouse de un malévolo mosquetero.</vtml-itemdescription>
+		<vtml-itemcategory>Animacion</vtml-itemcategory>
+	</vtml-mediaitem>
+	<vtml-mediaitem>
+		<vtml-itemname>Ralph el demoledor 1</vtml-itemname>    
+		<vtml-itemcover>https://aleapps.github.io/vtml-lists/covers/Wreck-it-ralph-poster1.jpg</vtml-itemcover>
+		<vtml-itemurl>https://archive.org/download/videotime-cine-latino/Ralph%20el%20demoledor%201.mp4</vtml-itemurl>
+		<vtml-itemdescription>Después de años de perder ante su adversario, Ralph, un personaje de un juego de arcade, se cansa de ser el chico malo y toma el asunto en sus propias manos para finalmente convertirse en un héroe, pero un enemigo mortal es liberado.</vtml-itemdescription>
+		<vtml-itemcategory>Animacion</vtml-itemcategory>
 	</vtml-mediaitem>
 	<vtml-mediaitem>
 		<vtml-itemname>Ralph el demoledor 2</vtml-itemname>    
 		<vtml-itemcover>https://aleapps.github.io/vtml-lists/covers/Wifi_Ralph_Poster_2_Latino.jpg</vtml-itemcover>
 		<vtml-itemurl>https://archive.org/download/videotime-cine-latino/Ralph%20el%20demoledor%202.mp4</vtml-itemurl>
 		<vtml-itemdescription>Después de 6 años, Ralph y Vanellope se embarcan en una nueva aventura a las profundidades de Internet para encontrar la pieza que necesitan para reparar un videojuego.</vtml-itemdescription>
-		<vtml-itemcategory>Peliculas animadas</vtml-itemcategory>
+		<vtml-itemcategory>Animacion</vtml-itemcategory>
 	</vtml-mediaitem>
 	<vtml-mediaitem>
 		<vtml-itemname>Ratatouille</vtml-itemname>    
 		<vtml-itemcover>https://aleapps.github.io/vtml-lists/covers/C6b038f42ea34a14434144f3ea55e0a0--disney-movie-posters-disney-films.jpg</vtml-itemcover>
 		<vtml-itemurl>https://archive.org/download/videotime-cine-latino/Ratatouille.mp4</vtml-itemurl>
 		<vtml-itemdescription>Remy es un residente de París que aprecia la buena comida y tiene un paladar bastante sofisticado. Él desea convertirse en un chef para crear y disfrutar de diversas obras de arte culinarias. El único problema es que Remy es una rata. Y cuando termina en las alcantarillas debajo de uno de los restaurantes más finos de París, el roedor se siente en el lugar perfecto para convertir su sueño en una realidad.</vtml-itemdescription>
-		<vtml-itemcategory>Peliculas animadas</vtml-itemcategory>
+		<vtml-itemcategory>Animacion</vtml-itemcategory>
+	</vtml-mediaitem>
+	<vtml-mediaitem>
+		<vtml-itemname>Rogue One: Una historia de Star Wars</vtml-itemname>    
+		<vtml-itemcover>https://aleapps.github.io/vtml-lists/covers/CumnVlmXgAU0UYr.jpg</vtml-itemcover>
+		<vtml-itemurl>https://archive.org/download/videotime-cine-latino/Rogue%20One%20-%20Una%20historia%20de%20Star%20Wars.mp4</vtml-itemurl>
+		<vtml-itemdescription>El Imperio va a construir una estación espacial capaz de destruir planetas, conocida como la Estrella de la Muerte. Los rebeldes, conocedores de esto, se embarcan en una misión extraordinaria: robar los planos y sabotear la estación.</vtml-itemdescription>
+		<vtml-itemcategory>Ciencia ficcion</vtml-itemcategory>
 	</vtml-mediaitem>
 	<vtml-mediaitem>
 		<vtml-itemname>Soul</vtml-itemname>    
 		<vtml-itemcover>https://aleapps.github.io/vtml-lists/covers/Soul_Poster.jpg</vtml-itemcover>
 		<vtml-itemurl>https://archive.org/download/videotime-cine-latino/Soul.mp4</vtml-itemurl>
 		<vtml-itemdescription>Un profesor de música que ha perdido la pasión se transporta fuera de su cuerpo al "Gran Antes" y debe encontrar el camino de regreso con la ayuda de un alma infantil que aprende sobre sí misma.</vtml-itemdescription>
-		<vtml-itemcategory>Peliculas animadas</vtml-itemcategory>
+		<vtml-itemcategory>Animacion</vtml-itemcategory>
 	</vtml-mediaitem>
 	<vtml-mediaitem>
 		<vtml-itemname>Spider-Man: Un nuevo universo</vtml-itemname>    
 		<vtml-itemcover>https://aleapps.github.io/vtml-lists/covers/SV_Poster.jpg</vtml-itemcover>
 		<vtml-itemurl>https://archive.org/download/videotime-cine-latino/Spider-Man%20-%20Un%20nuevo%20universo.mp4</vtml-itemurl>
 		<vtml-itemdescription>Luego de ser mordido por una araña radioactiva, el joven Miles Morales desarrolla misteriosos poderes que lo transforman en el Hombre Araña. Ahora deberá usar sus nuevas habilidades ante el malvado Kingpin, un enorme demente que puede abrir portales hacia otros universos.</vtml-itemdescription>
-		<vtml-itemcategory>Peliculas animadas</vtml-itemcategory>
+		<vtml-itemcategory>Animacion</vtml-itemcategory>
+	</vtml-mediaitem>
+	<vtml-mediaitem>
+		<vtml-itemname>Star Wars - Ep. 1: La amenaza fantasma</vtml-itemname>    
+		<vtml-itemcover>https://aleapps.github.io/vtml-lists/covers/La-amenaza-fantasma-star-wars-pelicula.jpg</vtml-itemcover>
+		<vtml-itemurl>https://archive.org/download/videotime-cine-latino/Star%20Wars%20-%20Ep.%201%20-%20La%20amenaza%20fantasma.mp4</vtml-itemurl>
+		<vtml-itemdescription>Obi-Wan Kenobi es un joven aprendiz caballero Jedi bajo la tutela de Qui-Gon Jinn; Anakin Skywalker, quien después será padre de Luke Skywalker y se convertirá en Darth Vader, solamente es un niño de 9 años. Cuando la Federación de Comercio corta todas las rutas al planeta Naboo, Qui-Gon y Obi-Wan son asignados para solucionar el problema.</vtml-itemdescription>
+		<vtml-itemcategory>Ciencia ficcion</vtml-itemcategory>
+	</vtml-mediaitem>
+	<vtml-mediaitem>
+		<vtml-itemname>Star Wars - Ep. 2: El ataque de los clones</vtml-itemname>    
+		<vtml-itemcover>https://aleapps.github.io/vtml-lists/covers/20078125.jpg-r_640600-b_1_D6D6D6-f_jpg-q_x-20120411_111037.jpg</vtml-itemcover>
+		<vtml-itemurl>https://archive.org/download/videotime-cine-latino/Star%20Wars%20-%20Ep.%202%20-%20El%20ataque%20de%20los%20clones.mp4</vtml-itemurl>
+		<vtml-itemdescription>En el Senado Galáctico reina la inquietud. Varios miles de sistemas solares han declarado su intención de abandonar la República. La reina Amidala regresa al Senado para conseguir un ejército que ayude a los caballeros jedi.</vtml-itemdescription>
+		<vtml-itemcategory>Ciencia ficcion</vtml-itemcategory>
+	</vtml-mediaitem>
+	<vtml-mediaitem>
+		<vtml-itemname>Star Wars - Ep. 3: La venganza de los Sith</vtml-itemname>    
+		<vtml-itemcover>https://aleapps.github.io/vtml-lists/covers/20065302.jpg</vtml-itemcover>
+		<vtml-itemurl>https://archive.org/download/videotime-cine-latino/Star%20Wars%20-%20Ep.%203%20-%20La%20venganza%20de%20los%20Sith.mp4</vtml-itemurl>
+		<vtml-itemdescription>Seducido por el lado oscuro, Anakin Skywalker se rebela contra su mentor, Obi-Wan Kenobi, y se convierte en Darth Vader.</vtml-itemdescription>
+		<vtml-itemcategory>Ciencia ficcion</vtml-itemcategory>
+	</vtml-mediaitem>
+	<vtml-mediaitem>
+		<vtml-itemname>Star Wars - Ep. 4: Una nueva esperanza</vtml-itemname>    
+		<vtml-itemcover>https://aleapps.github.io/vtml-lists/covers/Star_Wars_La_Guerra_de_las_Galaxias_poster.jpg</vtml-itemcover>
+		<vtml-itemurl>https://archive.org/download/videotime-cine-latino/Star%20Wars%20-%20Ep.%204%20-%20Una%20nueva%20esperanza.mp4</vtml-itemurl>
+		<vtml-itemdescription>La nave en la que viaja la princesa Leia es capturada por las tropas imperiales al mando del temible Darth Vader. Antes de ser atrapada, Leia consigue introducir un mensaje en su robot R2-D2, quien acompañado de su inseparable C-3PO logra escapar. Tras aterrizar en el planeta Tattooine son capturados y vendidos al joven Luke Skywalker, quien descubrirá el mensaje oculto que va destinado a Obi Wan Kenobi, maestro Jedi a quien Luke debe encontrar para salvar a la princesa.</vtml-itemdescription>
+		<vtml-itemcategory>Ciencia ficcion</vtml-itemcategory>
+	</vtml-mediaitem>
+	<vtml-mediaitem>
+		<vtml-itemname>Star Wars - Ep. 5: El imperio contraataca</vtml-itemname>    
+		<vtml-itemcover>https://aleapps.github.io/vtml-lists/covers/The_empire_Strikes_Back_poster.jpg</vtml-itemcover>
+		<vtml-itemurl>https://archive.org/download/videotime-cine-latino/Star%20Wars%20-%20Ep.%205%20-%20El%20imperio%20contraataca.mp4</vtml-itemurl>
+		<vtml-itemdescription>Aunque la Estrella de la Muerte ha sido destruida, las tropas imperiales han hecho salir a las fuerzas rebeldes de sus bases ocultas y los persiguen a través de la galaxia. Mientras, el grupo de rebeldes de Skywalker se esconde en un planeta helado.</vtml-itemdescription>
+		<vtml-itemcategory>Ciencia ficcion</vtml-itemcategory>
+	</vtml-mediaitem>
+	<vtml-mediaitem>
+		<vtml-itemname>Star Wars - Ep. 6: El Retorno del Jedi</vtml-itemname>    
+		<vtml-itemcover>https://aleapps.github.io/vtml-lists/covers/The_return_of_the_Jedi_poster.jpg</vtml-itemcover>
+		<vtml-itemurl>https://archive.org/download/videotime-cine-latino/Star%20Wars%20-%20Ep.%206%20-%20El%20Retorno%20del%20Jedi.mp4</vtml-itemurl>
+		<vtml-itemdescription>Luke Skywalker, ahora un experimentado caballero Jedi, intenta descubrir la identidad de Darth Vader.</vtml-itemdescription>
+		<vtml-itemcategory>Ciencia ficcion</vtml-itemcategory>
+	</vtml-mediaitem>
+	<vtml-mediaitem>
+		<vtml-itemname>Star Wars - Ep. 7: El despertar de la fuerza</vtml-itemname>    
+		<vtml-itemcover>https://aleapps.github.io/vtml-lists/covers/Star_Wars_El_Despertar_De_La_Fuerza.jpg</vtml-itemcover>
+		<vtml-itemurl>https://archive.org/download/videotime-cine-latino/Star%20Wars%20-%20Ep.%207%20-%20El%20despertar%20de%20la%20fuerza.mp4</vtml-itemurl>
+		<vtml-itemdescription>Treinta años después de haber derrotado al Imperio, una nueva amenaza se cierne sobre la República. El terrible y enigmático guerrero Kylo Ren ha reunido un ejército de leales al Imperio, que se hace llamar la Primera Orden y ataca a la Alianza. La única esperanza para la galaxia es que una recogedora de chatarra, un stromtrooper fugado y un androide llamado BB-8 logren encontrar a tiempo al legendario jedi Luke Skywalker.</vtml-itemdescription>
+		<vtml-itemcategory>Ciencia ficcion</vtml-itemcategory>
+	</vtml-mediaitem>
+	<vtml-mediaitem>
+		<vtml-itemname>Star Wars - Ep. 8: Los ultimos Jedi</vtml-itemname>    
+		<vtml-itemcover>https://aleapps.github.io/vtml-lists/covers/Star_wars_los_ultimos_jedi_65170.jpg</vtml-itemcover>
+		<vtml-itemurl>https://archive.org/download/videotime-cine-latino/Star%20Wars%20-%20Ep.%208%20-%20Los%20ultimos%20Jedi.mp4</vtml-itemurl>
+		<vtml-itemdescription>La Primera Orden ha acorralado a los últimos miembros de la resistencia. Su última esperanza es que Finn se introduzca en la nave de Snoke y desactive el radar que les permite localizarlos. Mientras él trata, en compañía de una soldado de la Resistencia, de cumplir esta misión imposible, Rey se encuentra lejos, intentando convencer a Luke Skywalker de que la entrene y la convierta en la última jedi.</vtml-itemdescription>
+		<vtml-itemcategory>Ciencia ficcion</vtml-itemcategory>
+	</vtml-mediaitem>
+	<vtml-mediaitem>
+		<vtml-itemname>Star Wars - Ep. 9: El Ascenso de Skywalker</vtml-itemname>    
+		<vtml-itemcover>https://aleapps.github.io/vtml-lists/covers/Star-Wars-El-Ascenso-de-Skywalker-Poster-Oficial.jpg</vtml-itemcover>
+		<vtml-itemurl>https://archive.org/download/videotime-cine-latino/Star%20Wars%20-%20Ep.%209%20-%20El%20Ascenso%20de%20Skywalker.mp4</vtml-itemurl>
+		<vtml-itemdescription>Finn y Poe guían a la Resistencia para detener los planes de la Primera Orden para formar un nuevo imperio, mientras Rey anticipa un enfrentamiento inevitable con Kylo Ren.</vtml-itemdescription>
+		<vtml-itemcategory>Ciencia ficcion</vtml-itemcategory>
+	</vtml-mediaitem>
+	<vtml-mediaitem>
+		<vtml-itemname>Toy Story 1</vtml-itemname>    
+		<vtml-itemcover>https://aleapps.github.io/vtml-lists/covers/Toy_Story_poster.png</vtml-itemcover>
+		<vtml-itemurl>https://archive.org/download/videotime-cine-latino/Toy%20Story%201.mp4</vtml-itemurl>
+		<vtml-itemdescription>Woody, el juguete favorito de Andy, se siente amenazado por la inesperada llegada de Buzz Lightyear, el guardián del espacio.</vtml-itemdescription>
+		<vtml-itemcategory>Animacion</vtml-itemcategory>
+	</vtml-mediaitem>
+	<vtml-mediaitem>
+		<vtml-itemname>Toy Story 2</vtml-itemname>    
+		<vtml-itemcover>https://aleapps.github.io/vtml-lists/covers/Toy_Story_2_-_Poster.jpg</vtml-itemcover>
+		<vtml-itemurl>https://archive.org/download/videotime-cine-latino/Toy%20Story%202.mp4</vtml-itemurl>
+		<vtml-itemdescription>Buzz Lightyear y sus amigos planean una misión de rescate cuando un inescrupuloso coleccionista de juguetes roba a Woody.</vtml-itemdescription>
+		<vtml-itemcategory>Animacion</vtml-itemcategory>
+	</vtml-mediaitem>
+	<vtml-mediaitem>
+		<vtml-itemname>Toy Story 3</vtml-itemname>    
+		<vtml-itemcover>https://aleapps.github.io/vtml-lists/covers/TS3poster-crowd.jpg</vtml-itemcover>
+		<vtml-itemurl>https://archive.org/download/videotime-cine-latino/Toy%20Story%203.mp4</vtml-itemurl>
+		<vtml-itemdescription>Woody, Buzz y el resto de los juguetes terminan en una guardería después de que Andy se vaya a la universidad.</vtml-itemdescription>
+		<vtml-itemcategory>Animacion</vtml-itemcategory>
+	</vtml-mediaitem>
+	<vtml-mediaitem>
+		<vtml-itemname>Toy Story 4</vtml-itemname>    
+		<vtml-itemcover>https://aleapps.github.io/vtml-lists/covers/ToyStory4_PosterOficial.jpg</vtml-itemcover>
+		<vtml-itemurl>https://archive.org/download/videotime-cine-latino/Toy%20Story%204.mp4</vtml-itemurl>
+		<vtml-itemdescription>Woody siempre ha tenido claro cuál es su labor en el mundo: cuidar a su dueño, ya sea Andy o Bonnie. Sin embargo, ahora descubrirá lo grande que puede ser el mundo para un juguete cuando el pequeño Forky se convierta en su nuevo compañero de habitación y se embarquen en una aventura que no olvidarán jamás durante un viaje por carretera.</vtml-itemdescription>
+		<vtml-itemcategory>Animacion</vtml-itemcategory>
+	</vtml-mediaitem>
+	<vtml-mediaitem>
+		<vtml-itemname>Up</vtml-itemname>    
+		<vtml-itemcover>https://aleapps.github.io/vtml-lists/covers/Up-poster.jpg</vtml-itemcover>
+		<vtml-itemurl>https://archive.org/download/videotime-cine-latino/Up.mp4</vtml-itemurl>
+		<vtml-itemdescription>Carl Fredricksen es un vendedor de globos de 78 años de edad dispuesto a cumplir su sueño: atar miles de globos a su casa y volar a Sudamérica. Sin embargo, descubre demasiado tarde a un joven e inesperado polizón. Lo que en principio será recelo, acabará por tornarse simpatía hacia el muchacho mientras juntos pasan fascinantes aventuras en exóticos lugares.</vtml-itemdescription>
+		<vtml-itemcategory>Animacion</vtml-itemcategory>
+	</vtml-mediaitem>
+	<vtml-mediaitem>
+		<vtml-itemname>Wall-e</vtml-itemname>    
+		<vtml-itemcover>https://aleapps.github.io/vtml-lists/covers/Walle-poster.jpg</vtml-itemcover>
+		<vtml-itemurl>https://archive.org/download/videotime-cine-latino/Wall-e.mp4</vtml-itemurl>
+		<vtml-itemdescription>Luego de pasar años limpiando la Tierra desierta, el robot Wall-E conoce a EVA y la sigue por toda la galaxia.</vtml-itemdescription>
+		<vtml-itemcategory>Animacion</vtml-itemcategory>
 	</vtml-mediaitem>
 	<vtml-mediaitem>
 		<vtml-itemname>Winnie Pooh: Una primavera con Rito</vtml-itemname>    
 		<vtml-itemcover>https://aleapps.github.io/vtml-lists/covers/11184springtimewithroo.jpg</vtml-itemcover>
 		<vtml-itemurl>https://archive.org/download/videotime-cine-latino/Winnie%20Pooh%20-%20Una%20primavera%20con%20Rito.mp4</vtml-itemurl>
 		<vtml-itemdescription>Winnie Pooh y sus amigos descubren que Conejo no tiene interés en participar en la recolección de los huevos de Pascua.</vtml-itemdescription>
-		<vtml-itemcategory>Peliculas animadas</vtml-itemcategory>
+		<vtml-itemcategory>Animacion</vtml-itemcategory>
 	</vtml-mediaitem>
 	<vtml-mediaitem>
 		<vtml-itemname>Winnie Pooh (2011)</vtml-itemname>    
 		<vtml-itemcover>https://aleapps.github.io/vtml-lists/covers/Winnie_the_Pooh_Poster.jpg</vtml-itemcover>
 		<vtml-itemurl>https://archive.org/download/videotime-cine-latino/Winnie%20Pooh%20%282011%29.mp4</vtml-itemurl>
 		<vtml-itemdescription>Después de descubrir que Igor ha perdido su cola, los residentes del bosque empiezan a competir para ver quién puede encontrarle una nueva al burro melancólico -- y hay un tarro de miel para el ganador. Owl por error informa que Christopher Robin ha sido secuestrado. Sin embargo, todo termina bien cuando Pooh descubre una tierra de dulces delicias.</vtml-itemdescription>
-		<vtml-itemcategory>Peliculas animadas</vtml-itemcategory>
+		<vtml-itemcategory>Animacion</vtml-itemcategory>
 	</vtml-mediaitem>
 </vtml-list>
