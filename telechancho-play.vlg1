@@ -49,4 +49,11 @@
 		<vtml-itemdescription>Todos los capítulos de La Pantera Rosa</vtml-itemdescription>
 		<vtml-itemcategory>Dibujos animados</vtml-itemcategory>
 	</vtml-listitem>
+	<vtml-listitem>
+		<vtml-itemname>Looney Tunes</vtml-itemname>    
+		<vtml-itemcover>https://aleapps.github.io/vtml-lists/covers/Juegosdelonneytunes.jpg</vtml-itemcover>
+		<vtml-itemurl>https://aleapps.github.io/vtml-lists/looneytunes.vml1</vtml-itemurl>
+		<vtml-itemdescription>Todos los capítulos de los Looney Tunes en Español</vtml-itemdescription>
+		<vtml-itemcategory>Dibujos animados</vtml-itemcategory>
+	</vtml-listitem>
 </vtml-group>
