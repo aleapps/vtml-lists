@@ -1,6 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <vtml-list>
 	<vtml-mediaitem>
+		<vtml-itemname>Bailarina</vtml-itemname>    
+		<vtml-itemcover>https://aleapps.github.io/vtml-lists/covers/Bailarina_poster_3_mexico.jpg</vtml-itemcover>
+		<vtml-itemurl>https://archive.org/download/videotime-cine-latino/Bailarina.mp4</vtml-itemurl>
+		<vtml-itemdescription>Felicia es una chica huérfana con gran determinación y un único sueño: convertirse en bailarina. Para ello contará con la ayuda de su amigo Víctor, un joven inventor junto al que compartirá muchas y divertidas aventuras en la mágica ciudad de París.</vtml-itemdescription>
+		<vtml-itemcategory>Animacion</vtml-itemcategory>
+	</vtml-mediaitem>
+	<vtml-mediaitem>
 		<vtml-itemname>Buscando a Dory</vtml-itemname>    
 		<vtml-itemcover>https://aleapps.github.io/vtml-lists/covers/12841455_1140712609283936_4849714733908815912_o.jpg</vtml-itemcover>
 		<vtml-itemurl>https://archive.org/download/videotime-cine-latino/Buscando%20a%20Dory.mp4</vtml-itemurl>
@@ -36,11 +43,25 @@
 		<vtml-itemcategory>Animacion</vtml-itemcategory>
 	</vtml-mediaitem>
 	<vtml-mediaitem>
+		<vtml-itemname>Charlie y la fabrica de chocolate</vtml-itemname>    
+		<vtml-itemcover>https://aleapps.github.io/vtml-lists/covers/Charlie_y_la_f%3Fbrica_de_chocolate.jpg</vtml-itemcover>
+		<vtml-itemurl>https://archive.org/download/videotime-cine-latino/Charlie%20y%20la%20fabrica%20de%20chocolate.mp4</vtml-itemurl>
+		<vtml-itemdescription>Charlie Bucket (Freddie Highmore), un niño muy bueno de una familia muy pobre, gana un concurso para disfrutar de una visita de un día a la gigantesca fábrica de chocolate del excéntrico Willy Wonka (Johnny Depp) y su equipo de Oompa-Loompas. Cuatro niños más de diferentes partes del mundo lo acompañarán a través de un mundo fantástico y mágico lleno de diferentes sabores.</vtml-itemdescription>
+		<vtml-itemcategory>Animacion</vtml-itemcategory>
+	</vtml-mediaitem>
+	<vtml-mediaitem>
 		<vtml-itemname>Christopher Robin: un reencuentro inolvidable</vtml-itemname>    
 		<vtml-itemcover>https://aleapps.github.io/vtml-lists/covers/Christopher_robin_poster_oficial.jpg</vtml-itemcover>
 		<vtml-itemurl>https://archive.org/download/videotime-cine-latino/Christopher%20Robin%20-%20Un%20reencuentro%20inolvidable.mp4</vtml-itemurl>
 		<vtml-itemdescription>Christopher Robin ha crecido y, ahora que es adulto, ha olvidado a sus amigos de la infancia y ha perdido el rumbo. Winnie the Pooh y sus compañeros viajan a Londres para salvar a Christopher y ayudarle a reencontrar la alegría.</vtml-itemdescription>
 		<vtml-itemcategory>Live-action</vtml-itemcategory>
+	</vtml-mediaitem>
+	<vtml-mediaitem>
+		<vtml-itemname>Cigueñas</vtml-itemname>    
+		<vtml-itemcover>https://aleapps.github.io/vtml-lists/covers/Poster_cigue%3Fas.jpg</vtml-itemcover>
+		<vtml-itemurl>https://archive.org/download/videotime-cine-latino/Cigue%C3%B1as.mp4</vtml-itemurl>
+		<vtml-itemdescription>Las cigüeñas entregan los bebés... o al menos solían hacerlo. Ahora son entregados a través del gigante mundial de internet Cornerstore. Junior, la mejor cigüeña repartidora de la empresa, está por ser promovido cuando por accidente activa la fábrica de bebés, produciendo una adorable y saludable bebé que no está autorizada. Desesperado por entregar el paquete y evitar problemas antes de que su jefe se entere, Junior junto con su amiga Tulip, la única humana en Montaña Cigüeña, corren para hacer su primera entrega de bebés - en un viaje salvaje y revelador que podría restaurar la verdadera misión de las cigüeñas en el mundo así como hacer a una familia feliz.</vtml-itemdescription>
+		<vtml-itemcategory>Animacion</vtml-itemcategory>
 	</vtml-mediaitem>
 	<vtml-mediaitem>
 		<vtml-itemname>Club de los villanos de Mickey Mouse</vtml-itemname>    
@@ -54,6 +75,27 @@
 		<vtml-itemcover>https://aleapps.github.io/vtml-lists/covers/Coco_Póster.jpg</vtml-itemcover>
 		<vtml-itemurl>https://archive.org/download/videotime-cine-latino/Coco.mp4</vtml-itemurl>
 		<vtml-itemdescription>Miguel es un niño que sueña con ser músico, pero su familia se lo prohíbe porque su tatarabuelo, músico, los abandonó, y quieren obligar a Miguel a ser zapatero, como todos los miembros de la familia. Por accidente, Miguel entra en la Tierra de los Muertos, de donde sólo podrá salir si un familiar difunto le concede su bendición, pero su tatarabuela se niega a dejarlo volver con los vivos si no promete que no será músico. Debido a eso, Miguel escapa de ella y empieza a buscar a su tatarabuelo.</vtml-itemdescription>
+		<vtml-itemcategory>Animacion</vtml-itemcategory>
+	</vtml-mediaitem>
+	<vtml-mediaitem>
+		<vtml-itemname>Como entrenar a tu dragon 1</vtml-itemname>    
+		<vtml-itemcover>https://aleapps.github.io/vtml-lists/covers/ComoEntrenaratuDragon.jpg</vtml-itemcover>
+		<vtml-itemurl>https://archive.org/download/videotime-cine-latino/Como%20entrenar%20a%20tu%20dragon%201.mp4</vtml-itemurl>
+		<vtml-itemdescription>La historia se centra alrededor de un vikingo adolescente llamado Hipo que vive en la isla de Berk, dónde luchar contra dragones es un modo de vida. Su sabiduría juvenil y su especial sentido del humor no sientan demasiado bien a su tribu y a su jefe, que además es su padre. Sin embargo, cuando su entrenamiento con otros vikingos adolescentes va a comenzar, Hipo ve la oportunidad de demostrar a su padre y a su tribu su valía. Pero cuando encuentre y, en definitiva, se haga amigo de un dragón herido, su mundo se volverá del revés, y lo que empezó como una prueba para Hipo se convierte en una oportunidad para cambiar el futuro de toda su tribu.</vtml-itemdescription>
+		<vtml-itemcategory>Animacion</vtml-itemcategory>
+	</vtml-mediaitem>
+	<vtml-mediaitem>
+		<vtml-itemname>Como entrenar a tu dragon 2</vtml-itemname>    
+		<vtml-itemcover>https://aleapps.github.io/vtml-lists/covers/C%3Fmo_Entrenar_a_tu_Drag%3Fn_2.png</vtml-itemcover>
+		<vtml-itemurl>https://archive.org/download/videotime-cine-latino/Como%20entrenar%20a%20tu%20dragon%202.mp4</vtml-itemurl>
+		<vtml-itemdescription>Han pasado cinco años desde que Hipo y Chimuelo unieron con éxito a los dragones y a los vikingos en la isla de Berk. Mientras que Astrid, Patan, y el resto de la pandilla se desafían mutuamente a carreras de dragones (nuevo deporte de contacto favorito en la isla), la pareja inseparable ahora viaja a través de los cielos, trazando territorios no asignados y explorando nuevos mundos. Cuando una de sus aventuras conduce al descubrimiento de una cueva secreta de hielo que es hogar de cientos de nuevos dragones salvajes y un misterioso jinete enmascarado (quien resulta ser la madre desaparecida de Hipo), los dos amigos se encuentran en el centro de una batalla para proteger la paz. Ahora, Hipo y Chimuelo deben unirse para defender lo que ellos creen, reconociendo que sólo juntos tienen el poder de cambiar el futuro de hombres y dragones y detener la amenaza del malvado cazador de dragones, Drago Manodura, quien planea secuestrar a todos los dragones para formar un diabolico ejercito para dominar el mundo.</vtml-itemdescription>
+		<vtml-itemcategory>Animacion</vtml-itemcategory>
+	</vtml-mediaitem>
+	<vtml-mediaitem>
+		<vtml-itemname>Como entrenar a tu dragon 3</vtml-itemname>    
+		<vtml-itemcover>https://aleapps.github.io/vtml-lists/covers/Dragon_poster.JPG.jpg</vtml-itemcover>
+		<vtml-itemurl>https://archive.org/download/videotime-cine-latino/Como%20entrenar%20a%20tu%20dragon%203.mp4</vtml-itemurl>
+		<vtml-itemdescription>Hipo descubre que Chimuelo no es el único Furia Nocturna y debe buscar el Mundo Oculto, una utopía secreta para descubrir finalmente sus destinos como dragón y jinete.</vtml-itemdescription>
 		<vtml-itemcategory>Animacion</vtml-itemcategory>
 	</vtml-mediaitem>
 	<vtml-mediaitem>
@@ -71,6 +113,20 @@
 		<vtml-itemcategory>Live-action</vtml-itemcategory>
 	</vtml-mediaitem>
 	<vtml-mediaitem>
+		<vtml-itemname>E.T. El Extraterrestre</vtml-itemname>    
+		<vtml-itemcover>https://aleapps.github.io/vtml-lists/covers/E.T._el_extraterrestre.jpg</vtml-itemcover>
+		<vtml-itemurl>https://archive.org/download/videotime-cine-latino/E.T.%20El%20Extraterrestre.mp4</vtml-itemurl>
+		<vtml-itemdescription>Cuenta la historia de Elliott (Henry Thomas), un muchacho solitario que se hace amigo de un extraterrestre, llamado E.T., quien se queda abandonado en la Tierra. Elliott y sus hermanos ayudan al extraterrestre a volver a su hogar, mientras intentan mantenerlo oculto a su madre y al gobierno.</vtml-itemdescription>
+		<vtml-itemcategory>Ciencia ficcion</vtml-itemcategory>
+	</vtml-mediaitem>
+	<vtml-mediaitem>
+		<vtml-itemname>El gato con botas</vtml-itemname>    
+		<vtml-itemcover>https://aleapps.github.io/vtml-lists/covers/El-gato-con-botas-cartel1.jpg</vtml-itemcover>
+		<vtml-itemurl>https://archive.org/download/videotime-cine-latino/El%20gato%20con%20botas.mp4</vtml-itemurl>
+		<vtml-itemdescription>El famoso gato tiene la aventura de su vida cuando une fuerzas con Humpty Dumpty y la gata Kitty para robarse al ganso de los huevos de oro.</vtml-itemdescription>
+		<vtml-itemcategory>Animacion</vtml-itemcategory>
+	</vtml-mediaitem>
+	<vtml-mediaitem>
 		<vtml-itemname>Fantasia 2000</vtml-itemname>    
 		<vtml-itemcover>https://aleapps.github.io/vtml-lists/covers/Fantasia2000.jpg</vtml-itemcover>
 		<vtml-itemurl>https://archive.org/download/videotime-cine-latino/Fantasia%202000.mp4</vtml-itemurl>
@@ -82,6 +138,20 @@
 		<vtml-itemcover>https://aleapps.github.io/vtml-lists/covers/3a.jpg</vtml-itemcover>
 		<vtml-itemurl>https://archive.org/download/videotime-cine-latino/Fantasia.mp4</vtml-itemurl>
 		<vtml-itemdescription>Este filme estrenado en 1940, representa el experimento más audaz de Disney hasta la fecha. En el mismo se plasma la visión de Disney al mezclar la imaginación animada con la música clásica. Lo que había comenzado como un vehículo para mejorar la carrera de Mickey Mouse, se ha convertido en todo un clásico de la animación.</vtml-itemdescription>
+		<vtml-itemcategory>Animacion</vtml-itemcategory>
+	</vtml-mediaitem>
+	<vtml-mediaitem>
+		<vtml-itemname>Garfield 1</vtml-itemname>    
+		<vtml-itemcover>https://aleapps.github.io/vtml-lists/covers/049944.jpg</vtml-itemcover>
+		<vtml-itemurl>https://archive.org/download/videotime-cine-latino/Garfield%201.mp4</vtml-itemurl>
+		<vtml-itemdescription>La historia trata de que la veterinaria Liz Wilson (Jennifer Love Hewitt) le cede a su novio Jon Arbuckle (Breckin Meyer) un perro llamado Odie (Voz por Gregg Berger) para que lo cuide. Garfield (Voz por Bill Murray)no está contento con que un perro entre en sus dominios, lo que le causa bastantes celos cuando John muestra más atención al perro que a él. Más adelante, Odie es secuestrado por el magnate televisivo Happy Chapman (Stephen Tobolowsky) y Garfield se siente mal por lo sucedido y decide levantarse del sofá e ir a salvar a Odie y junto con Jon y Liz, vencer a Chapman.</vtml-itemdescription>
+		<vtml-itemcategory>Animacion</vtml-itemcategory>
+	</vtml-mediaitem>
+	<vtml-mediaitem>
+		<vtml-itemname>Garfield 2</vtml-itemname>    
+		<vtml-itemcover>https://aleapps.github.io/vtml-lists/covers/Garfield2.jpg</vtml-itemcover>
+		<vtml-itemurl>https://archive.org/download/videotime-cine-latino/Garfield%202.mp4</vtml-itemurl>
+		<vtml-itemdescription>Garfield sigue a Jon a Inglaterra y es tratado como un rey al ser confundido con el heredero de un gran castillo. Sin embargo, el felino necesitará de todas sus siete vidas para frustrar los planes del malvado Lord Dargis, quien desea transformar el castillo en un hotel.</vtml-itemdescription>
 		<vtml-itemcategory>Animacion</vtml-itemcategory>
 	</vtml-mediaitem>
 	<vtml-mediaitem>
@@ -113,10 +183,119 @@
 		<vtml-itemcategory>Animacion</vtml-itemcategory>
 	</vtml-mediaitem>
 	<vtml-mediaitem>
+		<vtml-itemname>Jurassic Park 1</vtml-itemname>    
+		<vtml-itemcover>https://aleapps.github.io/vtml-lists/covers/Jurassic_Park_download.jpg</vtml-itemcover>
+		<vtml-itemurl>https://archive.org/download/videotime-cine-latino/Jurassic%20Park%201.mp4</vtml-itemurl>
+		<vtml-itemdescription>El multimillonario John Hammond (Richard Attenborough) consigue hacer realidad su sueño de clonar dinosaurios del periodo mesozoico y crear con ellos un parque temático en una isla remota al cual bautiza con el nombre comercial de "Jurassic Park".
+
+Antes de abrirlo al público, invita a una pareja de eminentes científicos y a un matemático para que comprueben la viabilidad del proyecto. Pero las medidas de seguridad del parque no prevén el instinto de supervivencia de la madre naturaleza ni la codicia humana.</vtml-itemdescription>
+		<vtml-itemcategory>Ciencia ficcion</vtml-itemcategory>
+	</vtml-mediaitem>
+	<vtml-mediaitem>
+		<vtml-itemname>Jurassic Park 2 - El mundo perdido</vtml-itemname>    
+		<vtml-itemcover>https://aleapps.github.io/vtml-lists/covers/El_Mundo_Perdido_-_Jurassic_Park_2.jpg</vtml-itemcover>
+		<vtml-itemurl>https://archive.org/download/videotime-cine-latino/Jurassic%20Park%202%20-%20El%20mundo%20perdido.mp4</vtml-itemurl>
+		<vtml-itemdescription>Han pasado cuatros años después del desastre ocurrido en Jurassic Park de la Isla Nublar, John Hammond revela a el Dr. Ian Malcolm que existe otra isla en la que se criaban los dinosaurios antes de ser transportados a la Isla Nublar. Ian, acompañado por dos expertos, deberá acudir a la Isla Sorna para rescatar a una científica, aunque los planes cambiarán drásticamente.</vtml-itemdescription>
+		<vtml-itemcategory>Ciencia ficcion</vtml-itemcategory>
+	</vtml-mediaitem>
+	<vtml-mediaitem>
+		<vtml-itemname>Jurassic Park 3</vtml-itemname>    
+		<vtml-itemcover>https://aleapps.github.io/vtml-lists/covers/JurassicPark3.png</vtml-itemcover>
+		<vtml-itemurl>https://archive.org/download/videotime-cine-latino/Jurassic%20Park%203.mp4</vtml-itemurl>
+		<vtml-itemdescription>El Dr. Alan Grant (Sam Neill), ansioso por conseguir fondos que financien su estudio sobre la inteligencia del velociraptor, acepta la oferta de una pareja de millonarios, Paul (William H. Macy) y Amanda Kirby (Téa Leoni), para sobrevolar la Isla Sorna, en Puerto Rico, poblada por dinosaurios creados genéticamente para un parque recreativo.
+
+Tras producirse un aterrizaje forzoso en la isla, Alan descubre que los Kirby estaban buscando a su hijo adolescente, perdido en la isla tras un accidente de parapente.</vtml-itemdescription>
+		<vtml-itemcategory>Ciencia ficcion</vtml-itemcategory>
+	</vtml-mediaitem>
+	<vtml-mediaitem>
+		<vtml-itemname>Jurassic World - Mundo Jurasico</vtml-itemname>    
+		<vtml-itemcover>https://aleapps.github.io/vtml-lists/covers/Jurassic_world_nuevo_poster_latino_c_jposters.jpg</vtml-itemcover>
+		<vtml-itemurl>https://archive.org/download/videotime-cine-latino/Jurassic%20World%20-%20Mundo%20Jurasico.mp4</vtml-itemurl>
+		<vtml-itemdescription>Han pasado 22 años después del desastre de Jurassic Park, la Isla Nublar ahora cuenta con un parque jurásico completamente operativo, como originalmente fue concebido por John Hammond. Este nuevo parque es propiedad de la corporación Masrani. Owen Grady (Chris Pratt), un miembro del personal del parque de mundo jurásico, realiza investigaciones del comportamiento de los velociraptores. Después de muchos años, cuando el número de visitantes de mundo jurásico comienza a declinar, una nueva atracción creada para volver a despertar el interés, un dinosaurio híbrido genéticamente modificado llamado "Indominus Rex", fracasa gravemente cuando escapa. Ahora, la pesadilla renace una vez más y esta vez no hay donde escapar, su única salida es sobrevivir.</vtml-itemdescription>
+		<vtml-itemcategory>Ciencia ficcion</vtml-itemcategory>
+	</vtml-mediaitem>
+	<vtml-mediaitem>
+		<vtml-itemname>Jurassic World 2 - El Reino Caido</vtml-itemname>    
+		<vtml-itemcover>https://aleapps.github.io/vtml-lists/covers/DbAI-9LUwAAaAhA.jpg</vtml-itemcover>
+		<vtml-itemurl>https://archive.org/download/videotime-cine-latino/Jurassic%20World%202%20-%20El%20Reino%20Caido.mp4</vtml-itemurl>
+		<vtml-itemdescription>Una erupción volcánica amenaza a los dinosaurios restantes en la isla de Isla Nubar, donde las criaturas han vagado libremente durante varios años luego de la destrucción del famoso parque temático animal conocido como Mundo Jurásico. Claire Dearing (Bryce Dallas Howard), la ex-gerenta del parque, ahora ha fundando el Grupo de Protección a Dinosaurios, una organización dedicada a proteger a los dinosaurios. Para ayudar con su causa, Claire ha reclutado a Owen Grady (Chris Pratt), el ex-entrenador de dinosaurios que trabajó en el parque, para prevenir la extinción de los dinosaurios... otra vez.</vtml-itemdescription>
+		<vtml-itemcategory>Ciencia ficcion</vtml-itemcategory>
+	</vtml-mediaitem>
+	<vtml-mediaitem>
+		<vtml-itemname>Kung Fu Panda 1</vtml-itemname>    
+		<vtml-itemcover>https://aleapps.github.io/vtml-lists/covers/Kung_Fu_Panda_Poster_M%3Fxico.jpg</vtml-itemcover>
+		<vtml-itemurl>https://archive.org/download/videotime-cine-latino/Kung%20Fu%20Panda%201.mp4</vtml-itemurl>
+		<vtml-itemdescription>Po es un panda que vive trabajando en un restaurante de fideos del Sr. Ping. Po es un gran fanático de los 5 Furiosos, y cuando llega el día de elegir al Guerrero Dragón, Po es accidentalmente elegido por Oogway, una tortuga sabia. Cuando un ex estudiante del Maestro Shifu regresa, Po deberá ser entrenado para enfrentarlo y saber quién es él en realidad.</vtml-itemdescription>
+		<vtml-itemcategory>Animacion</vtml-itemcategory>
+	</vtml-mediaitem>
+	<vtml-mediaitem>
+		<vtml-itemname>Kung Fu Panda 2</vtml-itemname>    
+		<vtml-itemcover>https://aleapps.github.io/vtml-lists/covers/Kung_Fu_Panda_2_Poster_M%3Fxico.jpg</vtml-itemcover>
+		<vtml-itemurl>https://archive.org/download/videotime-cine-latino/Kung%20Fu%20Panda%202.mp4</vtml-itemurl>
+		<vtml-itemdescription>3 años después de la derrota de Tai Long, Po vive su sueño de ser el Guerrero Dragón. Sin embargo, una nueva amenaza atacá. Un pavo real llamado Lord Shen, usa el poder de los cañones y fuegos artificales para conquistar toda China y destruir al Guerrero Dragón. Po y los 5 Furiosos deberán detenerlo mientras que Po descubre la verdad sobre su papá, el Sr. Ping y de quienes erán sus verdaderos padres.</vtml-itemdescription>
+		<vtml-itemcategory>Animacion</vtml-itemcategory>
+	</vtml-mediaitem>
+	<vtml-mediaitem>
+		<vtml-itemname>Kung Fu Panda 3</vtml-itemname>    
+		<vtml-itemcover>https://aleapps.github.io/vtml-lists/covers/Kung-Fu-Panda-3-poster.jpg</vtml-itemcover>
+		<vtml-itemurl>https://archive.org/download/videotime-cine-latino/Kung%20Fu%20Panda%203.mp4</vtml-itemurl>
+		<vtml-itemdescription>5 años después de vencer a Lord Shen, Po se encuentra con su verdadero padre, Li Shan. Cuando descubre sobre un viejo amigo de Oogway llamado Kai, que viene en camino por los Chi de todos los maestros, Po es llevado con Li Shan y su padre adoptivo, Sr. Ping (Quién tiene celos de Li), a una aldea secreta de Pandas donde Po aprenderá todo sobre los Pandas mientras él tendrá que entrenarlos a ellos para ser un maestro del Kung Fu.</vtml-itemdescription>
+		<vtml-itemcategory>Animacion</vtml-itemcategory>
+	</vtml-mediaitem>
+	<vtml-mediaitem>
 		<vtml-itemname>La Oveja Shaun: La pelicula</vtml-itemname>    
 		<vtml-itemcover>https://aleapps.github.io/vtml-lists/covers/078404.jpg</vtml-itemcover>
 		<vtml-itemurl>https://archive.org/download/videotime-cine-latino/La%20Oveja%20Shaun%20-%20La%20pelicula.mp4</vtml-itemurl>
 		<vtml-itemdescription>Shaun, una oveja lista y traviesa, vive con su rebaño bajo la supervisión del Granjero y de Bitzer, un despistado perro pastor con muy buenas intenciones. Pero la vida en la granja es muy monótona, así que Shaun idea un plan para tener un día libre.</vtml-itemdescription>
+		<vtml-itemcategory>Animacion</vtml-itemcategory>
+	</vtml-mediaitem>
+	<vtml-mediaitem>
+		<vtml-itemname>La era de hielo 1</vtml-itemname>    
+		<vtml-itemcover>https://aleapps.github.io/vtml-lists/covers/IceAge.jpg</vtml-itemcover>
+		<vtml-itemurl>https://archive.org/download/videotime-cine-latino/La%20era%20de%20hielo%201.mp4</vtml-itemurl>
+		<vtml-itemdescription>20.000 A.C. 3 diferentes especies: Un mamut malhumorado llamado Manny, un tigre dientes de sable llamado Diego y un perezoso llamado Sid, deben llevar a un bebé humano de vuelta a los humanos antes de que se marchen. En otra parte de la historia, una ardilla dientes de sable llamada Scrat, busca un lugar para su preciada bellota.</vtml-itemdescription>
+		<vtml-itemcategory>Animacion</vtml-itemcategory>
+	</vtml-mediaitem>
+	<vtml-mediaitem>
+		<vtml-itemname>La era de hielo 2</vtml-itemname>    
+		<vtml-itemcover>https://aleapps.github.io/vtml-lists/covers/IceAge2.jpg</vtml-itemcover>
+		<vtml-itemurl>https://archive.org/download/videotime-cine-latino/La%20era%20de%20hielo%202.mp4</vtml-itemurl>
+		<vtml-itemdescription>Después de los hechos de la primera película, Manny, Sid, Diego y el resto de los animales tendrán que dejar su hogar para evitar una inundación provocado por Scrat, quien busca poder agarrar su bellota. En el camino, Manny se encuentra que con Ellie, una mamut que se confunde con ser una mamut como una zarigüeya.</vtml-itemdescription>
+		<vtml-itemcategory>Animacion</vtml-itemcategory>
+	</vtml-mediaitem>
+	<vtml-mediaitem>
+		<vtml-itemname>La era de hielo 3</vtml-itemname>    
+		<vtml-itemcover>https://aleapps.github.io/vtml-lists/covers/IceAge3.jpg</vtml-itemcover>
+		<vtml-itemurl>https://archive.org/download/videotime-cine-latino/La%20era%20de%20hielo%203.mp4</vtml-itemurl>
+		<vtml-itemdescription>Ahora que Manny y Ellie van a tener una hija, Manny se asegura de que sea un buen padre, Diego piensa dejar la manada y Sid roba 3 huevos de dinosaurio y luego es capturado por un dinosaurio. La manada entra al mundo y van a tener la ayuda de Buck, una comadreja. Mientras tanto, Scrat se enamora de Scratty, una ardilla dientes de sable que tambien se interesa en la bellota.</vtml-itemdescription>
+		<vtml-itemcategory>Animacion</vtml-itemcategory>
+	</vtml-mediaitem>
+	<vtml-mediaitem>
+		<vtml-itemname>La era de hielo 4</vtml-itemname>    
+		<vtml-itemcover>https://aleapps.github.io/vtml-lists/covers/Images_%2843%29.jpg</vtml-itemcover>
+		<vtml-itemurl>https://archive.org/download/videotime-cine-latino/La%20era%20de%20hielo%204.mp4</vtml-itemurl>
+		<vtml-itemdescription>Los animales de La era de hielo se separan de su hogar a causa de Scrat y son encontrados por piratas y deberan escapar de ellos. Mientras Scrat va en busca de Scratlantis, el hogar de todas las bellotas.</vtml-itemdescription>
+		<vtml-itemcategory>Animacion</vtml-itemcategory>
+	</vtml-mediaitem>
+	<vtml-mediaitem>
+		<vtml-itemname>La era de hielo 5 - Choque de mundos</vtml-itemname>    
+		<vtml-itemcover>https://aleapps.github.io/vtml-lists/covers/Poster_5.jpg</vtml-itemcover>
+		<vtml-itemurl>https://archive.org/download/videotime-cine-latino/La%20era%20de%20hielo%205%20-%20Choque%20de%20mundos.mp4</vtml-itemurl>
+		<vtml-itemdescription>En un incidente cosmico provocado por Scrat, hace que los animales de La Era de Hielo incluyendo a la manada esten aterrados por una lluvia de asteroides. La manada se encuentran con Buck quien los llevará a una zona de impacto para buscar la manera de detener al "Padre de todos los asteroides" donde conoceran a Shangri Llama, un maestro del yoga. Mientras en el espacio, Scrat deberá buscar la manera de regresar a su planeta con su bellota.</vtml-itemdescription>
+		<vtml-itemcategory>Animacion</vtml-itemcategory>
+	</vtml-mediaitem>
+	<vtml-mediaitem>
+		<vtml-itemname>La gran aventura Lego 1</vtml-itemname>    
+		<vtml-itemcover>https://aleapps.github.io/vtml-lists/covers/Granaventuralego.jpg</vtml-itemcover>
+		<vtml-itemurl>https://archive.org/download/videotime-cine-latino/La%20gran%20aventura%20Lego%201.mp4</vtml-itemurl>
+		<vtml-itemdescription>En la ciudad de Ciudad Ladrillo, Una mini figura llamado Emmet Ladrikowski es confundido como el Maestro Constructor, el único que puede salvar el universo por encontrar la pieza de la resistencia. Con la ayuda de una joven dura llamada Estilo-libre, un viejo místico llamado Vitruvius, Benny, Un astronanuta de los 80s, Unikitty, Una gatita unicornio gobernante de La tierra de la nube Cucu, un pirata robot llamado Barba Metálica y Batman, un héroe que se enfrenta constantemente al crimen, Emmet y los maestros constuctores deberán luchar para derrotar al malvado tirano Señor Negocios que está empeñado en destruir el universo Lego con el pegamento, durante la Festividad del Martes de Tacos.</vtml-itemdescription>
+		<vtml-itemcategory>Animacion</vtml-itemcategory>
+	</vtml-mediaitem>
+	<vtml-mediaitem>
+		<vtml-itemname>La gran aventura Lego 2</vtml-itemname>    
+		<vtml-itemcover>https://aleapps.github.io/vtml-lists/covers/45274410_518197948658839_2828719424830545807_n.jpg</vtml-itemcover>
+		<vtml-itemurl>https://archive.org/download/videotime-cine-latino/La%20gran%20aventura%20Lego%202.mp4</vtml-itemurl>
+		<vtml-itemdescription>Cinco años después de los eventos de la primera película, los invasores de Duplo convirtieron a Bricksburg en un páramo post-apocalíptico, al que todos apodan ahora Apocalipsburgo, mientras que Emmet, el Maestro-Constructor que salvó al mundo del Señor Negocios, mantiene su existencia, completamente inafectada. por este cambio dramático y pretende que todo sigue siendo increíble, a diferencia de todos los demás, que se han endurecido y endurecido, preparándose para más luchas. Entonces, una nave espacial llega y captura a los amigos de Emmet. Emmet cambia su hogar a una nave espacial y luego emprende un viaje intergaláctico a través del Universo Lego hasta el Sistema Systar para rescatar a sus amigos y compañeros Maestros-Constructores, y la que luego se convertiría en su novia, Lucy. De una malvada mini-muñeca llamada General Dulce Caos, que une fuerzas con los invasores Duplo para apoderarse del universo, bajo las órdenes de la reina de la forma Soyloque Quiera-Ser. En el camino, se encuentra con un héroe intergaláctico llamado Rex Dangervest, y busca su ayuda.</vtml-itemdescription>
 		<vtml-itemcategory>Animacion</vtml-itemcategory>
 	</vtml-mediaitem>
 	<vtml-mediaitem>
@@ -131,6 +310,20 @@
 		<vtml-itemcover>https://aleapps.github.io/vtml-lists/covers/20027019.jpg</vtml-itemcover>
 		<vtml-itemurl>https://archive.org/download/videotime-cine-latino/La%20pelicula%20de%20Tigger.mp4</vtml-itemurl>
 		<vtml-itemdescription>Winnie Pooh, Piglet, Conejo, Búho, Cangu y Rito están construyéndole una casa a Igor, el burro tristón. Tigger molesta e incordia el grupo y Conejo, harto, le dice que se vaya con su familia, pero Tigger responde que es el único de su especie que existe. Después, intrigado por saber si hay más Tiggers en el mundo, se adentra en el bosque de los Cien Acres.</vtml-itemdescription>
+		<vtml-itemcategory>Animacion</vtml-itemcategory>
+	</vtml-mediaitem>
+	<vtml-mediaitem>
+		<vtml-itemname>La vida secreta de tus mascotas 1</vtml-itemname>    
+		<vtml-itemcover>https://aleapps.github.io/vtml-lists/covers/Poster-Pets.jpg</vtml-itemcover>
+		<vtml-itemurl>https://archive.org/download/videotime-cine-latino/La%20vida%20secreta%20de%20tus%20mascotas%201.mp4</vtml-itemurl>
+		<vtml-itemdescription>La vida secreta de seis mascotas y todo lo que hacen cuando sus dueños salen de la casa, desde mirar la televisión hasta vaciar la heladera, hasta que todo queda al descubierto.</vtml-itemdescription>
+		<vtml-itemcategory>Animacion</vtml-itemcategory>
+	</vtml-mediaitem>
+	<vtml-mediaitem>
+		<vtml-itemname>La vida secreta de tus mascotas 2</vtml-itemname>    
+		<vtml-itemcover>https://aleapps.github.io/vtml-lists/covers/D_HIL0KXkAA_s7m.jpg</vtml-itemcover>
+		<vtml-itemurl>https://archive.org/download/videotime-cine-latino/La%20vida%20secreta%20de%20tus%20mascotas%202.mp4</vtml-itemurl>
+		<vtml-itemdescription>Max, Gidget, Snowball y el resto de la pandilla emprenden nuevas aventuras y se esfuerzan por encontrar la valentía necesaria para ser sus propios héroes.</vtml-itemdescription>
 		<vtml-itemcategory>Animacion</vtml-itemcategory>
 	</vtml-mediaitem>
 	<vtml-mediaitem>
@@ -155,6 +348,17 @@
 		<vtml-itemcategory>Animacion</vtml-itemcategory>
 	</vtml-mediaitem>
 	<vtml-mediaitem>
+		<vtml-itemname>Los Minions</vtml-itemname>    
+		<vtml-itemcover>https://aleapps.github.io/vtml-lists/covers/10386770_292754860916551_7742320776576909657_n.jpg</vtml-itemcover>
+		<vtml-itemurl>https://archive.org/download/videotime-cine-latino/Los%20Minions.mp4</vtml-itemurl>
+		<vtml-itemdescription>La historia de los Minions, de los estudios de Universal Pictures e Illumination Entertainment, se remonta al origen de los tiempos. Desde sus inicios como organismos amarillos unicelulares, los Minions van evolucionando a lo largo de la historia, siempre al servicio de los amos más villanos. Sin embargo, ante su incapacidad para mantener a sus amos con vida, desde un Tiranosaurio Rex hasta Dracula, los Minions acaban sin nadie a quien servir y caen sumidos en una profunda depresión.
+
+Pero un Minion llamado Kevin tiene un plan: con la ayuda de Stuart, el adolescente rebelde, y del adorable Bob, decide lanzarse al mundo en busca de un nuevo amo villano a quien sus colegas puedan seguir.
+
+El trío se embarca en un apasionante viaje que acaba conduciéndolos a una posible nueva líder, Scarlet Overkill (Sandra Bullock), la primera mujer supervillana del mundo. Viajan desde la gélida Antártida hasta el Nueva York de los sesenta para acabar en el Londres actual, donde deberán afrontar el mayor desafío hasta la fecha: salvar a la raza Minion... de la aniquilación.</vtml-itemdescription>
+		<vtml-itemcategory>Animacion</vtml-itemcategory>
+	</vtml-mediaitem>
+	<vtml-mediaitem>
 		<vtml-itemname>Los Simpson: La pelicula</vtml-itemname>    
 		<vtml-itemcover>https://aleapps.github.io/vtml-lists/covers/Simpsonsmovie.jpg</vtml-itemcover>
 		<vtml-itemurl>https://archive.org/download/videotime-cine-latino/Los%20Simpson%20-%20La%20pelicula.mp4</vtml-itemurl>
@@ -173,6 +377,27 @@
 		<vtml-itemcover>https://aleapps.github.io/vtml-lists/covers/Megamente.jpg</vtml-itemcover>
 		<vtml-itemurl>https://archive.org/download/videotime-cine-latino/Megamente.mp4</vtml-itemurl>
 		<vtml-itemdescription>A pesar de que él es el supervillano más brillante que ha tenido el mundo, Megamente es el menos exitoso. Frustrado una y otra vez por el heroico Metro Man, Megamente se sorprende cuando logra superar a un enemigo de tanto tiempo. pero sin Metro Man, Megamente no tiene ningún propósito en la vida, por lo que crea a un nuevo oponente, quien rápidamente decide que es más divertido ser el malo que el héroe.</vtml-itemdescription>
+		<vtml-itemcategory>Animacion</vtml-itemcategory>
+	</vtml-mediaitem>
+	<vtml-mediaitem>
+		<vtml-itemname>Mi villano favorito 1</vtml-itemname>    
+		<vtml-itemcover>https://aleapps.github.io/vtml-lists/covers/Mi-villano-favorito-poster.jpg</vtml-itemcover>
+		<vtml-itemurl>https://archive.org/download/videotime-cine-latino/Mi%20villano%20favorito%201.mp4</vtml-itemurl>
+		<vtml-itemdescription>Mientras intenta cumplir su diabólico plan para robarse a la luna, un supervillano enfrenta su reto más grande, tres pequeñas huérfanas que desean convertirlo en su papá.</vtml-itemdescription>
+		<vtml-itemcategory>Animacion</vtml-itemcategory>
+	</vtml-mediaitem>
+	<vtml-mediaitem>
+		<vtml-itemname>Mi villano favorito 2</vtml-itemname>    
+		<vtml-itemcover>https://aleapps.github.io/vtml-lists/covers/Mi_Villano_Favorito_2_Poster_Ex_Latino_Cine_1.jpg</vtml-itemcover>
+		<vtml-itemurl>https://archive.org/download/videotime-cine-latino/Mi%20villano%20favorito%202.mp4</vtml-itemurl>
+		<vtml-itemdescription>Justo cuando Gru se instala en su nuevo papel como hombre de familia suburbano, la Liga Anti-Villanos lo envía en una misión para atrapar al autor de un robo espectacular.</vtml-itemdescription>
+		<vtml-itemcategory>Animacion</vtml-itemcategory>
+	</vtml-mediaitem>
+	<vtml-mediaitem>
+		<vtml-itemname>Mi villano favorito 3</vtml-itemname>    
+		<vtml-itemcover>https://aleapps.github.io/vtml-lists/covers/C66biKcVoAIySXG.jpg</vtml-itemcover>
+		<vtml-itemurl>https://archive.org/download/videotime-cine-latino/Mi%20villano%20favorito%203.mp4</vtml-itemurl>
+		<vtml-itemdescription>Gru se enfrentará a Balthazar Bratt, una antigua estrella infantil de la televisión en los años 80's quién al crecer se quedó obsesionado con el personaje que interpretaba en la televisión, pero años más tarde quedó en el olvido. Su obsesión por la fama le hizo cometer delitos para volver a ser famoso, convirtiéndose en villano. Mientras tanto, Gru se entera que tiene un hermano gemelo perdido desde hace tiempo, llamado Dru, el cual comenzará una rivalidad y al mismo tiempo establecer un lazo familiar.</vtml-itemdescription>
 		<vtml-itemcategory>Animacion</vtml-itemcategory>
 	</vtml-mediaitem>
 	<vtml-mediaitem>
@@ -216,6 +441,13 @@
 		<vtml-itemurl>https://archive.org/download/videotime-cine-latino/Rogue%20One%20-%20Una%20historia%20de%20Star%20Wars.mp4</vtml-itemurl>
 		<vtml-itemdescription>El Imperio va a construir una estación espacial capaz de destruir planetas, conocida como la Estrella de la Muerte. Los rebeldes, conocedores de esto, se embarcan en una misión extraordinaria: robar los planos y sabotear la estación.</vtml-itemdescription>
 		<vtml-itemcategory>Ciencia ficcion</vtml-itemcategory>
+	</vtml-mediaitem>
+	<vtml-mediaitem>
+		<vtml-itemname>Sing</vtml-itemname>    
+		<vtml-itemcover>https://aleapps.github.io/vtml-lists/covers/Sing_Ven_y_Canta_Poster_Latino_AR_JPosters.jpg</vtml-itemcover>
+		<vtml-itemurl>https://archive.org/download/videotime-cine-latino/Sing.mp4</vtml-itemurl>
+		<vtml-itemdescription>En un mundo de animales antropomorfos un koala llamado Buster Moon busca recuperar la gloria perdida de su teatro. Para conseguirlo convoca a un concurso de canto en el que se dará $100.000 al ganador. Siendo así acuden animales motivados por el dinero, la fama y la gran oportunidad de demostrar su talento.</vtml-itemdescription>
+		<vtml-itemcategory>Animacion</vtml-itemcategory>
 	</vtml-mediaitem>
 	<vtml-mediaitem>
 		<vtml-itemname>Soul</vtml-itemname>    
@@ -295,6 +527,20 @@
 		<vtml-itemcategory>Ciencia ficcion</vtml-itemcategory>
 	</vtml-mediaitem>
 	<vtml-mediaitem>
+		<vtml-itemname>Star Wars - Las guerras clonicas</vtml-itemname>    
+		<vtml-itemcover>https://aleapps.github.io/vtml-lists/covers/01-StarWarsGuerraClones_zps29b85da0.png</vtml-itemcover>
+		<vtml-itemurl>https://archive.org/download/videotime-cine-latino/Star%20Wars%20-%20Las%20guerras%20clonicas.mp4</vtml-itemurl>
+		<vtml-itemdescription>El caballero Anakin Skywalker y su joven padawan, Ahsoka Tano, serán los responsables de una importante misión que los enfrentara al temido criminal de Tattooine, Jabba el Hut. Además, otros obstáculos y enemigos como el Conde Dooku intentarán detener a los jóvenes Jedis.</vtml-itemdescription>
+		<vtml-itemcategory>Ciencia ficcion</vtml-itemcategory>
+	</vtml-mediaitem>
+	<vtml-mediaitem>
+		<vtml-itemname>Tom y Jerry (2021)</vtml-itemname>    
+		<vtml-itemcover>https://aleapps.github.io/vtml-lists/covers/FB_IMG_1608774917982.jpg</vtml-itemcover>
+		<vtml-itemurl>https://archive.org/download/videotime-cine-latino/Tom%20y%20Jerry%20%282021%29.mp4</vtml-itemurl>
+		<vtml-itemdescription>Una de las rivalidades más queridas de la historia se reaviva cuando Jerry, un ratón travieso que se ha instalado en el mejor hotel de la ciudad de Nueva York en vísperas de "la boda del siglo", obliga a la desesperada planificadora del evento, una joven empleada llamada Kayla, para contratar a un gato callejero llamado Tom para deshacerse de él. Sin embargo, la subsiguiente batalla del gato y el ratón amenaza con destruir su carrera, la boda y posiblemente el hotel en sí. Pero pronto, surge un problema aún mayor: un miembro del personal diabólicamente ambicioso que conspira contra los tres.</vtml-itemdescription>
+		<vtml-itemcategory>Animacion</vtml-itemcategory>
+	</vtml-mediaitem>
+	<vtml-mediaitem>
 		<vtml-itemname>Toy Story 1</vtml-itemname>    
 		<vtml-itemcover>https://aleapps.github.io/vtml-lists/covers/Toy_Story_poster.png</vtml-itemcover>
 		<vtml-itemurl>https://archive.org/download/videotime-cine-latino/Toy%20Story%201.mp4</vtml-itemurl>
@@ -323,11 +569,54 @@
 		<vtml-itemcategory>Animacion</vtml-itemcategory>
 	</vtml-mediaitem>
 	<vtml-mediaitem>
+		<vtml-itemname>Trolls 1</vtml-itemname>    
+		<vtml-itemcover>https://aleapps.github.io/vtml-lists/covers/Trolls_Logo.jpg</vtml-itemcover>
+		<vtml-itemurl>https://archive.org/download/videotime-cine-latino/Trolls%201.mp4</vtml-itemurl>
+		<vtml-itemdescription>Dos troles se embarcan en la aventura más grande de sus vidas cuando tienen que abandonar el único mundo que han conocido para rescatar a sus amigos.</vtml-itemdescription>
+		<vtml-itemcategory>Animacion</vtml-itemcategory>
+	</vtml-mediaitem>
+	<vtml-mediaitem>
+		<vtml-itemname>Trolls 2 - Gira mundial</vtml-itemname>    
+		<vtml-itemcover>https://aleapps.github.io/vtml-lists/covers/Trolls_world_tour.jpg</vtml-itemcover>
+		<vtml-itemurl>https://archive.org/download/videotime-cine-latino/Trolls%202%20-%20Gira%20mundial.mp4</vtml-itemurl>
+		<vtml-itemdescription>Cuando un rey y una reina del rock and roll se disponen a destruir otras formas de música, Poppy y Branch se embarcan en una osada misión de unir a seis tribus de trolls diferentes para salvar las diversas melodías y evitar que se extingan.</vtml-itemdescription>
+		<vtml-itemcategory>Animacion</vtml-itemcategory>
+	</vtml-mediaitem>
+	<vtml-mediaitem>
 		<vtml-itemname>Up</vtml-itemname>    
 		<vtml-itemcover>https://aleapps.github.io/vtml-lists/covers/Up-poster.jpg</vtml-itemcover>
 		<vtml-itemurl>https://archive.org/download/videotime-cine-latino/Up.mp4</vtml-itemurl>
 		<vtml-itemdescription>Carl Fredricksen es un vendedor de globos de 78 años de edad dispuesto a cumplir su sueño: atar miles de globos a su casa y volar a Sudamérica. Sin embargo, descubre demasiado tarde a un joven e inesperado polizón. Lo que en principio será recelo, acabará por tornarse simpatía hacia el muchacho mientras juntos pasan fascinantes aventuras en exóticos lugares.</vtml-itemdescription>
 		<vtml-itemcategory>Animacion</vtml-itemcategory>
+	</vtml-mediaitem>
+	<vtml-mediaitem>
+		<vtml-itemname>Volver al futuro 1</vtml-itemname>    
+		<vtml-itemcover>https://aleapps.github.io/vtml-lists/covers/Volver_al_Futuro_Poster.jpg</vtml-itemcover>
+		<vtml-itemurl>https://archive.org/download/videotime-cine-latino/Volver%20al%20futuro%201.mp4</vtml-itemurl>
+		<vtml-itemdescription>El adolescente Marty McFly es amigo de Doc, un científico al que todos toman por loco.
+
+Cuando Doc crea una máquina para viajar en el tiempo, un error fortuito hace que Marty llegue a 1955, año en el que sus futuros padres aún no se habían conocido. Después de impedir su primer encuentro, deberá conseguir que se conozcan y se casen; de lo contrario, su existencia no sería posible.</vtml-itemdescription>
+		<vtml-itemcategory>Ciencia ficcion</vtml-itemcategory>
+	</vtml-mediaitem>
+	<vtml-mediaitem>
+		<vtml-itemname>Volver al futuro 2</vtml-itemname>    
+		<vtml-itemcover>https://aleapps.github.io/vtml-lists/covers/Volver_al_Futuro_II_Poster.jpg</vtml-itemcover>
+		<vtml-itemurl>https://archive.org/download/videotime-cine-latino/Volver%20al%20futuro%202.mp4</vtml-itemurl>
+		<vtml-itemdescription>Aunque a Marty McFly todavía le falta tiempo para asimilar el hecho de estar viviendo dentro de la familia perfecta gracias a su anterior viaje en el tiempo, no le queda ni espacio para respirar cuando su amigo Doc aparece de improviso con la máquina del tiempo (mucho más modernizada), e insta a que le acompañen él y su novia a viajar al futuro para solucionar un problema con la ley que tendrá uno de sus futuros hijos.
+
+En la tremenda vorágine futurista, con todo lo que ello conlleva, del Hill Valley de 2015, la presencia de tales viajeros temporales causará un efecto mayor que el que iban a arreglar.
+
+Un almanaque deportivo y la posesión del secreto de la existencia de la máquina del tiempo por parte del siempre villano Biff Tannen, serán los ingredientes que conjugarán una causa-efecto en el pasado, en el presente y en el propio futuro, que hará que Marty y Doc se tengan que emplear a fondo para poner fin a la catástrofe a la que les lleva el destino.</vtml-itemdescription>
+		<vtml-itemcategory>Ciencia ficcion</vtml-itemcategory>
+	</vtml-mediaitem>
+	<vtml-mediaitem>
+		<vtml-itemname>Volver al futuro 3</vtml-itemname>    
+		<vtml-itemcover>https://aleapps.github.io/vtml-lists/covers/Volver_al_Futuro_III_Poster.jpg</vtml-itemcover>
+		<vtml-itemurl>https://archive.org/download/videotime-cine-latino/Volver%20al%20futuro%203.mp4</vtml-itemurl>
+		<vtml-itemdescription>¡Algo salió mal! Por culpa de un rayo, el Dr. Emmett Brown tuvo un viaje forzoso al pasado y quedó atrapado en el año 1885, exáctamente en el viejo oeste. Por lo que busca nuevamente ayuda del Doc del pasado para poder regresar a 1985 ya que Marty recibe una carta en la que el Doc le dice que se encuentra muy bien en el viejo oeste y que mejor regrese al futuro y destruya el DeLorean. Cuando van a una mina a rescatar el auto, Marty descubre una lápida en la que se lee que el Doc fue asesinado justo una semana después de haber escrito la carta que le envió y Marty decide evitar ese momento en el tiempo.
+
+Por lo que utiliza una vez más al fiel DeLorean para ir al viejo oeste en busca de su amigo. Al viajar de nuevo hacia atrás en el tiempo, Marty descubre que las cosas, aún siendo el Hill Valley del oeste, no cambian; como el Biff del pasado que es un forajido, líder de una banda de fascinerosos asaltantes. Y cuando están a punto de acabar con Marty, llega el Doc para rescatarlo, por lo que recibe una amenaza de muerte por parte de Biff (Buford). A partir de este punto, el futuro comienza a cambiar y es preciso que Marty convenza al Doc de regresar a 1985 pero con lo que no contaba era que el Doc se ha enamorado perdidamente de Clara Clayton y quiere pasar con ella los días que le queden de vida ¿Podrá Marty convencer al enamorado Doc de que no debe comprometer el pasado para que el futuro no se vea afectado?.</vtml-itemdescription>
+		<vtml-itemcategory>Ciencia ficcion</vtml-itemcategory>
 	</vtml-mediaitem>
 	<vtml-mediaitem>
 		<vtml-itemname>Wall-e</vtml-itemname>    
