@@ -22,9 +22,16 @@
 		<vtml-itemcategory>Peliculas</vtml-itemcategory>
 	</vtml-listitem>
 	<vtml-listitem>
+		<vtml-itemname>Peliculas de Disney y Pixar</vtml-itemname>    
+		<vtml-itemcover>https://aleapps.github.io/vtml-lists/covers/peliculasdedisneyypixar.png</vtml-itemcover>
+		<vtml-itemurl>https://aleapps.github.io/vtml-lists/peliculas-pixar.vml1</vtml-itemurl>
+		<vtml-itemdescription>Todas las peliculas de Disney y Pixar en audio latino</vtml-itemdescription>
+		<vtml-itemcategory>Peliculas</vtml-itemcategory>
+	</vtml-listitem>
+	<vtml-listitem>
 		<vtml-itemname>Capitulos de Bob Patiño</vtml-itemname>    
 		<vtml-itemcover>https://aleapps.github.io/vtml-lists/covers/capitulosdebobpatiño.png</vtml-itemcover>
-		<vtml-itemurl>https://listas-videotime.github.io/lista-simpson/Simpson_BobPatino.vml1</vtml-itemurl>
+		<vtml-itemurl>https://aleapps.github.io/vtml-lists/bob-patino.vml1</vtml-itemurl>
 		<vtml-itemdescription>Todos los capítulos de Los Simpson de Bob Patiño</vtml-itemdescription>
 		<vtml-itemcategory>Dibujos animados</vtml-itemcategory>
 	</vtml-listitem>
