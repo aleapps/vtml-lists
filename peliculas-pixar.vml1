@@ -71,6 +71,13 @@
 		<vtml-itemcategory>Animacion</vtml-itemcategory>
 	</vtml-mediaitem>
 	<vtml-mediaitem>
+		<vtml-itemname>Monsters, Inc.</vtml-itemname>    
+		<vtml-itemcover>https://aleapps.github.io/vtml-lists/covers/Monsterinc.jpg</vtml-itemcover>
+		<vtml-itemurl>https://archive.org/download/videotime-cine-latino/Monsters%20Inc..mp4</vtml-itemurl>
+		<vtml-itemdescription>Monsters Incorporated es la fábrica de sustos más grande en el mundo de los monstruos y James P. Sullivan junto a Mike Wazowski son el mejor equipo de asustadores. Pero cuando una niña humana llamada Boo llega al mundo de los monstruos, es deber de Sulley y Mike esconderla y regresarla a su mundo.</vtml-itemdescription>
+		<vtml-itemcategory>Animacion</vtml-itemcategory>
+	</vtml-mediaitem>
+	<vtml-mediaitem>
 		<vtml-itemname>Ratatouille</vtml-itemname>    
 		<vtml-itemcover>https://aleapps.github.io/vtml-lists/covers/C6b038f42ea34a14434144f3ea55e0a0--disney-movie-posters-disney-films.jpg</vtml-itemcover>
 		<vtml-itemurl>https://archive.org/download/videotime-cine-latino/Ratatouille.mp4</vtml-itemurl>
