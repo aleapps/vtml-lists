@@ -447,7 +447,7 @@
 		<vtml-itemcover>https://aleapps.github.io/vtml-lists/vtml-logos/TVPublica.png</vtml-itemcover>
 		<vtml-itemurl>https://g1.vxral-hor.transport.edge-access.net/b16/ngrp:c7_vivo01_dai_source-20001_all/c7_vivo01_dai_source-20001_720p.m3u8</vtml-itemurl>
 		<vtml-itemdescription>Canal de TV de Argentina</vtml-itemdescription>
-		<vtml-itemcategory>Noticias</vtml-itemcategory>
+		<vtml-itemcategory>Generales</vtml-itemcategory>
 		<vtmlpc-useragent>Mozilla/5.0 (Linux; Android 8.0.0; Pixel 2 XL Build/OPD1.170816.004) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.82 Mobile Safari/537.36</vtmlpc-useragent>
 		<vtmlpc-supportwmp>false</vtmlpc-supportwmp>
 	</vtml-mediaitem>
