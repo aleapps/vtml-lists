@@ -158,6 +158,13 @@ Mientras que pasaran por las aventuras de su vida, en donde conocerán a los mas
 		<vtml-itemcategory>Animacion</vtml-itemcategory>
 	</vtml-mediaitem>
 	<vtml-mediaitem>
+		<vtml-itemname>Leroy y Stitch</vtml-itemname>    
+		<vtml-itemcover>https://aleapps.github.io/vtml-lists/covers/Leroy_Y_Stitch-Caratula.jpg</vtml-itemcover>
+		<vtml-itemurl>https://archive.org/download/videotime-cine-latino/Leroy%20y%20Stitch.mp4</vtml-itemurl>
+		<vtml-itemdescription>Después de ser recompensados por capturar los 625 experimentos permitiéndoles escoger en qué lugar de la galaxia quieren residir, Lilo, Stitch, Pleakley, y Jumba se ven pronto involucrados en problemas al descubrir que el malvado Doctor Hamsterviel, ha escapado de prisión y obligado a Jumba a crear a Leroy, una malvada criatura con una insaciable sed de destrucción. Cuando el Doctor Hamsterviel comience a clonar a Leroy, con la esperanza de crear una poderosa arma con la que controlar el universo, Lilo, Stitch y el resto de sus amigos tendrán que unirse para conquistar y derrotar a unos poderosos enemigos.</vtml-itemdescription>
+		<vtml-itemcategory>Animacion</vtml-itemcategory>
+	</vtml-mediaitem>
+	<vtml-mediaitem>
 		<vtml-itemname>Lilo y Stitch 1</vtml-itemname>    
 		<vtml-itemcover>https://aleapps.github.io/vtml-lists/covers/Lilo-and-stitch.jpg</vtml-itemcover>
 		<vtml-itemurl>https://archive.org/download/videotime-cine-latino/Lilo%20y%20Stitch%201.mp4</vtml-itemurl>
