@@ -1,6 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <vtml-list>
 	<vtml-mediaitem>
+		<vtml-itemname>Babe, el cerdito en la ciudad</vtml-itemname>    
+		<vtml-itemcover>https://aleapps.github.io/vtml-lists/covers/Babe2.jpg</vtml-itemcover>
+		<vtml-itemurl>https://archive.org/download/videotime-cine-latino/Babe%20el%20cerdito%20en%20la%20ciudad.mp4</vtml-itemurl>
+		<vtml-itemdescription>Después de la gran victoria obtenida por el cerdito Babe en el concurso de pastoreo, su dueño, el granjero Arthur Hoggett, rechaza todas las ofertas que le hacen por Babe. Desgraciadamente, a causa de un accidente provocado por Babe, Arthur debe guardar cama, y su mujer Esme tendrá que ponerse al frente de la granja. Sin embargo, a pesar de sus esfuerzos, no consigue pagar las deudas que ha contraído con el banco. La única solución consiste en ir a la ciudad con Babe para participar en un concurso de mascotas que puede proporcionarle el dinero necesario para saldar sus cuentas con el banco..</vtml-itemdescription>
+		<vtml-itemcategory>Comedia</vtml-itemcategory>
+	</vtml-mediaitem>
+	<vtml-mediaitem>
+		<vtml-itemname>Babe, el cerdito valiente</vtml-itemname>    
+		<vtml-itemcover>https://aleapps.github.io/vtml-lists/covers/Babe.jpg</vtml-itemcover>
+		<vtml-itemurl>https://archive.org/download/videotime-cine-latino/Babe%20el%20cerdito%20valiente.mp4</vtml-itemurl>
+		<vtml-itemdescription>En la granja Hogget vive toda clase de animales. Cada animal atiene un trabajo que sabe como hacer y cada uno intenta hacerlo bien, porque sabe cual es su sitio. A la granja llega Babe, un cerdito que el granjero ha ganado en un concurso. Hogget siente que hay algo especial en Babe y decide enseñarle el oficio de perro pastor y de esta forma tan peculiar, Babe evita ser la cena de Navidad..</vtml-itemdescription>
+		<vtml-itemcategory>Comedia</vtml-itemcategory>
+	</vtml-mediaitem>
+	<vtml-mediaitem>
 		<vtml-itemname>Bailarina</vtml-itemname>    
 		<vtml-itemcover>https://aleapps.github.io/vtml-lists/covers/Bailarina_poster_3_mexico.jpg</vtml-itemcover>
 		<vtml-itemurl>https://archive.org/download/videotime-cine-latino/Bailarina.mp4</vtml-itemurl>
@@ -124,6 +138,15 @@
 		<vtml-itemcover>https://aleapps.github.io/vtml-lists/covers/El-gato-con-botas-cartel1.jpg</vtml-itemcover>
 		<vtml-itemurl>https://archive.org/download/videotime-cine-latino/El%20gato%20con%20botas.mp4</vtml-itemurl>
 		<vtml-itemdescription>El famoso gato tiene la aventura de su vida cuando une fuerzas con Humpty Dumpty y la gata Kitty para robarse al ganso de los huevos de oro.</vtml-itemdescription>
+		<vtml-itemcategory>Animacion</vtml-itemcategory>
+	</vtml-mediaitem>
+	<vtml-mediaitem>
+		<vtml-itemname>Enredados</vtml-itemname>    
+		<vtml-itemcover>https://aleapps.github.io/vtml-lists/covers/Tangled_Movie.jpg</vtml-itemcover>
+		<vtml-itemurl>https://archive.org/download/videotime-cine-latino/Enredados.mp4</vtml-itemurl>
+		<vtml-itemdescription>Rapunzel es una hermosa joven muy imaginativa y decidida, la cual a pasado toda su vida dentro de una torre, acompañara de su leal lagarto Pascar, desde niña ella a deseado ver en vivo las linternas flotantes, las cuales siempre aparecían en su cumpleaños. Por lo que un día cuando un apuesto ladrón, que se hace llamar Flynn Rider irrumpe en su torre, ella lo chantajeara para que la guié hacia las linternas flotantes.
+
+Mientras que pasaran por las aventuras de su vida, en donde conocerán a los mas divertidos personajes. Siendo seguidos de cerca por el mal encarnado, la "Mama" de Rapunzel.</vtml-itemdescription>
 		<vtml-itemcategory>Animacion</vtml-itemcategory>
 	</vtml-mediaitem>
 	<vtml-mediaitem>
@@ -412,6 +435,13 @@ El trío se embarca en un apasionante viaje que acaba conduciéndolos a una posi
 		<vtml-itemcover>https://aleapps.github.io/vtml-lists/covers/2945-los_tres_mosqueteros_mickey,_donald,_goofy_2004.jpg</vtml-itemcover>
 		<vtml-itemurl>https://archive.org/download/videotime-cine-latino/Mickey%2C%20Donald%20y%20Goofy%20-%20Los%20tres%20mosqueteros.mp4</vtml-itemurl>
 		<vtml-itemdescription>Mickey Mouse, Donald Duck y Goofy deben proteger a la princesa Minnie Mouse de un malévolo mosquetero.</vtml-itemdescription>
+		<vtml-itemcategory>Animacion</vtml-itemcategory>
+	</vtml-mediaitem>
+	<vtml-mediaitem>
+		<vtml-itemname>Monsters, Inc.</vtml-itemname>    
+		<vtml-itemcover>https://aleapps.github.io/vtml-lists/covers/Monsterinc.jpg</vtml-itemcover>
+		<vtml-itemurl>https://archive.org/download/videotime-cine-latino/Monsters%20Inc..mp4</vtml-itemurl>
+		<vtml-itemdescription>Monsters Incorporated es la fábrica de sustos más grande en el mundo de los monstruos y James P. Sullivan junto a Mike Wazowski son el mejor equipo de asustadores. Pero cuando una niña humana llamada Boo llega al mundo de los monstruos, es deber de Sulley y Mike esconderla y regresarla a su mundo.</vtml-itemdescription>
 		<vtml-itemcategory>Animacion</vtml-itemcategory>
 	</vtml-mediaitem>
 	<vtml-mediaitem>
