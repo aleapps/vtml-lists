@@ -1,6 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <vtml-list>
 	<vtml-mediaitem>
+		<vtml-itemname>Bichos</vtml-itemname>    
+		<vtml-itemcover>https://aleapps.github.io/vtml-lists/covers/Bugslife_full.jpg</vtml-itemcover>
+		<vtml-itemurl>https://archive.org/download/videotime-cine-latino/Bichos.mp4</vtml-itemurl>
+		<vtml-itemdescription>A un ritmo anual, una gran colonia de hormigas se ve obligada a recolectar cada pedazo de comida que crece en su isla para un grupo de saltamontes amenazadores. Pero todo cambia cuando una hormiga inventora inadaptada llamada Flik golpea accidentalmente la pila de ofrendas, lo que obliga a Hopper, el astuto líder de los saltamontes, a forzar a las hormigas a rehacer la recolección de alimentos. A pesar de que sus amigos no le creen y están desesperados por ayudar a salvar la colonia, Flik se ofrece como voluntario para salir al mundo y buscar un grupo de insectos &quot;guerreros&quot;. En cambio, lo que obtuvo fue un talentoso grupo de artistas de circo. Pero cuando los saltamontes regresan y toman el control de la isla, Flik debe demostrar que es un verdadero héroe antes de que sea demasiado tarde.
+Reparto: Dave Foley, Kevin Spacey, Julia Louis-Dreyfus, Hayden Panettiere</vtml-itemdescription>
+		<vtml-itemcategory>Animacion</vtml-itemcategory>
+	</vtml-mediaitem>
+	<vtml-mediaitem>
 		<vtml-itemname>Buscando a Dory</vtml-itemname>    
 		<vtml-itemcover>https://aleapps.github.io/vtml-lists/covers/12841455_1140712609283936_4849714733908815912_o.jpg</vtml-itemcover>
 		<vtml-itemurl>https://archive.org/download/videotime-cine-latino/Buscando%20a%20Dory.mp4</vtml-itemurl>
@@ -120,10 +128,33 @@
 		<vtml-itemcategory>Animacion</vtml-itemcategory>
 	</vtml-mediaitem>
 	<vtml-mediaitem>
+		<vtml-itemname>Un gran dinosaurio</vtml-itemname>    
+		<vtml-itemcover>https://aleapps.github.io/vtml-lists/covers/12113281_955636721141421_8896050317730003123_o.jpg</vtml-itemcover>
+		<vtml-itemurl>https://archive.org/download/videotime-cine-latino/Un%20gran%20dinosaurio.mp4</vtml-itemurl>
+		<vtml-itemdescription>Ambientada en una Tierra en la que los dinosaurios nunca se extinguieron (y son la especie dominante), la película sigue las aventuras de Arlo, un joven Apatosaurus que luego de un accidente es separado de su familia. Mientras Arlo trata de regresar a su casa conoce a Spot, un niño cavernícola que perdió a su familia.
+
+Juntos deberán viajar por lugares desconocidos y peligrosos escapando de animales deprededadores y los peligros de la naturaleza salvaje, mientras Arlo trata de volver a su casa y reunirse con su familia.</vtml-itemdescription>
+		<vtml-itemcategory>Animacion</vtml-itemcategory>
+	</vtml-mediaitem>
+	<vtml-mediaitem>
+		<vtml-itemname>Unidos</vtml-itemname>    
+		<vtml-itemcover>https://aleapps.github.io/vtml-lists/covers/Unidos_-_Poster_03.jpg</vtml-itemcover>
+		<vtml-itemurl>https://archive.org/download/videotime-cine-latino/Unidos.mp4</vtml-itemurl>
+		<vtml-itemdescription>Ambientado En un Mundo de fantasía suburbana, Dos hermanos elfos adolescentes, Ian y Barley Lightfood, se embarcan en una Aventura en la que se proponen descubrir si existe aún algo de magia en el mundo que les permita pasar un último día con su padre, que falleció cuando ellos eran aún muy pequeños como para poder recordarlo.</vtml-itemdescription>
+		<vtml-itemcategory>Animacion</vtml-itemcategory>
+	</vtml-mediaitem>
+	<vtml-mediaitem>
 		<vtml-itemname>Up</vtml-itemname>    
 		<vtml-itemcover>https://aleapps.github.io/vtml-lists/covers/Up-poster.jpg</vtml-itemcover>
 		<vtml-itemurl>https://archive.org/download/videotime-cine-latino/Up.mp4</vtml-itemurl>
 		<vtml-itemdescription>Carl Fredricksen es un vendedor de globos de 78 años de edad dispuesto a cumplir su sueño: atar miles de globos a su casa y volar a Sudamérica. Sin embargo, descubre demasiado tarde a un joven e inesperado polizón. Lo que en principio será recelo, acabará por tornarse simpatía hacia el muchacho mientras juntos pasan fascinantes aventuras en exóticos lugares.</vtml-itemdescription>
+		<vtml-itemcategory>Animacion</vtml-itemcategory>
+	</vtml-mediaitem>
+	<vtml-mediaitem>
+		<vtml-itemname>Valiente</vtml-itemname>    
+		<vtml-itemcover>https://aleapps.github.io/vtml-lists/covers/ValientePixarf.jpg</vtml-itemcover>
+		<vtml-itemurl>https://archive.org/download/videotime-cine-latino/Valiente.mp4</vtml-itemurl>
+		<vtml-itemdescription>Mérida, es una impulsiva y experta arquera, hija del Rey Fergus y de la Reina Elinor, que dispuesta a trazar su propio destino en la vida, decide romper con una antigua costumbre que la obliga a casarse con uno de los hijos de los señores de la tierra: El gigantesco Lord MacGuffin, el malhumorado Lord Macintosh y el cascarrabias Lord Dingwall. La actuación de Mérida desencadena, sin quererlo, el caos y la furia en el reino. Además, decide pedir ayuda a una anciana bruja que le concede un deseo muy poco afortunado. Los peligros desencadenados por el deseo obligan a Mérida a descubrir el significado de la auténtica valentí­a, en su esfuerzo por acabar con una terrible y bestial maldición antes de que sea demasiado tarde para salvar a su madre.</vtml-itemdescription>
 		<vtml-itemcategory>Animacion</vtml-itemcategory>
 	</vtml-mediaitem>
 	<vtml-mediaitem>
