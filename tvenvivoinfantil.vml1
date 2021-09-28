@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<vtml-list>
+	<vtml-mediaitem>
+		<vtml-itemname>Paka Paka</vtml-itemname>    
+		<vtml-itemcover>https://aleapps.github.io/vtml-lists/vtml-logos/PakaPaka.png</vtml-itemcover>
+		<vtml-itemurl>https://5fb24b460df87.streamlock.net/live-cont.ar/pakapaka/playlist.m3u8</vtml-itemurl>
+		<vtml-itemdescription>Canal de TV de Argentina</vtml-itemdescription>
+		<vtml-itemcategory>Infantil</vtml-itemcategory>
+	</vtml-mediaitem>
+	<vtml-mediaitem>
+		<vtml-itemname>Pequeradio TV</vtml-itemname>    
+		<vtml-itemcover>https://aleapps.github.io/vtml-lists/vtml-logos/PequeradioTV.png</vtml-itemcover>
+		<vtml-itemurl>https://canadaremar2.todostreaming.es/live/peque-pequetv.m3u8</vtml-itemurl>
+		<vtml-itemdescription>Canal de TV de España</vtml-itemdescription>
+		<vtml-itemcategory>Infantil</vtml-itemcategory>
+	</vtml-mediaitem>
+</vtml-list>

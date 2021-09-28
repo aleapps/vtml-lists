@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <vtml-group>
 	<vtml-listitem>
-		<vtml-itemname>TV Argentina</vtml-itemname>    
-		<vtml-itemcover>https://aleapps.github.io/vtml-lists/covers/tvargentina.png</vtml-itemcover>
-		<vtml-itemurl>https://aleapps.github.io/vtml-lists/tvargentina.vml1</vtml-itemurl>
-		<vtml-itemdescription>Canales de TV de Argentina en vivo</vtml-itemdescription>
-		<vtml-itemcategory>TV en vivo</vtml-itemcategory>
+		<vtml-itemname>Television en vivo</vtml-itemname>    
+		<vtml-itemcover>https://aleapps.github.io/vtml-lists/covers/televisionenvivo.png</vtml-itemcover>
+		<vtml-itemurl>https://aleapps.github.io/vtml-lists/televisionenvivo.vml1</vtml-itemurl>
+		<vtml-itemdescription>Canales de television de Argentina y el mundo en vivo</vtml-itemdescription>
+		<vtml-itemcategory>Television en vivo</vtml-itemcategory>
 	</vtml-listitem>
 	<vtml-listitem>
 		<vtml-itemname>Peliculas</vtml-itemname>    
@@ -18,14 +18,14 @@
 		<vtml-itemname>Peliculas de Disney</vtml-itemname>    
 		<vtml-itemcover>https://aleapps.github.io/vtml-lists/covers/peliculasdedisney.png</vtml-itemcover>
 		<vtml-itemurl>https://aleapps.github.io/vtml-lists/peliculas-disney.vml1</vtml-itemurl>
-		<vtml-itemdescription>Todas las peliculas de Disney en audio latino</vtml-itemdescription>
+		<vtml-itemdescription>Todas las peliculas de Disney en Español Latino</vtml-itemdescription>
 		<vtml-itemcategory>Peliculas</vtml-itemcategory>
 	</vtml-listitem>
 	<vtml-listitem>
 		<vtml-itemname>Peliculas de Disney y Pixar</vtml-itemname>    
 		<vtml-itemcover>https://aleapps.github.io/vtml-lists/covers/peliculasdedisneyypixar.png</vtml-itemcover>
 		<vtml-itemurl>https://aleapps.github.io/vtml-lists/peliculas-pixar.vml1</vtml-itemurl>
-		<vtml-itemdescription>Todas las peliculas de Disney y Pixar en audio latino</vtml-itemdescription>
+		<vtml-itemdescription>Todas las peliculas de Disney y Pixar en Español Latino</vtml-itemdescription>
 		<vtml-itemcategory>Peliculas</vtml-itemcategory>
 	</vtml-listitem>
 	<vtml-listitem>
@@ -33,34 +33,48 @@
 		<vtml-itemcover>https://aleapps.github.io/vtml-lists/covers/capitulosdebobpatiño.png</vtml-itemcover>
 		<vtml-itemurl>https://aleapps.github.io/vtml-lists/bob-patino.vml1</vtml-itemurl>
 		<vtml-itemdescription>Todos los capítulos de Los Simpson de Bob Patiño</vtml-itemdescription>
-		<vtml-itemcategory>Dibujos animados</vtml-itemcategory>
+		<vtml-itemcategory>Los Simpson</vtml-itemcategory>
 	</vtml-listitem>
 	<vtml-listitem>
-		<vtml-itemname>Especiales de La casa de Mickey Mouse</vtml-itemname>    
-		<vtml-itemcover>https://aleapps.github.io/vtml-lists/covers/LaCasadeMickeyMouse.jpg</vtml-itemcover>
+		<vtml-itemname>TV en vivo infantil</vtml-itemname>    
+		<vtml-itemcover>https://aleapps.github.io/vtml-lists/covers/tvenvivoinfantil.png</vtml-itemcover>
+		<vtml-itemurl>https://aleapps.github.io/vtml-lists/tvenvivoinfantil.vml1</vtml-itemurl>
+		<vtml-itemdescription>Canales de television infantiles en vivo</vtml-itemdescription>
+		<vtml-itemcategory>Telechancho Kids</vtml-itemcategory>
+	</vtml-listitem>
+	<vtml-listitem>
+		<vtml-itemname>Peliculas infantiles</vtml-itemname>    
+		<vtml-itemcover>https://aleapps.github.io/vtml-lists/covers/peliculasinfantiles.png</vtml-itemcover>
+		<vtml-itemurl>https://aleapps.github.io/vtml-lists/peliculas-infantiles.vml1</vtml-itemurl>
+		<vtml-itemdescription>Las mejores peliculas infantiles en audio latino</vtml-itemdescription>
+		<vtml-itemcategory>Telechancho Kids</vtml-itemcategory>
+	</vtml-listitem>
+	<vtml-listitem>
+		<vtml-itemname>La casa de Mickey Mouse</vtml-itemname>    
+		<vtml-itemcover>https://aleapps.github.io/vtml-lists/covers/lacasademickeymouse.png</vtml-itemcover>
 		<vtml-itemurl>https://aleapps.github.io/vtml-lists/especiales-mickey.vml1</vtml-itemurl>
-		<vtml-itemdescription>Los mejores capitulos especiales de La casa de Mickey Mouse</vtml-itemdescription>
-		<vtml-itemcategory>Dibujos animados</vtml-itemcategory>
+		<vtml-itemdescription>Los mejores capitulos de La casa de Mickey Mouse en Español Latino</vtml-itemdescription>
+		<vtml-itemcategory>Telechancho Kids</vtml-itemcategory>
 	</vtml-listitem>
 	<vtml-listitem>
 		<vtml-itemname>Las aventuras de Tintin</vtml-itemname>    
-		<vtml-itemcover>https://aleapps.github.io/vtml-lists/covers/LasAventurasDeTintin.jpg</vtml-itemcover>
+		<vtml-itemcover>https://aleapps.github.io/vtml-lists/covers/lasaventurasdetintin.png</vtml-itemcover>
 		<vtml-itemurl>https://aleapps.github.io/vtml-lists/tintin.vml1</vtml-itemurl>
 		<vtml-itemdescription>Todos los capítulos de Las aventuras de Tintin en Español</vtml-itemdescription>
-		<vtml-itemcategory>Dibujos animados</vtml-itemcategory>
+		<vtml-itemcategory>Telechancho Kids</vtml-itemcategory>
 	</vtml-listitem>
 	<vtml-listitem>
 		<vtml-itemname>La Pantera Rosa</vtml-itemname>    
-		<vtml-itemcover>https://aleapps.github.io/vtml-lists/covers/images.jpg</vtml-itemcover>
+		<vtml-itemcover>https://aleapps.github.io/vtml-lists/covers/lapanterarosa.png</vtml-itemcover>
 		<vtml-itemurl>https://aleapps.github.io/vtml-lists/panterarosa.vml1</vtml-itemurl>
 		<vtml-itemdescription>Todos los capítulos de La Pantera Rosa</vtml-itemdescription>
-		<vtml-itemcategory>Dibujos animados</vtml-itemcategory>
+		<vtml-itemcategory>Telechancho Kids</vtml-itemcategory>
 	</vtml-listitem>
 	<vtml-listitem>
 		<vtml-itemname>Looney Tunes</vtml-itemname>    
-		<vtml-itemcover>https://aleapps.github.io/vtml-lists/covers/looneytunes.png</vtml-itemcover>
+		<vtml-itemcover>https://aleapps.github.io/vtml-lists/covers/looneytunes2.png</vtml-itemcover>
 		<vtml-itemurl>https://aleapps.github.io/vtml-lists/looneytunes.vml1</vtml-itemurl>
 		<vtml-itemdescription>Todos los capítulos de los Looney Tunes en Español</vtml-itemdescription>
-		<vtml-itemcategory>Dibujos animados</vtml-itemcategory>
+		<vtml-itemcategory>Telechancho Kids</vtml-itemcategory>
 	</vtml-listitem>
 </vtml-group>
