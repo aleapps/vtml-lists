@@ -29,11 +29,32 @@
 		<vtml-itemcategory>Peliculas</vtml-itemcategory>
 	</vtml-listitem>
 	<vtml-listitem>
+		<vtml-itemname>Estrenos</vtml-itemname>    
+		<vtml-itemcover>https://aleapps.github.io/vtml-lists/covers/telechancho.png</vtml-itemcover>
+		<vtml-itemurl>https://aleapps.github.io/vtml-lists/estrenos.vml1</vtml-itemurl>
+		<vtml-itemdescription>Proximos estrenos de peliculas y series</vtml-itemdescription>
+		<vtml-itemcategory>Estrenos</vtml-itemcategory>
+	</vtml-listitem>
+	<vtml-listitem>
 		<vtml-itemname>Capitulos de Bob Patiño</vtml-itemname>    
 		<vtml-itemcover>https://aleapps.github.io/vtml-lists/covers/capitulosdebobpatiño.png</vtml-itemcover>
 		<vtml-itemurl>https://aleapps.github.io/vtml-lists/bob-patino.vml1</vtml-itemurl>
 		<vtml-itemdescription>Todos los capítulos de Los Simpson de Bob Patiño</vtml-itemdescription>
 		<vtml-itemcategory>Los Simpson</vtml-itemcategory>
+	</vtml-listitem>
+	<vtml-listitem>
+		<vtml-itemname>The Mandalorian - Temporada 1</vtml-itemname>    
+		<vtml-itemcover>https://aleapps.github.io/vtml-lists/covers/The_Mandalorian_Serie_de_TV-526462730-large.jpg</vtml-itemcover>
+		<vtml-itemurl>https://aleapps.github.io/vtml-lists/mandalorian-t1.vml1</vtml-itemurl>
+		<vtml-itemdescription>Temporada 1 de la serie The Mandalorian</vtml-itemdescription>
+		<vtml-itemcategory>Series</vtml-itemcategory>
+	</vtml-listitem>
+	<vtml-listitem>
+		<vtml-itemname>The Mandalorian - Temporada 2</vtml-itemname>    
+		<vtml-itemcover>https://aleapps.github.io/vtml-lists/covers/The_Mandalorian_Serie_de_TV-526462730-large.jpg</vtml-itemcover>
+		<vtml-itemurl>https://aleapps.github.io/vtml-lists/mandalorian-t2.vml1</vtml-itemurl>
+		<vtml-itemdescription>Temporada 2 de la serie The Mandalorian</vtml-itemdescription>
+		<vtml-itemcategory>Series</vtml-itemcategory>
 	</vtml-listitem>
 	<vtml-listitem>
 		<vtml-itemname>TV en vivo infantil</vtml-itemname>    
