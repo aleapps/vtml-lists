@@ -6,6 +6,7 @@
 		<vtml-itemurl>https://prepublish.f.qaotic.net/a07/americahls-100056/playlist_540p.m3u8</vtml-itemurl>
 		<vtml-itemdescription>Canal de TV de Argentina</vtml-itemdescription>
 		<vtml-itemcategory>Generales</vtml-itemcategory>
+		<vtml-uselegacystack>true</vtml-uselegacystack>
 	</vtml-mediaitem>
 	<vtml-mediaitem>
 		<vtml-itemname>America (HD)</vtml-itemname>    
@@ -13,6 +14,7 @@
 		<vtml-itemurl>https://prepublish.f.qaotic.net/a07/americahls-100056/playlist_720p.m3u8</vtml-itemurl>
 		<vtml-itemdescription>Canal de TV de Argentina</vtml-itemdescription>
 		<vtml-itemcategory>Generales</vtml-itemcategory>
+		<vtml-uselegacystack>true</vtml-uselegacystack>
 	</vtml-mediaitem>
 	<vtml-mediaitem>
 		<vtml-itemname>Canal de la Ciudad (SD)</vtml-itemname>    
