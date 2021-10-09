@@ -148,6 +148,20 @@
 		<vtml-itemcategory>Locales</vtml-itemcategory>
 	</vtml-mediaitem>
 	<vtml-mediaitem>
+		<vtml-itemname>Canal 3 Pinamar (Stream 1)</vtml-itemname>    
+		<vtml-itemcover>https://aleapps.github.io/vtml-lists/vtml-logos/CN3_2.png</vtml-itemcover>
+		<vtml-itemurl>http://www.intelintec.com.ar:9090/hls/canal3pinamar.m3u8</vtml-itemurl>
+		<vtml-itemdescription>Canal de TV de Argentina</vtml-itemdescription>
+		<vtml-itemcategory>Locales</vtml-itemcategory>
+	</vtml-mediaitem>
+	<vtml-mediaitem>
+		<vtml-itemname>Canal 3 Pinamar (Stream 2)</vtml-itemname>    
+		<vtml-itemcover>https://aleapps.github.io/vtml-lists/vtml-logos/CN3_2.png</vtml-itemcover>
+		<vtml-itemurl>https://wowza.telpin.com.ar:1935/canal3/canal3.stream/playlist.m3u8</vtml-itemurl>
+		<vtml-itemdescription>Canal de TV de Argentina</vtml-itemdescription>
+		<vtml-itemcategory>Locales</vtml-itemcategory>
+	</vtml-mediaitem>
+	<vtml-mediaitem>
 		<vtml-itemname>Canal 3 Rosario</vtml-itemname>    
 		<vtml-itemcover>https://aleapps.github.io/vtml-lists/vtml-logos/3Ros.png</vtml-itemcover>
 		<vtml-itemurl>https://59d52c5a5ce5e.streamlock.net:4443/canal3rosario/ngrp:canal3rosario_all/playlist.m3u8</vtml-itemurl>
@@ -340,20 +354,6 @@
 		<vtml-itemname>Ciudad TV Resistencia</vtml-itemname>    
 		<vtml-itemcover>https://aleapps.github.io/vtml-lists/vtml-logos/CiudadTVRes.png</vtml-itemcover>
 		<vtml-itemurl>http://coninfo.net:1935/chacodxdtv/live/playlist.m3u8</vtml-itemurl>
-		<vtml-itemdescription>Canal de TV de Argentina</vtml-itemdescription>
-		<vtml-itemcategory>Locales</vtml-itemcategory>
-	</vtml-mediaitem>
-	<vtml-mediaitem>
-		<vtml-itemname>CN3 Pinamar (Stream 1)</vtml-itemname>    
-		<vtml-itemcover>https://aleapps.github.io/vtml-lists/vtml-logos/CN3.png</vtml-itemcover>
-		<vtml-itemurl>http://www.intelintec.com.ar:9090/hls/canal3pinamar.m3u8</vtml-itemurl>
-		<vtml-itemdescription>Canal de TV de Argentina</vtml-itemdescription>
-		<vtml-itemcategory>Locales</vtml-itemcategory>
-	</vtml-mediaitem>
-	<vtml-mediaitem>
-		<vtml-itemname>CN3 Pinamar (Stream 2)</vtml-itemname>    
-		<vtml-itemcover>https://aleapps.github.io/vtml-lists/vtml-logos/CN3.png</vtml-itemcover>
-		<vtml-itemurl>https://wowza.telpin.com.ar:1935/canal3/canal3.stream/playlist.m3u8</vtml-itemurl>
 		<vtml-itemdescription>Canal de TV de Argentina</vtml-itemdescription>
 		<vtml-itemcategory>Locales</vtml-itemcategory>
 	</vtml-mediaitem>
