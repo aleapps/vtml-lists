@@ -57,6 +57,13 @@
 		<vtml-itemcategory>Series</vtml-itemcategory>
 	</vtml-listitem>
 	<vtml-listitem>
+		<vtml-itemname>Coleccion: Peliculas de Lilo y Stitch</vtml-itemname>    
+		<vtml-itemcover>https://aleapps.github.io/vtml-lists/covers/Lilo-and-stitch.jpg</vtml-itemcover>
+		<vtml-itemurl>https://aleapps.github.io/vtml-lists/peliculas-lilo-y-stitch.vml1</vtml-itemurl>
+		<vtml-itemdescription>Todas las peliculas de Lilo y Stitch en Español Latino</vtml-itemdescription>
+		<vtml-itemcategory>Colecciones</vtml-itemcategory>
+	</vtml-listitem>
+	<vtml-listitem>
 		<vtml-itemname>TV en vivo infantil</vtml-itemname>    
 		<vtml-itemcover>https://aleapps.github.io/vtml-lists/covers/tvenvivoinfantil.png</vtml-itemcover>
 		<vtml-itemurl>https://aleapps.github.io/vtml-lists/tvenvivoinfantil.vml1</vtml-itemurl>
