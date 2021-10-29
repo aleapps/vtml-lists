@@ -485,14 +485,6 @@
 		<vtml-itemcategory>Variedades</vtml-itemcategory>
 	</vtml-mediaitem>
 	<vtml-mediaitem>
-		<vtml-itemname>Ciudad Magazine</vtml-itemname>    
-		<vtml-itemcover>https://aleapps.github.io/vtml-lists/vtml-logos/Magazine.png</vtml-itemcover>
-		<vtml-itemurl>https://g1.mc-hor.transport.edge-access.net/a09/ngrp:magazine_live01-100083_all/magazine_live01-100083_720p.m3u8</vtml-itemurl>
-		<vtml-itemdescription>Canal de TV de Argentina</vtml-itemdescription>
-		<vtml-itemcategory>Variedades</vtml-itemcategory>
-		<vtml-useragent>Mozilla/5.0 (Linux; Android 8.0.0; Pixel 2 XL Build/OPD1.170816.004) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.82 Mobile Safari/537.36</vtml-useragent>
-	</vtml-mediaitem>
-	<vtml-mediaitem>
 		<vtml-itemname>Hola TV</vtml-itemname>    
 		<vtml-itemcover>https://aleapps.github.io/vtml-lists/vtml-logos/HolaTV.png</vtml-itemcover>
 		<vtml-itemurl>http://198.199.74.234/miniProxy.php/https://live.atresmediainternacional.com/ATRESMEDIA/holatv-720.m3u8</vtml-itemurl>
