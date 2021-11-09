@@ -1,10 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <videotime-mediaprovider>
-	<title>Bienvenido a Telechancho</title>
-	<description>Con Telechancho tenés TV en vivo, películas, series y más en tu dispositivo, totalmente gratis</description>
-	<logo>https://aleapps.github.io/vtml-lists/vtadd/res/logo.png</logo>
-	<intro-video>https://aleapps.github.io/vtml-lists/vtadd/res/introvideo.mp4</intro-video>
-	<master-list name="Telechancho">https://aleapps.github.io/vtml-lists/telechancho-play.vlg1</master-list>
+	<parameters>
+		<title>Bienvenido a Telechancho</title>
+		<description>Con Telechancho tenés TV en vivo, películas, series y más en tu dispositivo, totalmente gratis</description>
+		<logo>https://aleapps.github.io/vtml-lists/vtadd/res/logo.png</logo>
+		<intro-video>https://aleapps.github.io/vtml-lists/vtadd/res/introvideo.mp4</intro-video>
+		<master-list name="Telechancho">https://aleapps.github.io/vtml-lists/telechancho-play.vlg1</master-list>
+	</parameters>
+	<user-interface>
+		<hint-masterlist>Agregá Telechancho a tus listas en VideoTime:</hint-masterlist>
+		<hint-altlist>O bien, agregá alguna de las siguientes listas de contenido de Telechancho a tus listas en VideoTime:</hint-altlist>
+	</user-interface>
 	<alternate-lists>
 		<alt-list name="Telechancho - Television en vivo">https://aleapps.github.io/vtml-lists/televisionenvivo.vml1</alt-list>
 		<alt-list name="Telechancho - Peliculas">https://aleapps.github.io/vtml-lists/cine-latino.vml1</alt-list>
