@@ -64,18 +64,11 @@
 		<vtml-itemcategory>Colecciones</vtml-itemcategory>
 	</vtml-listitem>
 	<vtml-listitem>
-		<vtml-itemname>TV en vivo infantil</vtml-itemname>    
-		<vtml-itemcover>https://aleapps.github.io/vtml-lists/covers/tvenvivoinfantil.png</vtml-itemcover>
-		<vtml-itemurl>https://aleapps.github.io/vtml-lists/tvenvivoinfantil.vml1</vtml-itemurl>
-		<vtml-itemdescription>Canales de television infantiles en vivo</vtml-itemdescription>
-		<vtml-itemcategory>Telechancho Kids</vtml-itemcategory>
-	</vtml-listitem>
-	<vtml-listitem>
-		<vtml-itemname>Peliculas infantiles</vtml-itemname>    
-		<vtml-itemcover>https://aleapps.github.io/vtml-lists/covers/peliculasinfantiles.png</vtml-itemcover>
-		<vtml-itemurl>https://aleapps.github.io/vtml-lists/peliculas-infantiles.vml1</vtml-itemurl>
-		<vtml-itemdescription>Las mejores peliculas infantiles en audio latino</vtml-itemdescription>
-		<vtml-itemcategory>Telechancho Kids</vtml-itemcategory>
+		<vtml-itemname>Miniclips de Telechancho</vtml-itemname>    
+		<vtml-itemcover>https://aleapps.github.io/vtml-lists/covers/miniclips.png</vtml-itemcover>
+		<vtml-itemurl>https://aleapps.github.io/vtml-lists/miniclips.vml1</vtml-itemurl>
+		<vtml-itemdescription>Los mejores cortos del momento los encontras en Telechancho</vtml-itemdescription>
+		<vtml-itemcategory>Colecciones</vtml-itemcategory>
 	</vtml-listitem>
 	<vtml-listitem>
 		<vtml-itemname>La casa de Mickey Mouse</vtml-itemname>    
