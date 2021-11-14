@@ -8,8 +8,15 @@
 		<vtml-itemcategory>Miniclips</vtml-itemcategory>
 	</vtml-mediaitem>
 	<vtml-mediaitem>
+		<vtml-itemname>Hola, Alberto</vtml-itemname>    
+		<vtml-itemcover>https://aleapps.github.io/vtml-lists/miniclips/covers/Holaalbertoposter.jpg</vtml-itemcover>
+		<vtml-itemurl>https://archive.org/download/telechancho-miniclips/Hola%20Alberto.mp4</vtml-itemurl>
+		<vtml-itemdescription>¡Regresa a Portorosso!, donde Alberto se quedó luego de que Luca se fuera a estudiar con Giulia. El amigo ahora disfruta su nueva vida en la superficie trabajando para su compañero Massimo al cual tratará de impresionar aprendiendo nuevas habilidades que lo llevarán a ser el mejor pescador de todos.</vtml-itemdescription>
+		<vtml-itemcategory>Miniclips</vtml-itemcategory>
+	</vtml-mediaitem>
+	<vtml-mediaitem>
 		<vtml-itemname>Las aventuras de Ned Flanders</vtml-itemname>    
-		<vtml-itemcover>https://aleapps.github.io/vtml-lists/miniclips/covers/LADNF.png</vtml-itemcover>
+		<vtml-itemcover>https://aleapps.github.io/vtml-lists/miniclips/covers/the_adventures_of_ned_flanders.jpg</vtml-itemcover>
 		<vtml-itemurl>https://archive.org/download/telechancho-miniclips/Las%20aventuras%20de%20Ned%20Flanders.mp4</vtml-itemurl>
 		<vtml-itemdescription>Disfruta del corto "Las aventuras de Ned Flanders" en Telechancho</vtml-itemdescription>
 		<vtml-itemcategory>Miniclips</vtml-itemcategory>
