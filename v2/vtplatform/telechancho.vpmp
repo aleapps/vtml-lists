@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<videotime-platform-mediaprovider>
+	<parameters>
+		<title>Bienvenido a Telechancho</title>
+		<description>Con Telechancho tenés TV en vivo, películas, series y más en tu dispositivo, totalmente gratis</description>
+		<logo>https://aleapps.github.io/vtml-lists/v2/vtplatform/res/logo.png</logo>
+		<intro-video>https://aleapps.github.io/vtml-lists/v2/vtplatform/res/introvideo.mp4</intro-video>
+		<media-lists>
+			<list name="Telechancho" description="Todo el contenido de Telechancho disponible en un solo lugar">https://aleapps.github.io/vtml-lists/telechancho-play.vlg1</list>
+			<list name="Telechancho Kids" description="Contenido seleccionado especialmente para los mas pequeños">https://aleapps.github.io/vtml-lists/telechancho-kids.vlg1</list>
+		</media-lists>
+	</parameters>
+</videotime-platform-mediaprovider>
