@@ -29,6 +29,13 @@
 		<vtml-itemcategory>Colecciones</vtml-itemcategory>
 	</vtml-listitem>
 	<vtml-listitem>
+		<vtml-itemname>Telechancho Specials</vtml-itemname>    
+		<vtml-itemcover>https://aleapps.github.io/vtml-lists/covers/telechancho.png</vtml-itemcover>
+		<vtml-itemurl>https://aleapps.github.io/vtml-lists/specials.vml1</vtml-itemurl>
+		<vtml-itemdescription>Los mejores especiales del momento los encontras en Telechancho</vtml-itemdescription>
+		<vtml-itemcategory>Colecciones</vtml-itemcategory>
+	</vtml-listitem>
+	<vtml-listitem>
 		<vtml-itemname>La casa de Mickey Mouse</vtml-itemname>    
 		<vtml-itemcover>https://aleapps.github.io/vtml-lists/covers/lacasademickeymouse.png</vtml-itemcover>
 		<vtml-itemurl>https://aleapps.github.io/vtml-lists/especiales-mickey.vml1</vtml-itemurl>
