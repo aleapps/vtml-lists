@@ -943,6 +943,14 @@ El trío se embarca en un apasionante viaje que acaba conduciéndolos a una posi
 		<cineinfo-copyright>© Lucasfilm Ltd.</cineinfo-copyright>
 	</vtml-mediaitem>
 	<vtml-mediaitem>
+		<vtml-itemname>Ron da error</vtml-itemname>    
+		<vtml-itemcover>https://aleapps.github.io/vtml-lists/covers/E-2ty9hWEAojMgu.jpg</vtml-itemcover>
+		<vtml-itemurl>https://archive.org/download/videotime-cine-latino/Ron%20da%20error.mp4</vtml-itemurl>
+		<vtml-itemdescription>Ambientada en un mundo donde los robots se han convertido en los mejores amigos de los niños, la película cuenta la historia de un niño de 11 años que descubre que su amigo robot no funciona del todo.</vtml-itemdescription>
+		<vtml-itemcategory>Animacion</vtml-itemcategory>
+		<vtml-backdrop>https://aleapps.github.io/vtml-lists/backdrops/movies/72A.png</vtml-backdrop>
+	</vtml-mediaitem>
+	<vtml-mediaitem>
 		<vtml-itemname>Sing</vtml-itemname>    
 		<vtml-itemcover>https://aleapps.github.io/vtml-lists/covers/Sing_Ven_y_Canta_Poster_Latino_AR_JPosters.jpg</vtml-itemcover>
 		<vtml-itemurl>https://archive.org/download/videotime-cine-latino/Sing.mp4</vtml-itemurl>
