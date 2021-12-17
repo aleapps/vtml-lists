@@ -94,7 +94,7 @@
 	<vtml-mediaitem>
 		<vtml-itemname>Informacion Periodistica</vtml-itemname>    
 		<vtml-itemcover>https://aleapps.github.io/vtml-lists/vtml-logos/IP.png</vtml-itemcover>
-		<vtml-itemurl>https://d1nmqgphjn0y4.cloudfront.net/live/ip/live.isml/live-audio_1=128000-video=4499968.m3u8</vtml-itemurl>
+		<vtml-itemurl>https://d1nmqgphjn0y4.cloudfront.net/live/ip/live.isml/5ee6e167-1167-4a85-9d8d-e08a3f55cff3.m3u8</vtml-itemurl>
 		<vtml-itemdescription>Canal de TV de Argentina</vtml-itemdescription>
 		<vtml-itemcategory>Noticias</vtml-itemcategory>
 	</vtml-mediaitem>
