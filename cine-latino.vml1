@@ -323,6 +323,18 @@ Reparto: Dave Foley, Kevin Spacey, Julia Louis-Dreyfus, Hayden Panettiere</vtml-
 		<cineinfo-copyright>© DreamWorks Animation LLC</cineinfo-copyright>
 	</vtml-mediaitem>
 	<vtml-mediaitem>
+		<vtml-itemname>Encanto</vtml-itemname>    
+		<vtml-itemcover>https://aleapps.github.io/vtml-lists/covers/243174229_4489065134465211_309276336895983244_n.jpg</vtml-itemcover>
+		<vtml-itemurl>https://archive.org/download/videotime-cine-latino/Encanto.mp4</vtml-itemurl>
+		<vtml-itemdescription>Una joven colombiana puede ser la última esperanza para su familia, cuando descubre que la magia que rodea a Encanto, un lugar encantado que bendice a los niños con dones únicos, se encuentra en serio peligro.</vtml-itemdescription>
+		<vtml-itemcategory>Animacion</vtml-itemcategory>
+		<vtml-backdrop>https://aleapps.github.io/vtml-lists/backdrops/movies/22A.png</vtml-backdrop>
+		<cineinfo-language>Español Latino</cineinfo-language>
+		<cineinfo-year>2021</cineinfo-year>
+		<cineinfo-producer>Walt Disney Pictures</cineinfo-producer>
+		<cineinfo-copyright>© Disney</cineinfo-copyright>
+	</vtml-mediaitem>
+	<vtml-mediaitem>
 		<vtml-itemname>Enredados</vtml-itemname>    
 		<vtml-itemcover>https://aleapps.github.io/vtml-lists/covers/Tangled_Movie.jpg</vtml-itemcover>
 		<vtml-itemurl>https://archive.org/download/videotime-cine-latino/Enredados.mp4</vtml-itemurl>

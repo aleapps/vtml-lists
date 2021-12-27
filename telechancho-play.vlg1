@@ -29,13 +29,6 @@
 		<vtml-itemcategory>Peliculas</vtml-itemcategory>
 	</vtml-listitem>
 	<vtml-listitem>
-		<vtml-itemname>Estrenos</vtml-itemname>    
-		<vtml-itemcover>https://aleapps.github.io/vtml-lists/covers/telechancho.png</vtml-itemcover>
-		<vtml-itemurl>https://aleapps.github.io/vtml-lists/estrenos.vml1</vtml-itemurl>
-		<vtml-itemdescription>Proximos estrenos de peliculas y series</vtml-itemdescription>
-		<vtml-itemcategory>Estrenos</vtml-itemcategory>
-	</vtml-listitem>
-	<vtml-listitem>
 		<vtml-itemname>Capitulos de Bob Patiño</vtml-itemname>    
 		<vtml-itemcover>https://aleapps.github.io/vtml-lists/covers/capitulosdebobpatiño.png</vtml-itemcover>
 		<vtml-itemurl>https://aleapps.github.io/vtml-lists/bob-patino.vml1</vtml-itemurl>
