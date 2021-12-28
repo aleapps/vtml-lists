@@ -276,35 +276,35 @@
 	<vtml-mediaitem>
 		<vtml-itemname>Canal 79 La Costa</vtml-itemname>    
 		<vtml-itemcover>https://aleapps.github.io/vtml-lists/vtml-logos/Canal79.png</vtml-itemcover>
-		<vtml-itemurl>https://5f6e1fe8f2d2e.streamlock.net/lacosta/lacosta/playlist.m3u8</vtml-itemurl>
+		<vtml-itemurl>https://www.streamconex.com:1936/lacosta/lacosta/playlist.m3u8</vtml-itemurl>
 		<vtml-itemdescription>Canal de TV de Argentina</vtml-itemdescription>
 		<vtml-itemcategory>Locales</vtml-itemcategory>
 	</vtml-mediaitem>
 	<vtml-mediaitem>
 		<vtml-itemname>Canal 79 Mar del Plata</vtml-itemname>    
 		<vtml-itemcover>https://aleapps.github.io/vtml-lists/vtml-logos/Canal79.png</vtml-itemcover>
-		<vtml-itemurl>https://5f6e1fe8f2d2e.streamlock.net/mardelplata/mardelplata/playlist.m3u8</vtml-itemurl>
+		<vtml-itemurl>https://www.streamconex.com:1936/mardelplata/mardelplata/playlist.m3u8</vtml-itemurl>
 		<vtml-itemdescription>Canal de TV de Argentina</vtml-itemdescription>
 		<vtml-itemcategory>Locales</vtml-itemcategory>
 	</vtml-mediaitem>
 	<vtml-mediaitem>
 		<vtml-itemname>Canal 79 Puan</vtml-itemname>    
 		<vtml-itemcover>https://aleapps.github.io/vtml-lists/vtml-logos/Canal79.png</vtml-itemcover>
-		<vtml-itemurl>https://5f6e1fe8f2d2e.streamlock.net/puan/puan/playlist.m3u8</vtml-itemurl>
+		<vtml-itemurl>https://www.streamconex.com:1936/puan/puan/playlist.m3u8</vtml-itemurl>
 		<vtml-itemdescription>Canal de TV de Argentina</vtml-itemdescription>
 		<vtml-itemcategory>Locales</vtml-itemcategory>
 	</vtml-mediaitem>
 	<vtml-mediaitem>
 		<vtml-itemname>Canal 79 San Juan</vtml-itemname>    
 		<vtml-itemcover>https://aleapps.github.io/vtml-lists/vtml-logos/Canal79.png</vtml-itemcover>
-		<vtml-itemurl>https://5f6e1fe8f2d2e.streamlock.net/sanjuan/sanjuan/playlist.m3u8</vtml-itemurl>
+		<vtml-itemurl>https://www.streamconex.com:1936/sanjuan/sanjuan/playlist.m3u8</vtml-itemurl>
 		<vtml-itemdescription>Canal de TV de Argentina</vtml-itemdescription>
 		<vtml-itemcategory>Locales</vtml-itemcategory>
 	</vtml-mediaitem>
 	<vtml-mediaitem>
 		<vtml-itemname>Canal 79 Santa Clara del Mar</vtml-itemname>    
 		<vtml-itemcover>https://aleapps.github.io/vtml-lists/vtml-logos/Canal79.png</vtml-itemcover>
-		<vtml-itemurl>https://5f6e1fe8f2d2e.streamlock.net/santaclara/santaclara/playlist.m3u8</vtml-itemurl>
+		<vtml-itemurl>https://www.streamconex.com:1936/santaclara/santaclara/playlist.m3u8</vtml-itemurl>
 		<vtml-itemdescription>Canal de TV de Argentina</vtml-itemdescription>
 		<vtml-itemcategory>Locales</vtml-itemcategory>
 	</vtml-mediaitem>
@@ -444,7 +444,7 @@
 	<vtml-mediaitem>
 		<vtml-itemname>XFN Canal 41 Mar del Plata</vtml-itemname>    
 		<vtml-itemcover>https://aleapps.github.io/vtml-lists/vtml-logos/XFN.png</vtml-itemcover>
-		<vtml-itemurl>https://5f6e1fe8f2d2e.streamlock.net/canalxfn/canalxfn/playlist.m3u8</vtml-itemurl>
+		<vtml-itemurl>https://www.streamconex.com:1936/canalxfn/canalxfn/playlist.m3u8</vtml-itemurl>
 		<vtml-itemdescription>Canal de TV de Argentina</vtml-itemdescription>
 		<vtml-itemcategory>Locales</vtml-itemcategory>
 	</vtml-mediaitem>
