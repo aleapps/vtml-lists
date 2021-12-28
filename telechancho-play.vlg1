@@ -29,6 +29,13 @@
 		<vtml-itemcategory>Peliculas</vtml-itemcategory>
 	</vtml-listitem>
 	<vtml-listitem>
+		<vtml-itemname>Dupla super especial Luca + Encanto</vtml-itemname>    
+		<vtml-itemcover>https://aleapps.github.io/vtml-lists/orangepages/duplalucaencanto.png</vtml-itemcover>
+		<vtml-itemurl>https://aleapps.github.io/vtml-lists/duplalucaencanto.vml1</vtml-itemurl>
+		<vtml-itemdescription>Paginas Naranjas VideoTime y Telechancho te traen una dupla super especial, Luca + Encanto en una sola lista</vtml-itemdescription>
+		<vtml-itemcategory>Colecciones</vtml-itemcategory>
+	</vtml-listitem>
+	<vtml-listitem>
 		<vtml-itemname>Capitulos de Bob Patiño</vtml-itemname>    
 		<vtml-itemcover>https://aleapps.github.io/vtml-lists/covers/capitulosdebobpatiño.png</vtml-itemcover>
 		<vtml-itemurl>https://aleapps.github.io/vtml-lists/bob-patino.vml1</vtml-itemurl>
