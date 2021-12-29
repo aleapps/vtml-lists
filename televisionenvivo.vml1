@@ -120,6 +120,14 @@
 		<vtml-itemcategory>Locales</vtml-itemcategory>
 	</vtml-mediaitem>
 	<vtml-mediaitem>
+		<vtml-itemname>AVC HD</vtml-itemname>    
+		<vtml-itemcover>https://aleapps.github.io/vtml-lists/vtml-logos/AVC.png</vtml-itemcover>
+		<vtml-itemurl>https://tna5.bozztv.com/AVCHD/index.m3u8</vtml-itemurl>
+		<vtml-itemdescription>Canal de TV de Argentina</vtml-itemdescription>
+		<vtml-itemcategory>Locales</vtml-itemcategory>
+		<vtml-referer>https://ssh101.com/</vtml-referer>
+	</vtml-mediaitem>
+	<vtml-mediaitem>
 		<vtml-itemname>Camaras de Villa Gesell (Av. 3 y 104)</vtml-itemname>    
 		<vtml-itemcover>https://aleapps.github.io/vtml-lists/vtml-logos/VillaGesell.jpg</vtml-itemcover>
 		<vtml-itemurl>http://cam104y3.gesell.com.ar/playlist.m3u8</vtml-itemurl>
